@@ -1,0 +1,1063 @@
+Zkia	Urtea	Data	Ordua	Igorlea	Izena	URL	Artista	Abestia		
+1	2020	21/09/2020	23:43	BB	Buli Bilbao	https://m.youtube.com/watch?v=Vz82ukiUmw0	Nathaniel Rateliff 	You Need Me (Official Audio)		
+2	2020	01/10/2020	23:20	LG	Leire Gonzalez	https://youtu.be/gGGEIbgKQNM	Jurgi Ekiza	Gau eta Egunen Erritmoan		
+3	2020	05/10/2020	10:27	BB	Buli Bilbao	https://youtu.be/yfySK7CLEEg	The National 	Bloodbuzz Ohio (Official Video)		
+4	2020	15/10/2020	09:11	BB	Buli Bilbao	https://youtu.be/AQyLEz0qy-g	Bruce Springsteen 	Letter To You (Official Video)		
+5	2020	19/10/2020	22:17	BB	Buli Bilbao	https://www.youtube.com/watch?v=5WybiA263bw	U2 	Sweetest Thing (Official Music Video)		
+6	2020	25/10/2020	12:13	BB	Buli Bilbao	https://www.youtube.com/watch?v=r9Wi5ff4pNw	Bruce Springsteen 	I'll See You In My Dreams (Official Audio)		
+7	2020	25/10/2020	14:45	BB	Buli Bilbao	https://www.youtube.com/watch?v=BtRgHPZ307E	Bruce Springsteen	If I Was The Priest		
+8	2020	26/10/2020	22:31	BB	Buli Bilbao	https://youtu.be/I7wip0eYQCU	The Rolling Stones & Eddie Vedder 	Wild Horses 		
+9	2020	10/11/2020	11:56	LG	Leire Gonzalez	https://youtu.be/V2y2mitaNo4	Habi, Yeray Gascón Sanchez, Jon Ander Artola Oyarzabal	Belea		
+10	2020	16/11/2020	22:19	BB	Buli Bilbao	https://youtu.be/lML2N4xB9GU	The Pretenders	Creep		
+11	2020	17/11/2020	23:23	LG	Leire Gonzalez	https://youtu.be/PSCul8lplK0	HABI 	PAREIDOLIA (KOLOREAK, 2020)		
+12	2020	19/11/2020	22:17	LG	Leire Gonzalez	https://youtu.be/aMZ4QL0orw0	Michael Kiwanuka 	Love & Hate (Live In Session At RAK Studios / 2016)		
+13	2020	22/11/2020	17:27	LG	Leire Gonzalez	https://youtu.be/fb_S4aWI6Og	Michael Kiwanuka 	Hero (Official Video)		
+14	2020	26/11/2020	22:55	LG	Leire Gonzalez	https://youtu.be/7Q5JPYvBgVk	Belako 	Tie Me Up (Official Music Video)		
+15	2020	02/12/2020	10:12	BB	Buli Bilbao	https://youtu.be/ySzrJ4GRF7s	Soundgarden 	Fell On Black Days		
+16	2020	02/12/2020	23:17	LG	Leire Gonzalez	https://youtu.be/zVJtWhkA6rg	David Bazan 	Strange Negotiations (Live on KEXP)		
+17	2020	07/12/2020	22:28	BB	Buli Bilbao	https://youtu.be/28KEs9xq6X0	Lead Belly 	Black Girl (Where Did You Sleep Last Night)		
+18	2020	08/12/2020	02:28	BB	Buli Bilbao	https://m.youtube.com/watch?v=vd1IOcdY9KM	Muddy Waters 	Still a Fool		
+19	2020	08/12/2020	19:59	LG	Leire Gonzalez	https://youtu.be/wvckMSl90ug	Gorka Urbizu	JOSU SOS ELKARTASUN JAIALDIA     		
+20	2020	10/12/2020	22:24	LG	Leire Gonzalez	https://youtu.be/nHHJRxqBm5g	Damien Jurado	Everything Trying		
+21	2020	11/12/2020	22:35	BB	Buli Bilbao	https://m.youtube.com/watch?v=8L63q3bR3Jw	Pearl Jam 	Wishlist		
+22	2020	11/12/2020	22:35	BB	Buli Bilbao	https://m.youtube.com/watch?v=uvjTo-hRD5c	Pearl Jam	Last Kiss		
+23	2020	11/12/2020	22:36	BB	Buli Bilbao	https://m.youtube.com/watch?v=uvjTo-hRD5c	Pearl Jam	Last Kiss		
+24	2020	12/12/2020	21:59	BB	Buli Bilbao	https://m.youtube.com/watch?v=4TsqlT0rfJI	Nirvana 	Rape Me (Live And Loud, Seattle / 1993)		
+25	2020	13/12/2020	01:55	BB	Buli Bilbao	https://m.youtube.com/watch?v=NfJClCBEk-w	Pearl jam 	Come Back (Studio version)		
+26	2020	13/12/2020	22:33	BB	Buli Bilbao	https://www.youtube.com/watch?v=3dOx510kyOs	The Cars 	You Might Think (Official Music Video)		
+27	2020	14/12/2020	22:23	BB	Buli Bilbao	https://www.youtube.com/watch?v=YaIvy6nQEcw	Chris Cornell	Patience		
+28	2020	15/12/2020	22:15	BB	Buli Bilbao	https://youtu.be/oG6fayQBm9w	Lou Reed 	Walk on the Wild Side (Official Audio)		
+29	2020	16/12/2020	21:49	BB	Buli Bilbao	https://m.youtube.com/watch?v=AzqmVa6n-es	Nathaniel Rateliff & The Night Sweats 	Howling At Nothing		
+30	2020	17/12/2020	22:12	LG	Leire Gonzalez	https://youtu.be/TmafgZcoXlQ	Leonard Cohen	Chelsea Hotel #2		
+31	2020	17/12/2020	22:12	LG	Leire Gonzalez	https://youtu.be/NW7oNpzBSGc	Leonard Cohen 	In My Secret Life (Official Video)		
+32	2020	17/12/2020	23:37	BB	Buli Bilbao	https://m.youtube.com/watch?v=sA8PaIw5gcE	Jack's Mannequin	Swim (OFFICIAL MUSIC VIDEO)		
+33	2020	18/12/2020	22:28	BB	Buli Bilbao	https://youtu.be/SOgVoxqKU7U	David Bowie	Rock 'n' Roll Suicide (2012 Remaster)		
+34	2020	18/12/2020	22:28	BB	Buli Bilbao	https://www.youtube.com/watch?v=QIBDX9ldplY	David Bowie	Suffragette City (2012 Remaster)		
+35	2020	19/12/2020	22:44	BB	Buli Bilbao	https://www.youtube.com/watch?v=NwNuQulK6N0	Creedence Clearwater Revival 	Someday Never Comes		
+36	2020	20/12/2020	23:01	BB	Buli Bilbao	https://youtu.be/pPR-HyGj2d0	Patti Smith 	People Have The Power (Official Audio)		
+37	2020	21/12/2020	22:28	BB	Buli Bilbao	https://youtu.be/P9_hegaKOaY	Iggy Pop & The Stooges 	Gimme Danger		
+38	2020	23/12/2020	21:54	BB	Buli Bilbao	https://m.youtube.com/watch?v=tPgf_btTFlc	Pixies 	Here Comes Your Man (Official Video)		
+39	2020	25/12/2020	01:05	LG	Leire Gonzalez	https://youtu.be/bWgWKdqoJmo	Tash Sultana 	Jungle, extended version (Live at The Current)		
+40	2020	28/12/2020	22:51	LG	Leire Gonzalez	https://youtu.be/e7jdEUJ4lco	Martin Sexton	Purple Rain		
+41	2020	28/12/2020	22:59	BB	Buli Bilbao	https://youtu.be/tgXMqOlsoyg	Prince	Strange Relationship (Piano & A Microphone 1983 Version)		
+42	2020	28/12/2020	23:17	BB	Buli Bilbao	https://youtu.be/g1uZkgr2gHY	Prince	17 Days (Piano & A Microphone 1983 Version)		
+43	2020	30/12/2020	23:07	BB	Buli Bilbao	https://www.youtube.com/watch?v=rn_YodiJO6k&app=desktop&persist_app=1	Red Hot Chili Peppers 	Otherside		
+44	2021	01/01/2021	00:19	LG	Leire Gonzalez	https://youtu.be/gnhXHvRoUd0	Kings of Leon	Use Somebody (Official Video)		
+45	2021	02/01/2021	17:22	LG	Leire Gonzalez	https://youtu.be/RF0HhrwIwp0	Kings of Leon	Sex on Fire (Official Video)		
+46	2021	04/01/2021	22:58	BB	Buli Bilbao	https://www.youtube.com/watch?app=desktop&v=M8XaGxvuFOU	Tom Petty & The Heartbreakers	Mary Jane's Last Dance		
+47	2021	05/01/2021	18:15	BB	Buli Bilbao	https://youtu.be/V1GDM36UeZc#t=2m53s	Red Hot Chili Peppers 	Otherside [Official Music Video]		
+48	2021	07/01/2021	22:24	LG	Leire Gonzalez	https://youtu.be/4n3lJNHCmr4	La Dispute	Such Small Hands		
+49	2021	07/01/2021	22:24	LG	Leire Gonzalez	https://youtu.be/W27Ab2_vcV8?list=RDW27Ab2_vcV8	La Dispute	Nobody, Not Even the Rain		
+50	2021	07/01/2021	22:26	LG	Leire Gonzalez	https://youtu.be/mn1OOlWSIwI?list=RDmn1OOlWSIwI	La Dispute	Twelve		
+51	2021	11/01/2021	22:13	BB	Buli Bilbao	https://youtu.be/SPUj68fUsNc	Semisonic 	You're Not Alone		
+52	2021	14/01/2021	22:19	LG	Leire Gonzalez	https://youtu.be/uSV0_V_Kb_M	SextySexers	Larrupean Pozoia		
+53	2021	17/01/2021	20:51	LG	Leire Gonzalez	https://youtu.be/WAK4GB7LIkw	Touché Amoré 	Limelight (feat. Manchester Orchestra)		
+54	2021	18/01/2021	22:12	BB	Buli Bilbao	https://youtu.be/TInDNjbI_W0	Sheryl Crow 	Be Myself (Live: AUDIENCE Music Exclusive)		
+55	2021	18/01/2021	22:13	BB	Buli Bilbao	https://youtu.be/j1Ij3rV_ZS4	Sheryl Crow 	Home (Official Music Video)		
+56	2021	21/01/2021	22:19	LG	Leire Gonzalez	https://youtu.be/wvy7ZaRiVp8	Depedro 	Te sigo soñando		
+57	2021	25/01/2021	21:58	BB	Buli Bilbao	https://youtu.be/4b1wt3-zpzQ	George Baker	Little Green Bag		
+58	2021	28/01/2021	22:30	LG	Leire Gonzalez	https://youtu.be/2rU8tq94bvI	William Elliott Whitmore 	Hell Or High Water		
+59	2021	30/01/2021	00:16	LG	Leire Gonzalez	https://youtu.be/9X-aCebgZPg	Michael Kiwanuka	Rest		
+60	2021	31/01/2021	01:04	BB	Buli Bilbao	https://www.youtube.com/watch?v=n3EE2Yyyx1k	Counting Crows	Goodnight Elisabeth		
+61	2021	01/02/2021	22:39	BB	Buli Bilbao	https://youtu.be/8FIBPKRV3kk	Bush 	Swallowed		
+62	2021	04/02/2021	22:46	LG	Leire Gonzalez	https://youtu.be/iRN3uSE8HgY	Viva Belgrado (Ulises)	Por la mañana, temprano		
+63	2021	06/02/2021	17:22	LG	Leire Gonzalez	https://youtu.be/xSBelw5CzI8	Biffy Clyro 	Space (Orchestral Version) 		
+64	2021	08/02/2021	22:20	BB	Buli Bilbao	https://youtu.be/T_zRt_EmqoU	Cloud Nothings	Stay Useless		
+65	2021	11/02/2021	22:05	LG	Leire Gonzalez	https://youtu.be/IymN449xhMU	Karate 	The Last Wars		
+66	2021	13/02/2021	18:37	BB	Buli Bilbao	https://youtu.be/qGkTzk6SdKs	Greta Van Fleet 	My Way, Soon (Official Video)		
+67	2021	13/02/2021	18:40	BB	Buli Bilbao	https://youtu.be/U3-hRlnL6jQ	Greta Van Fleet 	Edge Of Darkness (Live in Toronto / 2018)		
+68	2021	14/02/2021	20:20	LG	Leire Gonzalez	https://youtu.be/zFITOmA3SgI	Agnes e Tiago Iorc	Pode Se Achegar		
+69	2021	15/02/2021	22:21	BB	Buli Bilbao	https://youtu.be/b1J2Kg3CXGA	Gerry Cinnamon	War Song Soldier (Official Lyric Video)		
+70	2021	15/02/2021	22:21	BB	Buli Bilbao	https://www.youtube.com/watch?v=DtYEmnAzmDU	Gerry Cinnamon 	Fickle McSelfish (Official Lyric Video)		
+71	2021	18/02/2021	11:46	BB	Buli Bilbao	https://youtu.be/8YRdxHHFKvQ	The Rolling Stones	Dead Flowers		
+72	2021	18/02/2021	23:50	LG	Leire Gonzalez	https://youtu.be/QZtVBe-dCxc	Rocky Votolato 	Alabaster (Lyrics)		
+73	2021	18/02/2021	23:51	LG	Leire Gonzalez	https://youtu.be/LDspbL1xQ28	Rocky Votolato 	I'll Catch You (Lyrics)		
+74	2021	22/02/2021	22:21	BB	Buli Bilbao	https://youtu.be/_c1w056MItU	Linkin Park	What I've Done [Official Live in Red Square 2011]		
+75	2021	25/02/2021	23:16	LG	Leire Gonzalez	https://youtu.be/7Z4zCIn7zyY	Mazzy Star 	Fade Into You		
+76	2021	01/03/2021	21:56	BB	Buli Bilbao	https://youtu.be/sFUGvdxuQGQ	AC/DC	Ride On		
+77	2021	04/03/2021	23:14	LG	Leire Gonzalez	https://youtu.be/ftS68DrBqQk	Sunny Day Real Estate	Every Shining Time You Arrive		
+78	2021	04/03/2021	23:15	LG	Leire Gonzalez	https://youtu.be/_Fd75JDPUJ8	Sunny Day Real Estate	48 (Remastered)		
+79	2021	07/03/2021	16:46	LG	Leire Gonzalez	https://youtu.be/zAMArLGX8BU	Rita Payés i Elisabeth Roma 	A Rita		
+80	2021	08/03/2021	22:14	BB	Buli Bilbao	https://youtu.be/YOUBPld-SBk	Suzanne Vega 	Gypsy Live 1993		
+81	2021	09/03/2021	11:02	BB	Buli Bilbao	https://m.youtube.com/watch?v=SaJo9ZBtq_Y	Suzanne Vega 	Tom's diner (Acapella)		
+82	2021	11/03/2021	23:34	LG	Leire Gonzalez	https://youtu.be/CXZG6-3BaKY	Julien Baker 	Rejoice		
+83	2021	12/03/2021	00:16	LG	Leire Gonzalez	https://youtu.be/ErtKrYK7yWM	Julien Baker 	Live at Brooklyn Steel 2018		
+84	2021	15/03/2021	22:18	BB	Buli Bilbao	https://youtu.be/b07OG6DxOv0	Aretha Franklin	I Never Loved a Man (The Way I Love You)		
+85	2021	16/03/2021	18:50	BB	Buli Bilbao	https://m.youtube.com/watch?v=_IXzAAKrsFE	Bruce Springsteen 	Western Stars (Official Video)		
+86	2021	16/03/2021	23:59	BB	Buli Bilbao	https://m.youtube.com/watch?v=nGNjgpk0G5Y	Moonlight Motel 	Bruce Springsteen (Western Stars 2019)		
+87	2021	18/03/2021	22:39	LG	Leire Gonzalez	https://youtu.be/dampdvtmjOs	Cesk Freixas	Companya		
+88	2021	20/03/2021	22:07	BB	Buli Bilbao	https://youtu.be/Hw4MiegZxsU	Nathaniel Rateliff 	And It's Still Alright (Official Music Video)		
+89	2021	21/03/2021	22:45	LG	Leire Gonzalez	https://youtu.be/ME1gGWsK9rE	Julien Baker 	Something | OurVinyl Sessions		
+90	2021	22/03/2021	22:05	BB	Buli Bilbao	https://youtu.be/sT1DdO3SISg	Stone Temple Pilots 	Creep (Official Music Video)		
+91	2021	22/03/2021	22:07	BB	Buli Bilbao	https://youtu.be/ds_43MdYiuQ	Stone Temple Pilots 	Lady Picture Show (Official Music Video)		
+92	2021	25/03/2021	22:36	LG	Leire Gonzalez	https://youtu.be/phktiVZqUbQ	Ben Howard 	Depth Over Distance (Live on KCRW)		
+93	2021	29/03/2021	22:33	BB	Buli Bilbao	https://www.youtube.com/watch?v=3UUJvMi4OSM	Ben Harper	Forever		
+94	2021	29/03/2021	22:46	BB	Buli Bilbao	https://www.youtube.com/watch?v=gcgClucDd9Q	Ben Harper & The Innocent Criminals 	Please Bleed		
+95	2021	02/04/2021	23:00	BB	Buli Bilbao	https://www.youtube.com/watch?v=uTYupZFZks8	Chris Cornell	I Am The Highway (Live At Queen Elizabeth Theatre, Toronto, ON/2011)		
+96	2021	05/04/2021	22:44	BB	Buli Bilbao	https://youtu.be/XaMtKUFJzXY	Immaculate Fools	Wish you were here		
+97	2021	08/04/2021	22:49	LG	Leire Gonzalez	https://youtu.be/c5-FsZc_Als	Wolfmother 	Mind's Eye Live at Devils Punchbowl		
+98	2021	12/04/2021	22:20	BB	Buli Bilbao	https://youtu.be/BBGfHp1-zl4	Los Ronaldos	No puedo vivir sin ti		
+99	2021	15/04/2021	21:55	LG	Leire Gonzalez	https://youtu.be/LllchE03xRk	Brand New 	Me vs. Maradona vs. Elvis		
+100	2021	19/04/2021	22:21	BB	Buli Bilbao	https://youtu.be/zO6D_BAuYCI	Queen 	Crazy Little Thing Called Love (Official Video)		
+101	2021	23/04/2021	22:30	LG	Leire Gonzalez	https://youtu.be/EdtBzQHWtMY	Sean Rowe 	Wet		
+102	2021	26/04/2021	22:02	BB	Buli Bilbao	https://youtu.be/CqnU_sJ8V-E	Lynyrd Skynyrd	Free Bird		
+103	2021	26/04/2021	22:03	BB	Buli Bilbao	https://youtu.be/sMmTkKz60W8	Lynyrd Skynyrd	Simple Man 		
+104	2021	28/04/2021	20:32	BB	Buli Bilbao	https://m.youtube.com/watch?v=acK0KH2uJGc	Better Than Ezra 	Good		
+105	2021	29/04/2021	22:35	LG	Leire Gonzalez	https://youtu.be/kOuGhuUmbNM?list=RDkOuGhuUmbNM	Bill Withers	Let Me In Your Life (BBC In Concert, May 11, 1974)		
+106	2021	01/05/2021	23:20	BB	Buli Bilbao	https://m.youtube.com/watch?v=iY-W7EA8uB0	Sheryl Crow 	If It Makes You Happy acoustic 2008		
+107	2021	03/05/2021	22:14	BB	Buli Bilbao	https://youtu.be/6k8es2BNloE	The Black Keys 	Little Black Submarines [Official Music Video]		
+108	2021	03/05/2021	22:15	BB	Buli Bilbao	https://youtu.be/BiaZ-1g3XV4	The Black Keys 	You're The One		
+109	2021	04/05/2021	22:26	LG	Leire Gonzalez	https://youtu.be/Ix2zzyz4nqs	Mogwai 	Take Me Somewhere Nice (Live in London)		
+110	2021	05/05/2021	23:56	BB	Buli Bilbao	https://m.youtube.com/watch?v=hsQWAyh9Z6o	Eddie Vedder 	Sleeping By Myself		
+111	2021	06/05/2021	00:04	BB	Buli Bilbao	https://m.youtube.com/watch?v=cUhnQzjXHHY	Eddie Vedder 	Tonight You Belong To Me		
+112	2021	06/05/2021	22:14	LG	Leire Gonzalez	https://youtu.be/0Hegd4xNfRo	Leon Bridges 	River (Official Video)		
+113	2021	10/05/2021	22:48	BB	Buli Bilbao	https://youtu.be/kpVxwWQjIy0	Desmond Dekker & The Aces 	007 (Official Music Video)		
+114	2021	12/05/2021	07:35	BB	Buli Bilbao	https://youtu.be/jLYsIESNtUc	The Libertines 	Don't Look Back Into The Sun (Official Video)		
+115	2021	12/05/2021	23:00	LG	Leire Gonzalez	https://youtu.be/1goT7Sd4eME	Pedro The Lion	Quietest Friend [OFFICIAL MUSIC VIDEO]		
+116	2021	13/05/2021	22:23	LG	Leire Gonzalez	https://youtu.be/Iun3RtbCE6A	Razorlight 	Somewhere Else		
+117	2021	15/05/2021	22:04	BB	Buli Bilbao	https://m.youtube.com/watch?v=9DoW5Ar6xek	Razorlight 	Olympus Sleeping		
+118	2021	16/05/2021	00:09	BB	Buli Bilbao	https://m.youtube.com/watch?v=85i4bf7ajFg	Pearl Jam 	Black (unplugged)		
+119	2021	16/05/2021	19:20	LG	Leire Gonzalez	https://youtu.be/59xYyYyPeXc	Gary Moore & Phil Lynott	Parisienne Walkways		
+120	2021	16/05/2021	19:52	LG	Leire Gonzalez	https://youtu.be/OVROoM1CYb8	Thin Lizzy	Still In Love With You (Live At The Tower Theatre, Philadelphia, USA / 1977)		
+121	2021	17/05/2021	22:09	BB	Buli Bilbao	https://youtu.be/tb2MhtLQW-M?list=RDtb2MhtLQW-M	John Mayall & The Bluesbreakers	Double Crossing Time (Stereo)		
+122	2021	18/05/2021	08:58	BB	Buli Bilbao	https://m.youtube.com/watch?v=Nloy9QgAohU	Kirk Ross 	Halo		
+123	2021	19/05/2021	09:11	BB	Buli Bilbao	https://youtu.be/oif3NO3ufEM	Damien Jurado 	Tom		
+124	2021	19/05/2021	22:20	LG	Leire Gonzalez	https://youtu.be/izbq7IUYja0	Bruce Springsteen 	If I Was The Priest (Official Audio)		
+125	2021	20/05/2021	22:43	LG	Leire Gonzalez	https://youtu.be/yJC336LIf-k	Abereh 	Ihes (logela sessions)		
+126	2021	21/05/2021	21:41	BB	Buli Bilbao	https://m.youtube.com/watch?v=aVMa9TpRxk4	The Black Keys 	Crawling Kingsnake [Official Music Video]		
+127	2021	22/05/2021	10:33	BB	Buli Bilbao	https://youtu.be/BdRDMQTqt2E	The Black Keys 	Louise (Official Audio)		
+128	2021	23/05/2021	21:13	BB	Buli Bilbao	https://m.youtube.com/watch?v=mtcjyWc_W3U	Muse 	Citizen Erased XX Anniversary RemiXX		
+129	2021	24/05/2021	22:31	BB	Buli Bilbao	https://youtu.be/fFOcxzJEWtE	Primal Scream 	How does it feel to belong		
+130	2021	27/05/2021	22:50	LG	Leire Gonzalez	https://youtu.be/H58gMiQQRm0	The Black Crowes 	She Talks To Angels (Official Video)		
+131	2021	27/05/2021	22:53	LG	Leire Gonzalez	https://youtu.be/jkPlwR3gr2s	The Black Crowes	Bad Luck Blue Eyes Goodbye		
+132	2021	28/05/2021	16:56	BB	Buli Bilbao	https://youtu.be/KOfnUcOzA7c	Cleopatrick 	2008 (Official Video)		
+133	2021	31/05/2021	22:35	BB	Buli Bilbao	https://youtu.be/xyjCagO5a5s	The Allman Brothers Band	Stormy Monday (Fillmore West, San Francisco, CA, 01-30-1971)		
+134	2021	03/06/2021	22:09	LG	Leire Gonzalez	https://youtu.be/m4JTJPC6C6A	Sharon Van Etten 	Tarifa (Live on KEXP)		
+135	2021	07/06/2021	22:42	BB	Buli Bilbao	https://youtu.be/57Bi4T6zphQ	Mad Season	Slip Away		
+136	2021	07/06/2021	22:43	BB	Buli Bilbao	https://youtu.be/Fm72DPJCX58	Mad Season 	River Of Deceit		
+137	2021	10/06/2021	22:13	LG	Leire Gonzalez	https://youtu.be/vZarE8_M3fc	Kasabian 	Goodbye Kiss		
+138	2021	14/06/2021	22:03	BB	Buli Bilbao	https://youtu.be/RAAT9UfI0rw	Chuck Berry 	Deep Feeling (1957)		
+139	2021	14/06/2021	22:04	BB	Buli Bilbao	https://youtu.be/Tsph5cZ6l6g	Chuck Berry	Things That I Used To Do' live 1965 remaster		
+140	2021	17/06/2021	22:33	LG	Leire Gonzalez	https://youtu.be/Dt0t3afyOmo	Moving Mountains 	Eastern Leaves		
+141	2021	17/06/2021	22:34	LG	Leire Gonzalez	https://youtube.com/playlist?list=PLawMNLVMLgQXXVkx12J-U5A_eDFyrtmle	Moving Mountains 	Telegraph Sessions		
+142	2021	21/06/2021	22:32	BB	Buli Bilbao	https://youtu.be/_NWjehpGSO0	Social Distortion 	Ball And Chain		
+143	2021	22/06/2021	09:09	BB	Buli Bilbao	https://youtu.be/M3BZ8hnLyRc	The Killers 	Dustland (Official Music Video) ft. Bruce Springsteen		
+144	2021	24/06/2021	23:16	LG	Leire Gonzalez	https://youtu.be/reZSR6d1a9Y	Liz Cooper & The Stampede 	The Night (Live at The Silent Planet)		
+145	2021	24/06/2021	23:19	LG	Leire Gonzalez	https://youtu.be/uEV6oLN6gkA	Liz Cooper & The Stampede 	Kaleidoscope Eyes | Audiotree Live		
+146	2021	28/06/2021	22:05	BB	Buli Bilbao	https://youtu.be/89dGC8de0CA	Aerosmith 	Dream On (Audio)		
+147	2021	01/07/2021	22:30	LG	Leire Gonzalez	https://youtu.be/jmGhtIOBlhI	Matt Berninger 	One More Second (Official Video)		
+148	2021	05/07/2021	21:43	BB	Buli Bilbao	https://youtu.be/V_UR61itZxo	Heatmiser	Plainclothes Man		
+149	2021	05/07/2021	21:45	BB	Buli Bilbao	https://youtu.be/tCJsO-vBa_0	Heatmiser	Half Right		
+150	2021	08/07/2021	22:24	LG	Leire Gonzalez	https://youtu.be/wxAaf16xXRk	Songs: Ohia	Lioness		
+151	2021	09/07/2021	23:41	BB	Buli Bilbao	https://m.youtube.com/watch?v=WPpDyIJdasgp	Deftones 	Change (In The House Of Flies) [Official Music Video]		
+152	2021	12/07/2021	22:44	BB	Buli Bilbao	https://youtu.be/Soa3gO7tL-c	Green Day 	Boulevard Of Broken Dreams [Official Music Video] [4K Upgrade]		
+153	2021	12/07/2021	22:45	BB	Buli Bilbao	https://youtu.be/CnQ8N1KacJc	Green Day 	Good Riddance (Time of Your Life) [Official Music Video] [4K UPGRADE]		
+154	2021	15/07/2021	22:10	LG	Leire Gonzalez	https://youtu.be/8Uzo70MllVM	Madeleine 	Inoiz lehortuko da | Dilindan Live Session		
+155	2021	15/07/2021	22:15	LG	Leire Gonzalez	https://youtu.be/WuRyzQa7neU	Madeleine, Itzal Uranga, Gartxot Unsain, Jagoba Salvador, Jon Iñaki Benito			
+156	2021	16/07/2021	23:21	BB	Buli Bilbao	https://youtu.be/aE0nKyofTHU	James McMurtry 	You Got to Me		
+157	2021	16/07/2021	23:22	BB	Buli Bilbao	https://youtu.be/HPYWcdrQPxg	James McMurtry 	Canola Fields [Official Audio]		
+158	2021	19/07/2021	22:13	BB	Buli Bilbao	https://youtu.be/znW-P7lMKjU	Deep Purple	Soldier Of Fortune		
+159	2021	20/07/2021	15:32	BB	Buli Bilbao	https://youtu.be/K3_RC2PKswg	Deep Purple 	Machine Head 		
+160	2021	22/07/2021	22:46	LG	Leire Gonzalez	https://youtu.be/sjSnAk040fI	The Slaps	Where Were You Where They Were Also		
+161	2021	22/07/2021	22:47	LG	Leire Gonzalez	https://youtu.be/aR27NB9n_ZM	The Slaps	Gallons		
+162	2021	26/07/2021	22:14	BB	Buli Bilbao	https://youtu.be/MDWPqMGHo44	Hole	Best Sunday Dress		
+163	2021	26/07/2021	22:14	BB	Buli Bilbao	https://youtu.be/OGf7CTviZ_c	Hole	Dying		
+164	2021	28/07/2021	22:33	BB	Buli Bilbao	https://m.youtube.com/watch?v=uxK55Njzmj4	Hole 	Boys On The Radio {Live}		
+165	2021	29/07/2021	22:00	LG	Leire Gonzalez	https://youtu.be/J2z7LXpAX3Q	The Band & Neil Young	Helpless		
+166	2021	30/07/2021	22:56	BB	Buli Bilbao	https://youtu.be/RAogHx7Sl8k	Pink Floyd 	On The Turning Away		
+167	2021	31/07/2021	22:55	BB	Buli Bilbao	https://m.youtube.com/watch?v=4q9UafsiQ6k	Pearl Jam	Black		
+168	2021	01/08/2021	22:34	BB	Buli Bilbao	https://m.youtube.com/watch?v=3UUWkr4FUlo	Van Morrison 	Days Like This (Official Video)		
+169	2021	02/08/2021	23:47	BB	Buli Bilbao	https://m.youtube.com/watch?v=F9IwWTm5ajc	Jake Bugg 	Someone Told Me 		
+170	2021	02/08/2021	23:48	BB	Buli Bilbao	https://m.youtube.com/watch?v=-rJ_p87S2_4	Jake Bugg 	Someplace		
+171	2021	03/08/2021	22:30	BB	Buli Bilbao	https://m.youtube.com/watch?v=RB-RcX5DS5A	Coldplay 	The Scientist		
+172	2021	04/08/2021	22:50	BB	Buli Bilbao	https://youtu.be/3mbBbFH9fAg	Soundgarden 	Black Hole Sun		
+173	2021	05/08/2021	22:16	BB	Buli Bilbao	https://m.youtube.com/watch?v=nYzubZz2oIQ	Nathaniel Rateliff & The Night Sweats 	Hey Mama (Official Music Video)		
+174	2021	06/08/2021	22:51	BB	Buli Bilbao	https://m.youtube.com/watch?v=AZKcl4-tcuo	David Bowie 	Life On Mars? (Official Video)		
+175	2021	07/08/2021	23:43	BB	Buli Bilbao	https://m.youtube.com/watch?v=GLvohMXgcBo	Red Hot Chili Peppers 	Under The Bridge [Official Music Video]		
+176	2021	16/08/2021	22:31	BB	Buli Bilbao	https://youtu.be/y4xkHRgoBaU	Traffic 	Dear Mr. Fantasy 1967 Remastered		
+177	2021	18/08/2021	22:47	LG	Leire Gonzalez	https://youtu.be/pOyqfQDKX7A	The White Buffalo 	Wish It Was True (Official Music Video)		
+178	2021	18/08/2021	22:47	LG	Leire Gonzalez	https://youtu.be/_lo2DO8vM58	The White Buffalo 	The Whistler (Subtítulos Español)		
+179	2021	19/08/2021	22:18	BB	Buli Bilbao	https://youtu.be/9wxI4KK9ZYo	Lou Reed 	Perfect Day (Official Audio)		
+180	2021	23/08/2021	22:12	BB	Buli Bilbao	https://m.youtube.com/watch?v=ahJ6Kh8klM4	R.E.M. 	Nightswimming (Official Music Video) [British Version]		
+181	2021	23/08/2021	22:13	BB	Buli Bilbao	https://m.youtube.com/watch?v=UIXs66BPooY	R.E.M. 	At My Most Beautiful (Official HD Music Video)		
+182	2021	25/08/2021	23:11	LG	Leire Gonzalez	https://youtu.be/EbYsqAFaC38	Anari 	Isla		
+183	2021	25/08/2021	23:13	LG	Leire Gonzalez	https://youtu.be/eIQGvcsWyoQ	Anari 	Ihia		
+184	2021	26/08/2021	22:04	BB	Buli Bilbao	https://youtu.be/7-pWpd6pAO8	Chuck Berry	Aimlessly Driftin'		
+185	2021	29/08/2021	22:24	BB	Buli Bilbao	https://youtu.be/TLV4_xaYynY	The Jimi Hendrix Experience 	All Along The Watchtower (Official Audio)		
+186	2021	30/08/2021	21:43	BB	Buli Bilbao	https://youtu.be/iQ18DXg7b7c	Olivia Vedder, Eddie Vedder, Glen Hansard 	My Father's Daughter (Official Video)		
+187	2021	30/08/2021	21:45	BB	Buli Bilbao	https://youtu.be/dTwZsRrA8HE	Cat Power	I Think Of Angels		
+188	2021	30/08/2021	21:47	BB	Buli Bilbao	https://youtu.be/lOy9jmmh1rE	Cat Power	Dream		
+189	2021	31/08/2021	22:08	LG	Leire Gonzalez	https://youtu.be/bukXKdzyGEY	Tracy Chapman 	Change (Official Music Video)		
+190	2021	02/09/2021	22:03	BB	Buli Bilbao	https://youtu.be/_lZPlQiV4ps	The Cure	Just Like Heaven (acoustic 		
+191	2021	05/09/2021	21:39	LG	Leire Gonzalez	https://youtu.be/hQo1HIcSVtg	Thin Lizzy	Boys Are Back In Town		
+192	2021	05/09/2021	21:40	LG	Leire Gonzalez	https://youtu.be/XsGl-0pzEEc	Thin Lizzy 	Don't Believe A Word (Official Music Video)		
+193	2021	06/09/2021	22:45	BB	Buli Bilbao	https://m.youtube.com/watch?v=fND_Y6OgsDs	The Velvet Underground 	After Hours		
+194	2021	06/09/2021	22:48	BB	Buli Bilbao	https://m.youtube.com/watch?v=ydA0bmL-UEk	The Velvet Underground 	Ride Into The Sun		
+195	2021	08/09/2021	22:12	BB	Buli Bilbao	https://youtu.be/sHqd5Q7pYo0	Eddie Vedder 	Long Way		
+196	2021	09/09/2021	22:33	LG	Leire Gonzalez	https://youtu.be/TglqdMPeb5A	Pedro The Lion	Of Up And Coming Monarchs		
+197	2021	09/09/2021	22:36	LG	Leire Gonzalez	https://youtu.be/2vv5bp88I2g	Pedro The Lion	Options		
+198	2021	10/09/2021	22:31	BB	Buli Bilbao	https://youtu.be/Ob2VbWPTVhc	David Bowie & Eddie Vedder	Comfortably Numb		
+199	2021	11/09/2021	22:53	BB	Buli Bilbao	https://youtu.be/_pFZz3OXcMs	Led Zeppelin	D'yer Mak'er		
+200	2021	13/09/2021	22:00	BB	Buli Bilbao	https://youtu.be/PkYTW23BVPk	Van Morrison with Ronnie Montrose	Wild Night		
+201	2021	14/09/2021	22:05	BB	Buli Bilbao	https://youtu.be/0l-kuftKVSI	Iron & Wine 	This Solemn Day		
+202	2021	14/09/2021	22:06	BB	Buli Bilbao	https://youtu.be/qSIksaBMvBA	Iron & Wine	Why Hate the Winter		
+203	2021	16/09/2021	21:50	LG	Leire Gonzalez	https://youtu.be/V-qoaxzmt6k	GA-20	Lonely Soul		
+204	2021	19/09/2021	21:31	LG	Leire Gonzalez	https://youtu.be/ha3QivnjbIU	Weezer	Only In Dreams		
+205	2021	20/09/2021	22:33	BB	Buli Bilbao	https://m.youtube.com/watch?v=jkaMiaRLgvY	The Kooks 	Naive		
+206	2021	22/09/2021	22:18	BB	Buli Bilbao	https://youtu.be/Chr2Hg5qNl4	Pearl Jam	Nothingman 		
+207	2021	23/09/2021	23:10	LG	Leire Gonzalez	https://youtu.be/LROnjfhnZMo	Dire Straits	Where Do You Think You're Going?		
+208	2021	24/09/2021	23:02	BB	Buli Bilbao	https://youtu.be/v77WFwYtUE0	Coldplay	Parachutes		
+209	2021	24/09/2021	23:04	BB	Buli Bilbao	https://youtu.be/Ar48yzjn1PE	Coldplay 	Sparks		
+210	2021	26/09/2021	22:41	LG	Leire Gonzalez	https://youtu.be/N9kdHXrJYF8	Oasis 	Stand By Me		
+211	2021	27/09/2021	22:16	BB	Buli Bilbao	https://youtu.be/y0s7ycdUcHk	Counting Crows 	Colorblind		
+212	2021	27/09/2021	22:16	BB	Buli Bilbao	https://youtu.be/SAe3sCIakXo	Counting Crows 	Round Here		
+213	2021	30/09/2021	21:59	LG	Leire Gonzalez	https://youtu.be/FuBq9xAp85w	Rocky Votolato 	Goldfield		
+214	2021	30/09/2021	22:00	LG	Leire Gonzalez	https://youtu.be/XHtHwohTyXo	Rocky Votolato	20 Degrees		
+215	2021	01/10/2021	22:42	BB	Buli Bilbao	https://m.youtube.com/watch?v=68JBlBTjK0E	Keroboia	Esaldi Sinple bat galdera handiegirako 		
+216	2021	03/10/2021	22:18	BB	Buli Bilbao	https://youtu.be/Igbd3EEOHIs	Creedence Clearwater Revival 	Someday Never Comes		
+217	2021	04/10/2021	22:15	BB	Buli Bilbao	https://youtu.be/6qPqoCuyjnA	Nathaniel Rateliff 	Still Out There Running		
+218	2021	05/10/2021	22:10	LG	Leire Gonzalez	https://youtu.be/PQQIATby6-4	Bisita (Bar Puerto)			
+219	2021	05/10/2021	22:11	LG	Leire Gonzalez	https://youtu.be/xfOZaeSSoR0	Bingen Mendizabal, Mikel Urdangarin			
+220	2021	06/10/2021	21:46	BB	Buli Bilbao	https://m.youtube.com/watch?v=EHWFMuFwnBA	The Lemonheads	Mrs. Robinson (Official Video)		
+221	2021	11/10/2021	22:01	BB	Buli Bilbao	https://youtu.be/GVbTE4wCbpw	Otis Redding 	These Arms Of Mine (Official Music Video)		
+222	2021	13/10/2021	21:50	BB	Buli Bilbao	https://m.youtube.com/watch?v=SDSStJ9I754	Pearl Jam 	Thumbing My Way (Live at Chop Suey)		
+223	2021	14/10/2021	21:51	LG	Leire Gonzalez	https://youtu.be/EOJlOVtwB3E	Leonard Cohen 	My Oh My		
+224	2021	16/10/2021	22:56	BB	Buli Bilbao	https://youtu.be/5cnIQHJ169s	R.E.M. 	E-Bow The Letter ( feat. Patti Smith)		
+225	2021	16/10/2021	23:07	BB	Buli Bilbao	https://youtu.be/CJLOAjsamEE	R.E.M. 	Country Feedback 		
+226	2021	17/10/2021	21:49	LG	Leire Gonzalez	https://youtu.be/6zJZ2ntvIOE	PJ Harvey	Is This Desire?		
+227	2021	17/10/2021	21:52	LG	Leire Gonzalez	https://youtu.be/8PlaNe3mXl8	PJ Harvey	Rid Of Me		
+228	2021	18/10/2021	15:41	LG	Leire Gonzalez	https://youtu.be/X0_5LtiMBpU	PJ Harvey	You Said Something		
+229	2021	18/10/2021	22:10	BB	Buli Bilbao	https://youtu.be/sKHCp8YN5sM	Scott Weiland 	Lady, Your Roof Brings me Down		
+230	2021	18/10/2021	22:12	BB	Buli Bilbao	https://youtu.be/kmjNkyCxmTM	Scott Weiland	Barbarella		
+231	2021	21/10/2021	22:54	BB	Buli Bilbao	https://youtu.be/ZF2A4i1Itlk	The Kooks 	Sway		
+232	2021	23/10/2021	23:14	LG	Leire Gonzalez	https://youtu.be/geUYm3f6ZA4	Billie Eilish 	Halley’s Comet (Official Lyric Video)		
+233	2021	23/10/2021	23:15	LG	Leire Gonzalez	https://youtu.be/fzeWc3zh01g	Billie Eilish 	Your Power (Official Music Video)		
+234	2021	24/10/2021	22:29	BB	Buli Bilbao	https://youtu.be/ALR-MKddolU	Counting Crows 	Untitled (Love Song) 		
+235	2021	24/10/2021	22:29	BB	Buli Bilbao	https://youtu.be/W4OWfYfuQF8	Counting Crows 	Friend Of The Devil 		
+236	2021	25/10/2021	21:24	BB	Buli Bilbao	https://youtu.be/RLye2L3xN-o	The Cure	A Forest (acoustic)		
+237	2021	25/10/2021	21:27	BB	Buli Bilbao	https://youtu.be/Sg-FFmwT2jE	The Cure	Close to me (acoustic)		
+238	2021	28/10/2021	21:01	LG	Leire Gonzalez	https://youtu.be/1QlX_Uzg9Wo	Songs: Ohia	Tigress		
+239	2021	02/11/2021	22:44	BB	Buli Bilbao	https://youtu.be/gHS8MAUOI8E	Fruit Bats	The Pet parade		
+240	2021	04/11/2021	22:21	LG	Leire Gonzalez	https://youtu.be/S9BCA29Q-GU	Iseo 	Eskuak		
+241	2021	05/11/2021	23:00	BB	Buli Bilbao	https://youtu.be/whqebes2EFo	Coldplay 	Green Eyes		
+242	2021	05/11/2021	23:01	BB	Buli Bilbao	https://youtu.be/dMrImMedYRo	The Who 	Behind Blue Eyes (HQ)		
+243	2021	05/11/2021	23:02	BB	Buli Bilbao	https://www.youtube.com/watch?v=uxKsyhk0HMQ	Berri Txarrak 	Bigarren eskuko amets		
+244	2021	07/11/2021	22:25	LG	Leire Gonzalez	https://youtu.be/JeqG4HgG5Go	Biffy Clyro 	Machines		
+245	2021	08/11/2021	22:02	BB	Buli Bilbao	https://youtu.be/HomcseiMFzc	RNDM 	New Tracks		
+246	2021	11/11/2021	23:40	LG	Leire Gonzalez	https://youtu.be/vZqvVhcHsZM	RY X 	Sweat		
+247	2021	12/11/2021	22:33	BB	Buli Bilbao	https://youtu.be/sTX3s87MSkg	The Velvet Underground 	Sweet Jane		
+248	2021	14/11/2021	22:27	BB	Buli Bilbao	https://youtu.be/fLsBJPlGIDU	Arctic Monkeys 	Crying Lightning (Official Video)		
+249	2021	14/11/2021	22:28	BB	Buli Bilbao	https://youtu.be/1wznj4lD1Bs	Arctic Monkeys 	Black Treacle (Official Video)		
+250	2021	15/11/2021	22:10	BB	Buli Bilbao	https://youtu.be/LdxWMlZ_YRo	Eric Clapton 	Another Ticket		
+251	2021	17/11/2021	22:17	BB	Buli Bilbao	https://youtu.be/giis--4c3iI	Itoiz, Juan Carlos Perez	Elurretan		
+252	2021	18/11/2021	22:02	BB	Buli Bilbao	https://youtu.be/g0kAzUKqKu4	Ruper Ordorika, Vladimir Visotsky	Amour eta toujours		
+253	2021	18/11/2021	22:22	LG	Leire Gonzalez	https://youtu.be/2Xl3KdxABZs	Olatz Salvador	Gelditu hor (ft. IDOIA)		
+254	2021	22/11/2021	22:04	BB	Buli Bilbao	https://youtu.be/MkrA-gSG-vE	Eric Clapton 	After Midnight		
+255	2021	23/11/2021	22:02	BB	Buli Bilbao	https://youtu.be/BDfGblfOsZ4	Creedence Clearwater Revival 	Long As I Can See The Light (Lyric Video)		
+256	2021	25/11/2021	21:57	LG	Leire Gonzalez	https://youtu.be/xQ04WbgI9rg	Foo Fighters 	All My Life (Official HD Video)		
+257	2021	25/11/2021	21:58	LG	Leire Gonzalez	https://youtu.be/h_L4Rixya64	Foo Fighters 	Best Of You (Official HD Video)		
+258	2021	28/11/2021	16:15	BB	Buli Bilbao	https://youtu.be/erGNSQMJ79Q	Ian Dury And The Blockheads 	Sex & Drugs & Rock & Roll		
+259	2021	29/11/2021	22:15	BB	Buli Bilbao	https://youtu.be/F9wuF5RXZLw	Oasis 	Born On A Different Cloud (album version)		
+260	2021	29/11/2021	22:16	BB	Buli Bilbao	https://youtu.be/7H0--80KRUM	Audioslave	Shadow on the sun		
+261	2021	02/12/2021	22:24	LG	Leire Gonzalez	https://youtu.be/6MyGLEhWZX0	Sharon Van Etten 	Don't Do It (Live from Zebulon)		
+262	2021	03/12/2021	22:27	BB	Buli Bilbao	https://m.youtube.com/watch?v=r-o5vB_AQ_I	Pearl Jam	You		
+263	2021	06/12/2021	21:58	BB	Buli Bilbao	https://youtu.be/Zp-LBD_q0sQ	Led Zeppelin	Fool in the Rain		
+264	2021	09/12/2021	22:46	LG	Leire Gonzalez	https://youtu.be/cMFWFhTFohk	Band of Horses 	The Funeral		
+265	2021	12/12/2021	00:05	LG	Leire Gonzalez	https://youtu.be/To5tfCFpYU4	La Dispute 	You and I in Unison		
+266	2021	12/12/2021	22:23	BB	Buli Bilbao	https://youtu.be/rbe3E28-g1o	Morrissey 	First Of The Gang To Die 		
+267	2021	13/12/2021	22:13	BB	Buli Bilbao	https://youtu.be/fPdTfzxmUDw	Babyshambles	Lost Art of Murder		
+268	2021	13/12/2021	22:14	BB	Buli Bilbao	https://youtu.be/yGF4Eiak3Bk	Babyshambles	ALBION		
+269	2021	16/12/2021	22:14	LG	Leire Gonzalez	https://youtu.be/7iO1EVBFC-8	This Will Destroy You	Quiet (Live)		
+270	2021	20/12/2021	22:00	BB	Buli Bilbao	https://youtu.be/PArFuLQFI8U	Eddie Vedder 	The Haves (Official Lyric Video)		
+271	2021	23/12/2021	22:57	LG	Leire Gonzalez	https://youtu.be/faaEh8yXex4	David Bazan 	Living Room Show: Hard To Be		
+272	2021	27/12/2021	22:03	BB	Buli Bilbao	https://youtu.be/11GYvfYjyV0	Red Hot Chili Peppers 	Road Trippin'		
+273	2021	30/12/2021	21:23	LG	Leire Gonzalez	https://youtu.be/cG8ZQkeZvzc	Bruce Springsteen 	Devils & Dust 		
+274	2022	03/01/2022	22:01	BB	Buli Bilbao	https://www.youtube.com/watch?v=2ObjtVdsV3I	David Bowie	Five Years		
+275	2022	04/01/2022	22:19	BB	Buli Bilbao	https://youtu.be/Fa9nN3G2CSg	Cowboy Junkies 	Sweet Jane		
+276	2022	06/01/2022	21:52	LG	Leire Gonzalez	https://youtu.be/YKngswISrAs	Jason Molina 	Let Me Go, Let Me Go, Let Me Go		
+277	2022	09/01/2022	22:19	BB	Buli Bilbao	https://youtu.be/9dhxHo9SYeY	Patti Smith	Smells Like Teen Spirit (Radio Edit)		
+278	2022	10/01/2022	22:01	BB	Buli Bilbao	https://youtu.be/VqUU2zG7LRg	Yo La Tengo	Nowhere Near		
+279	2022	10/01/2022	22:04	BB	Buli Bilbao	https://youtu.be/jJwTSTlpsak	Yo La Tengo 	Friday I'm In Love		
+280	2022	11/01/2022	22:09	LG	Leire Gonzalez	https://youtu.be/06AbJS5PYIw	Roo Panes 	Summer Thunder		
+281	2022	12/01/2022	22:48	BB	Buli Bilbao	https://youtu.be/XTb9GNIxpMk	Pearl Jam 	Just Breathe		
+282	2022	13/01/2022	23:23	LG	Leire Gonzalez	https://youtu.be/DeLUGn7qYP8	Cesária Evora 	Petit pays (Official Video)		
+283	2022	14/01/2022	23:52	BB	Buli Bilbao	https://m.youtube.com/watch?v=JVkYMYijg2Y	Lou Reed	I Love You Suzanne		
+284	2022	17/01/2022	22:02	BB	Buli Bilbao	https://youtu.be/yijRQSTANpg	Billy Bragg 	Mid		
+285	2022	17/01/2022	22:03	BB	Buli Bilbao	https://youtu.be/wAQCSDaytKA	Billy Bragg 	The Million Things That Never Happened [Official Audio]		
+286	2022	18/01/2022	08:34	BB	Buli Bilbao	https://youtu.be/sOy8UuCu-MQ	Billy Bragg 	Pass It On		
+287	2022	20/01/2022	22:19	LG	Leire Gonzalez	https://youtu.be/6d_bAgPMsPA	Touché Amoré 	A Forecast		
+288	2022	23/01/2022	22:33	BB	Buli Bilbao	https://youtu.be/6QIFkFpZphw?list=RD6QIFkFpZphw	Vic Chesnutt	Gravity of the Situation		
+289	2022	23/01/2022	22:37	BB	Buli Bilbao	https://youtu.be/96-flxOd_3w	Vic Chesnutt	Flirted With You All My Life		
+290	2022	24/01/2022	21:52	BB	Buli Bilbao	https://youtu.be/CM0GGlcSG28	Liam Kazar 	Shoes Too Tight (Official Music Video)		
+291	2022	24/01/2022	21:54	BB	Buli Bilbao	https://youtu.be/ehvsL7yYvWY	Liam 	Kazar 		
+292	2022	25/01/2022	22:49	BB	Buli Bilbao	https://m.youtube.com/watch?v=ZDhMkHfTdTc	Lenny Kravitz 	Can't Get You Off My Mind (Official Music Video)		
+293	2022	27/01/2022	22:47	LG	Leire Gonzalez	https://youtu.be/3AoOfJP3r40	Fontaines D.C. 	Jackie Down The Line (Official Video)		
+294	2022	27/01/2022	22:48	LG	Leire Gonzalez	https://youtu.be/b_XGDF3R2MA	Fontaines D.C. 	No (Live from A Night at Montrose, Dublin)		
+295	2022	27/01/2022	22:49	LG	Leire Gonzalez	https://youtu.be/1lyeQLEF8_U?list=RD1lyeQLEF8_U	Fontaines D.C. 	Oh Such a Spring		
+296	2022	31/01/2022	21:45	BB	Buli Bilbao	https://youtu.be/FoPg4sxeiDU	The Rolling Stones	She’s A Rainbow		
+297	2022	31/01/2022	21:45	BB	Buli Bilbao	https://youtu.be/ljK6ukf4nr4	The Rolling Stones 	Beast of Burden (Hyde Park 2013)		
+298	2022	31/01/2022	21:46	BB	Buli Bilbao	https://youtu.be/Fmfi3UbDPnQ	The Rolling Stones 	Brown Sugar (Live) 		
+299	2022	02/02/2022	20:52	BB	Buli Bilbao	https://youtu.be/Nk6mDjP-NIY	Motorhead 	Too Good To Be True		
+300	2022	03/02/2022	21:51	LG	Leire Gonzalez	https://youtu.be/EgQQkQrPJ2I?list=RDEgQQkQrPJ2I	Phoebe Bridgers 	Motion Sickness (Live on KEXP)		
+301	2022	03/02/2022	21:52	LG	Leire Gonzalez	https://youtu.be/mSb-wY3yxBo	SOAK 	last july		
+302	2022	03/02/2022	21:53	LG	Leire Gonzalez	https://youtu.be/DXqZ66XK3z8	Phoebe Bridgers 	Moon Song		
+303	2022	05/02/2022	23:39	BB	Buli Bilbao	https://youtu.be/X94jj6akbuE	Iron & Wine	Loaning Me Secrets		
+304	2022	07/02/2022	21:59	BB	Buli Bilbao	https://m.youtube.com/watch?v=ORaVYJpzsX8	The Smashing Pumpkins	Drown		
+305	2022	08/02/2022	22:49	LG	Leire Gonzalez	https://youtu.be/rhzmNRtIp8k	Foo Fighters 	Times Like These (Official HD Video)		
+306	2022	10/02/2022	21:02	LG	Leire Gonzalez	https://youtu.be/3nCEjiOcnAw?list=RD3nCEjiOcnAw	Wilss Drummond	Behin Argian Ezarrita		
+307	2022	14/02/2022	21:44	BB	Buli Bilbao	https://youtu.be/4iuO49jbovg	Alanis Morissette 	Head Over Feet (Official 4K Music Video)		
+308	2022	18/02/2022	23:43	LG	Leire Gonzalez	https://youtu.be/RCkI74RsRc0	Rafa Rueda	Kea		
+309	2022	19/02/2022	23:57	BB	Buli Bilbao	https://youtu.be/kH4XGRDJ0P4	Ramones	Danny Says (1999 Remaster)		
+310	2022	21/02/2022	22:07	BB	Buli Bilbao	https://m.youtube.com/watch?v=OS8taasZl8k	Red Hot Chili Peppers 	Black Summer (Official Music Video)		
+311	2022	22/02/2022	21:54	BB	Buli Bilbao	https://m.youtube.com/watch?v=zsQBuFNt65U	Freedy Johnston 	Bad Reputation (Official Video)		
+312	2022	24/02/2022	22:04	LG	Leire Gonzalez	https://youtu.be/Vd7k9cMmeps	My Ugly Clementine 	Who live at the MME Talent Awards 2021		
+313	2022	24/02/2022	22:05	LG	Leire Gonzalez	https://youtu.be/T2A3dw1mRJU?list=RDT2A3dw1mRJU	My Ugly Clementine 	Try Me		
+314	2022	28/02/2022	22:07	BB	Buli Bilbao	https://youtu.be/mucqV_lqAmw	Gregor Barnett 	The First Dead Body I Ever Saw (Lyric Video)		
+315	2022	28/02/2022	22:08	BB	Buli Bilbao	https://youtu.be/BRcVCmozZAM	Gregor Barnett 	Hurry Me Down to Hades (Full Album Stream)		
+316	2022	03/03/2022	22:36	LG	Leire Gonzalez	https://youtu.be/3bv9Dp8KqD8	Seam 	Broken Bones		
+317	2022	07/03/2022	21:48	BB	Buli Bilbao	https://youtu.be/l7ofPSefhyQ	Pixies 	Human Crime (Official Video)		
+318	2022	10/03/2022	21:35	LG	Leire Gonzalez	https://youtu.be/SCXVR_aAzCo	Giudi e Quani	The Doves 		
+319	2022	10/03/2022	21:36	LG	Leire Gonzalez	https://youtu.be/KydjRGoCO0E	0			
+320	2022	13/03/2022	21:59	BB	Buli Bilbao	https://youtu.be/eVUZqG9CTqU	Gerry Cinnamon 	Dark Days (Official Lyric Video)		
+321	2022	13/03/2022	21:59	BB	Buli Bilbao	https://youtu.be/XCf_yrqStq0	Gerry Cinnamon 	Keysies		
+322	2022	14/03/2022	21:11	BB	Buli Bilbao	https://youtu.be/bnazzZiz-vE	Don Inorrez	Sastraka 06		
+323	2022	14/03/2022	21:12	BB	Buli Bilbao	https://youtu.be/RGosVo-5FAY	Don Inorrez	Sastraka 03		
+324	2022	17/03/2022	22:05	LG	Leire Gonzalez	https://youtu.be/WkkqUNvosyc	Paul Westerberg	Time Flies Tomorrow		
+325	2022	17/03/2022	22:08	LG	Leire Gonzalez	https://youtu.be/xf4L6pA6WJI	Paul Westerberg	Let The Bad Times Roll		
+326	2022	21/03/2022	21:44	BB	Buli Bilbao	https://youtu.be/z_DZJ-pCWW4	No Fit State 	Black Light		
+327	2022	21/03/2022	21:44	BB	Buli Bilbao	https://youtu.be/mG7_C0tpQu4	No Fit State 	On Your Own		
+328	2022	21/03/2022	21:44	BB	Buli Bilbao	https://youtu.be/_6dYUxG_0C8	No Fit State 	Yer Blues		
+329	2022	22/03/2022	21:54	BB	Buli Bilbao	https://youtu.be/B3OEofsCur8	The War On Drugs 	Living Proof [Official Video]		
+330	2022	24/03/2022	22:26	LG	Leire Gonzalez	https://youtu.be/N5EnGwXV_Pg	John Mayer 	Your Body Is A Wonderland (Official Video)		
+331	2022	24/03/2022	22:28	LG	Leire Gonzalez	https://youtu.be/CQEoLHeI0tA	John Mayer 	I Guess I Just Feel Like (Official Lyric Video)		
+332	2022	25/03/2022	22:24	BB	Buli Bilbao	https://youtu.be/QXMwEsfUBUo	Van Morrison 	And the Healing Has Begun		
+333	2022	25/03/2022	22:25	BB	Buli Bilbao	https://youtu.be/sSPkXKVf2WA	Van Morrison 	Stranded		
+334	2022	27/03/2022	12:31	BB	Buli Bilbao	https://youtu.be/JozAmXo2bDE	Foo Fighters	Learn to Fly		
+335	2022	28/03/2022	21:42	BB	Buli Bilbao	https://youtu.be/SKde1RsXuNc	Courtney Barnett 	Rae Street (Live on KEXP)		
+336	2022	28/03/2022	21:43	BB	Buli Bilbao	https://youtu.be/4bMvobbP4rM	Courtney Barnett 	Depreston		
+337	2022	28/03/2022	21:43	BB	Buli Bilbao	https://youtu.be/Q9JgAbY_HAw	Courtney Barnett 	An Illustration of Loneliness (Sleepless in New York) (Live on KEXP)		
+338	2022	29/03/2022	21:49	BB	Buli Bilbao	https://youtu.be/-KT-r2vHeMM	Marcy Playground 	Sex & Candy (Official Music Video)		
+339	2022	29/03/2022	21:50	BB	Buli Bilbao	https://youtu.be/QPWZZ4QaSQ0	Marcy Playground 	St. Joe On The School Bus		
+340	2022	30/03/2022	17:27	BB	Buli Bilbao	https://youtu.be/dJhL3VOOatA	Marcy Playground 	Sherry Fraser		
+341	2022	31/03/2022	21:55	LG	Leire Gonzalez	https://youtu.be/DLfi8SdAeEY	Jesse Malin 	Crawling Back To You (Official Video)		
+342	2022	31/03/2022	23:17	BB	Buli Bilbao	https://youtu.be/hAFuD-S-e_E	Nada Surf	Popular (Official Video) [Remastered in HD]		
+343	2022	31/03/2022	23:18	BB	Buli Bilbao	https://youtu.be/vVUBBo2Ac1Q	Nada Surf	Where Is My Mind? (Official Video)		
+344	2022	04/04/2022	21:51	BB	Buli Bilbao	https://youtu.be/qbQ-623JcD8	Surf Curse 	Hour of the Wolf		
+345	2022	04/04/2022	21:52	BB	Buli Bilbao	https://youtu.be/_Z0Uw04tmuo	Surf Curse 	Safe		
+346	2022	06/04/2022	22:00	BB	Buli Bilbao	https://m.youtube.com/watch?v=PMr4jJghHAs	Jolie Holland 	Mexican Blue (fan video)		
+347	2022	07/04/2022	20:28	LG	Leire Gonzalez	https://youtu.be/0XQIT1_oKVY	Codeine 	Cave		
+348	2022	07/04/2022	21:22	BB	Buli Bilbao	https://m.youtube.com/watch?v=6k8es2BNloE&cbrd=1	The Black Keys 	Little Black Submarines [Official Music Video]		
+349	2022	08/04/2022	22:06	BB	Buli Bilbao	https://youtu.be/CcpQvXYrEe8	Morly 	Twain Harte		
+350	2022	09/04/2022	23:04	BB	Buli Bilbao	https://youtu.be/bnr5eCEoXro	Bryan Ferry 	This Is Tomorrow [Official]		
+351	2022	10/04/2022	21:58	BB	Buli Bilbao	https://youtu.be/Hi3i5nQhBaI	Chris Cornell 	Thank You		
+352	2022	11/04/2022	21:51	BB	Buli Bilbao	https://youtu.be/4cEzXei_t2k	Good Looks 	Almost Automatic [official music video]		
+353	2022	11/04/2022	21:52	BB	Buli Bilbao	https://youtu.be/UxAbQ0IFgHA	Good Looks	Vision Boards		
+354	2022	14/04/2022	22:54	BB	Buli Bilbao	https://youtu.be/HxJhYpTIrl8	José Gonzales 	Heartbeats		
+355	2022	18/04/2022	22:11	BB	Buli Bilbao	https://youtu.be/sAJzeDXcgYA	Nathaniel Rateliff	Liverpool (Live)		
+356	2022	18/04/2022	22:11	BB	Buli Bilbao	https://youtu.be/JFD5Gj-ZCxA	Nathaniel Rateliff	Winded		
+357	2022	21/04/2022	22:09	LG	Leire Gonzalez	https://youtu.be/otGz6hz-AXo	Garota de Ipanema 	Stan Getz & João Gilberto		
+358	2022	25/04/2022	21:25	BB	Buli Bilbao	https://youtu.be/upJgj3WhL4k	Pearl Jam 	Immortality		
+359	2022	25/04/2022	21:26	BB	Buli Bilbao	https://youtu.be/vXqwtUUPe0w	Pearl Jam 	Man of the Hour		
+360	2022	28/04/2022	21:34	LG	Leire Gonzalez	https://youtu.be/PccS-4wSZCY	Red Hot Chili Peppers 	These Are The Ways (Official Music Video)		
+361	2022	28/04/2022	21:36	LG	Leire Gonzalez	https://youtu.be/ZL1pd0ebh_E	Red Hot Chili Peppers 	Tangelo (Official Audio)		
+362	2022	01/05/2022	22:15	BB	Buli Bilbao	https://youtu.be/1uYWYWPc9HU+	Radiohead 	Karma Police		
+363	2022	02/05/2022	21:52	BB	Buli Bilbao	https://youtu.be/bPO0bTaWcFQ	Patti Smith 	Gloria (Official Audio)		
+364	2022	02/05/2022	21:53	BB	Buli Bilbao	https://youtu.be/cY2B_9KpRqk	Patti Smith 	Changing of the Guards		
+365	2022	05/05/2022	22:23	LG	Leire Gonzalez	https://youtu.be/q92QVDLnxEg	Damien Rice 	Grey Room [con subtitulos]		
+366	2022	05/05/2022	22:25	LG	Leire Gonzalez	https://youtu.be/xGIIfNxfUAE	Damien Rice 	My Favourite Faded Fantasy [Clip]		
+367	2022	07/05/2022	22:51	BB	Buli Bilbao	https://youtu.be/KafPy8gc3zI	Red Hot Chili Peppers	Not the One		
+368	2022	09/05/2022	21:53	BB	Buli Bilbao	https://youtu.be/AYqJtqyeilE	Van Morrison	And It Stoned Me (2013 Remaster)		
+369	2022	12/05/2022	22:24	LG	Leire Gonzalez	https://youtu.be/n9MgJ_VTpb0	Sharon Van Etten 	Mistakes (Official Video)		
+370	2022	13/05/2022	22:14	BB	Buli Bilbao	https://youtu.be/pI3f_p1cMuE	The Black Keys 	Good Love (Official Visualizer)		
+371	2022	13/05/2022	22:15	BB	Buli Bilbao	https://youtu.be/TVmQkKNa8g0	The Black Keys 	Happiness (Official Visualizer)		
+372	2022	16/05/2022	22:08	BB	Buli Bilbao	https://youtu.be/lileE5tHbZ8	Ben Harper & The Innocent Criminals 	Call It What It Is		
+373	2022	16/05/2022	22:09	BB	Buli Bilbao	https://youtu.be/D-YqpPCEPiQ	Ben Harper & The Innocent Criminals 	All That Has Grown (audio only)		
+374	2022	18/05/2022	22:21	BB	Buli Bilbao	https://youtu.be/gMA1kJ7Uc9s	Aldous Harding 	Fever (Official Video)		
+375	2022	19/05/2022	21:46	LG	Leire Gonzalez	https://youtu.be/qs3Z9bZbWCw	Cecilia Payne 	Sad song		
+376	2022	22/05/2022	20:12	BB	Buli Bilbao	https://www.youtube.com/watch?v=t_YGC_vA0Og	Van Morrison	Caravan (2013 Remaster)		
+377	2022	23/05/2022	22:01	BB	Buli Bilbao	https://youtu.be/ASXriqyKQlk	Ray LaMontagne 	Part Two 		
+378	2022	26/05/2022	21:59	LG	Leire Gonzalez	https://youtu.be/iS1HzKoAXKs	Centro-matic	Flashes and Cables		
+379	2022	26/05/2022	22:01	LG	Leire Gonzalez	https://youtu.be/Pv3Py4mD58Y	Centro-matic, Will Johnson	Fidgeting Wildly		
+380	2022	30/05/2022	22:45	BB	Buli Bilbao	https://www.youtube.com/watch?v=JJiujL03pWk	The Velvet Underground 	I'll Be Your Mirror		
+381	2022	01/06/2022	22:39	BB	Buli Bilbao	https://youtu.be/_7p2ogicS1U	Lynyrd Skynyrd 	Tuesday's Gone (Live) | Winterland Ballroom 1976		
+382	2022	05/06/2022	22:09	BB	Buli Bilbao	https://youtu.be/HN82J9RvCMY	Kevin Morby	A Random Act Of Kindness (Official Video)		
+383	2022	06/06/2022	22:02	BB	Buli Bilbao	https://youtu.be/fgT9zGkiLig	Incubus 	Drive		
+384	2022	06/06/2022	22:03	BB	Buli Bilbao	https://youtu.be/8295rOMvtQI	Incubus 	Wish You Were Here		
+385	2022	12/06/2022	21:01	LG	Leire Gonzalez	https://youtu.be/4a8ThlCb92o	Xabi Bandini con Chica Sobresalto	Zalantza eta Egia		
+386	2022	13/06/2022	22:08	BB	Buli Bilbao	https://m.youtube.com/watch?v=0fcRa5Z6LmU	Red Hot Chili Peppers 	The Zephyr Song [Official Music Video]		
+387	2022	14/06/2022	22:09	BB	Buli Bilbao	https://youtu.be/BP-xffG3ksI	Billy Swan 	Don't Be Cruel (Audio)		
+388	2022	16/06/2022	22:29	LG	Leire Gonzalez	https://youtu.be/ZbXP8PdwnWM	Pixies 	There's A Moon On (Official Lyric Video)		
+389	2022	20/06/2022	22:53	BB	Buli Bilbao	https://youtu.be/s2-oCJmMvqI	Israel Nash	Rexanimarum (Last.fm Sessions)		
+390	2022	23/06/2022	22:35	LG	Leire Gonzalez	https://youtu.be/QfPWdyzadTs	Pinpilinpussies 	Noventas [Official Video]		
+391	2022	26/06/2022	20:54	BB	Buli Bilbao	https://youtu.be/3T1c7GkzRQQ	The Police 	Roxanne (Official Music Video)		
+392	2022	27/06/2022	22:12	BB	Buli Bilbao	https://youtu.be/-zT4u17Tn_o	Waxahatchee 	St. Cloud		
+393	2022	27/06/2022	22:13	BB	Buli Bilbao	https://youtu.be/cEyYlyRr2_U	Waxahatchee 	Fire (Official Video)		
+394	2022	30/06/2022	22:42	LG	Leire Gonzalez	https://youtu.be/XIg87UsTBOM	Paolo Nutini  	Through The Echoes | Later... with Jools Holland		
+395	2022	30/06/2022	22:43	LG	Leire Gonzalez	https://youtu.be/sJNHx3QxPMA	Paolo Nutini	Better Man		
+396	2022	04/07/2022	22:07	BB	Buli Bilbao	https://youtu.be/orfhLLo7XDs	U2	Running To Stand Still (Remastered 2007)		
+397	2022	04/07/2022	22:08	BB	Buli Bilbao	https://youtu.be/k0W_ybghFzg	U2 	All I Want Is You (Official Music Video)		
+398	2022	05/07/2022	21:10	BB	Buli Bilbao	https://youtu.be/eKbk7BPXBa4	The Toadies 	Tyler		
+399	2022	07/07/2022	22:25	LG	Leire Gonzalez	https://youtu.be/p21YfobjaVA	Placebo 	Too Many Friends		
+400	2022	08/07/2022	22:55	BB	Buli Bilbao	https://youtu.be/3TABgAeAQrY	The Cure	MAYBE SOMEDAY		
+401	2022	11/07/2022	22:22	BB	Buli Bilbao	https://www.youtube.com/watch?v=dAP4B1G-SWk	Inhaler 	My Honest Face (Official Video)		
+402	2022	11/07/2022	22:24	BB	Buli Bilbao	https://youtu.be/l0Hilyfp_8A	Inhaler	These Are The Days		
+403	2022	11/07/2022	22:28	BB	Buli Bilbao	https://www.youtube.com/watch?v=SiPgE0Ur1Jc	Inhaler	When I'm With You		
+404	2022	14/07/2022	22:38	LG	Leire Gonzalez	https://youtu.be/qtpcQGHV_Gw	Ed Maverick 	siempreestoypati		
+405	2022	14/07/2022	22:40	LG	Leire Gonzalez	https://youtu.be/M0YKOq_lWSQ	Ed Maverick 	Acurrucar		
+406	2022	16/07/2022	22:23	BB	Buli Bilbao	https://youtu.be/0XcN12uVHeQ	Red Hot Chili Peppers 	Soul To Squeeze [Official Music Video]		
+407	2022	18/07/2022	22:12	BB	Buli Bilbao	https://youtu.be/u5SmLgGnKJ4	Blondie 	Sunday Girl 		
+408	2022	18/07/2022	22:14	BB	Buli Bilbao	https://youtu.be/QbdCpi4qTNY	Blondie 	Picture This		
+409	2022	19/07/2022	22:24	BB	Buli Bilbao	https://youtu.be/DJKOVx4HVXM	Nathaniel Rateliff & The Night Sweats, Lucius	Babe I Know		
+410	2022	21/07/2022	22:43	LG	Leire Gonzalez	https://youtu.be/0j7dRXeRQs0	The White Buffalo 	Highwayman		
+411	2022	21/07/2022	22:45	LG	Leire Gonzalez	https://youtu.be/zMnv_AmmThw	The White Buffalo 	Problem Solution		
+412	2022	24/07/2022	22:56	BB	Buli Bilbao	https://youtu.be/8oWfHcl94k4	Led Zeppelin	Ramble On (Remaster)		
+413	2022	25/07/2022	22:35	BB	Buli Bilbao	https://youtu.be/vUVNbPlKbXI	Jerry Leger	Have You Ever Been Happy		
+414	2022	25/07/2022	22:36	BB	Buli Bilbao	https://youtu.be/mgE6cpAt9YI	Jerry Leger	Kill It With Kindness		
+415	2022	25/07/2022	22:37	BB	Buli Bilbao	https://youtu.be/CwPMbB3jwIg	Jerry Leger 	Factory Made (official music video)		
+416	2022	28/07/2022	22:50	LG	Leire Gonzalez	https://youtu.be/A_xHMKkzPc4	Marcus King 	The Well (Official Music Video)		
+417	2022	28/07/2022	22:51	LG	Leire Gonzalez	https://youtu.be/lkx4X0wwmao	Marcus King 	No Pain (Official Audio)		
+418	2022	29/07/2022	22:58	BB	Buli Bilbao	https://youtu.be/4rvWM6iaz5M	Barricada	Animal Caliente		
+419	2022	30/07/2022	00:19	LG	Leire Gonzalez	https://youtu.be/rg1KSijKUUU	Touché Amoré 	Non Fiction		
+420	2022	01/08/2022	22:11	BB	Buli Bilbao	https://youtu.be/LLRYS-AkGA8	Garbage 	Even Though Our Love is Doomed (Live at East West Studios)		
+421	2022	01/08/2022	22:12	BB	Buli Bilbao	https://youtu.be/3ppiohVRZ0s	Garbage 	Queer		
+422	2022	04/08/2022	22:29	LG	Leire Gonzalez	https://youtu.be/wtBQdrTrH8w	Fontaines D.C. 	Big Shot (Live on KEXP)		
+423	2022	04/08/2022	22:29	LG	Leire Gonzalez	https://youtu.be/rsiB_0C5-8c	Fontaines D.C. 	Bloomsday (Official Lyric Video)		
+424	2022	06/08/2022	23:30	BB	Buli Bilbao	https://youtu.be/ENXvZ9YRjbo	Weezer 	Say It Ain't So (Version 3)		
+425	2022	08/08/2022	22:00	BB	Buli Bilbao	https://youtu.be/DNkCHIXGf5k	Wilco	Many Worlds		
+426	2022	08/08/2022	22:06	BB	Buli Bilbao	https://youtu.be/WkMzMieKTXE	Wilco	All Across the World		
+427	2022	09/08/2022	22:54	BB	Buli Bilbao	https://youtu.be/W6-3rnD7FSc	The Who 	Getting in Tune		
+428	2022	11/08/2022	22:28	LG	Leire Gonzalez	https://youtu.be/gL3oI3MjoPM	Noah Gundersen 	Lose You (Official Acoustic Audio)		
+429	2022	12/08/2022	00:23	BB	Buli Bilbao	https://youtu.be/0lKA0CAcrG4	Noah Gundersen 	All Across the World		
+430	2022	15/08/2022	23:24	BB	Buli Bilbao	https://youtu.be/bPagnhPTbeg	Cat Power	Song to Bobby		
+431	2022	15/08/2022	23:26	BB	Buli Bilbao	https://youtu.be/yVqUHIPXNQA	Cat Power	Metal Heart		
+432	2022	18/08/2022	21:24	LG	Leire Gonzalez	https://youtu.be/DNEFkg8B2oM	Biffy Clyro 	Folding Stars [OFFICIAL VIDEO]		
+433	2022	22/08/2022	22:59	BB	Buli Bilbao	https://youtu.be/Ac0oaXhz1u8	R.E.M. 	Radio Free Europe		
+434	2022	22/08/2022	23:02	BB	Buli Bilbao	https://youtu.be/zCMy6kq5ZA0	R.E.M. 	Talk About The Passion		
+435	2022	26/08/2022	22:53	LG	Leire Gonzalez	https://youtu.be/WocvaWdrDPk	Cesaria Evora & Pedro Guerra 	Tiempo y Silencio		
+436	2022	29/08/2022	21:16	BB	Buli Bilbao	https://youtu.be/4D6buHQYhUI	Julia Jacklin 	Lydia Wears A Cross (Official Video)		
+437	2022	29/08/2022	21:18	BB	Buli Bilbao	https://youtu.be/mueUwrjOP60	Julia Jacklin 	Be Careful With Yourself (Official Visualiser)		
+438	2022	30/08/2022	21:56	BB	Buli Bilbao	https://youtu.be/j7oQEPfe-O8	R.E.M. 	The One I Love (Official Music Video)		
+439	2022	01/09/2022	21:11	LG	Leire Gonzalez	https://youtu.be/ZFLoVW_J0lM	Emma Ruth Rundle 	Return (Official Video)		
+440	2022	01/09/2022	21:12	LG	Leire Gonzalez	https://youtu.be/wDlJ7BBPJw0	Emma Ruth Rundle 	Real Big Sky (Official Video)		
+441	2022	05/09/2022	22:19	BB	Buli Bilbao	https://youtu.be/rRSRrtZeJDw	Billy Bragg & Wilco 	One By One		
+442	2022	05/09/2022	22:20	BB	Buli Bilbao	https://youtu.be/gxzMbAMO73k	Billy Bragg & Wilco 	California Stars (High Quality)		
+443	2022	07/09/2022	22:14	BB	Buli Bilbao	https://youtu.be/WysRLbUW4-g	Laura Veirs	Cool Water		
+444	2022	08/09/2022	22:10	LG	Leire Gonzalez	https://youtu.be/gyHymAxUVrc	Rory Gallagher 	Moonchild		
+445	2022	08/09/2022	22:13	LG	Leire Gonzalez	https://youtu.be/tJxdaOyV8JM	Rory Gallagher	For The Last Time		
+446	2022	09/09/2022	22:29	BB	Buli Bilbao	https://youtu.be/ccMYgiSC_eQ	David Bowie	Oh! You Pretty Things (2015 Remaster)		
+447	2022	09/09/2022	22:33	BB	Buli Bilbao	https://youtu.be/r8IGkLWmf4E	David Bowie	The Bewlay Brothers (2015 Remaster)		
+448	2022	12/09/2022	22:22	BB	Buli Bilbao	https://youtu.be/_XwOeJW_9HU	Pete Yorn 	Life On A Chain		
+449	2022	12/09/2022	22:23	BB	Buli Bilbao	https://youtu.be/zginCd6D0as	Pete Yorn 	For Nancy ('Cos It Already Is)		
+450	2022	13/09/2022	22:54	BB	Buli Bilbao	https://youtu.be/V04bUY5Kl8w	The Smiths	Reel Around the Fountain (2011 Remaster)		
+451	2022	13/09/2022	22:55	BB	Buli Bilbao	https://youtu.be/5mF4pKSi2SU	The Smiths 	Asleep (Official Video)		
+452	2022	14/09/2022	23:53	LG	Leire Gonzalez	https://youtu.be/68JBlBTjK0E	Keroboia	Esaldi Sinple bat galdera handiegirako 		
+453	2022	15/09/2022	22:49	LG	Leire Gonzalez	https://youtu.be/RyUVNFBZ_X4	Mark Lanegan 	Strange Religion		
+454	2022	15/09/2022	22:52	LG	Leire Gonzalez	https://youtu.be/vWeas2-n-HM	Mark Lanegan & Isobel Campbell	Come On Over (Turn Me On)		
+455	2022	19/09/2022	22:20	BB	Buli Bilbao	https://youtu.be/2l4alp0De8Y	Heartless Bastards 	Only For You		
+456	2022	19/09/2022	22:21	BB	Buli Bilbao	https://youtu.be/_0OXs3ez90k	Heartless Bastards  	Parted Ways 		
+457	2022	19/09/2022	22:22	BB	Buli Bilbao	https://youtu.be/uqZulPVnZSs	Heartless Bastards 	Marathon		
+458	2022	21/09/2022	22:09	BB	Buli Bilbao	https://youtu.be/Nzn5uOv5gHs	Oasis 	Let's All Make Believe		
+459	2022	22/09/2022	21:28	LG	Leire Gonzalez	https://youtu.be/PmSwUCdQQC4	First Aid Kit 	Out of My Head (Official Video)		
+460	2022	22/09/2022	21:35	LG	Leire Gonzalez	https://youtu.be/Hi5A9OCAyIk	First Aid Kit	Emmylou		
+461	2022	26/09/2022	22:16	BB	Buli Bilbao	https://youtu.be/S_cNmBYFc-w	Marcus King 	Good and Gone (Official Audio)		
+462	2022	26/09/2022	22:18	BB	Buli Bilbao	https://youtu.be/uGcIV1XAik0	Marcus King 	Blood on the Tracks (Live From Easy Sound)		
+463	2022	26/09/2022	23:27	BB	Buli Bilbao	https://youtu.be/Cu80qGjvgKU	Ashland Craft 	Highway Like Me (feat. Marcus King) (Visualizer)		
+464	2022	27/09/2022	08:03	BB	Buli Bilbao	https://youtu.be/Kp7ekqTj9eo	Elvis Perkins In Dearland 	Shampoo (Gold Room Session)		
+465	2022	29/09/2022	22:06	LG	Leire Gonzalez	https://youtu.be/O0jBwk71Qcw	Bruce Springsteen 	Do I Love You (Indeed I Do) (Official Video)		
+466	2022	01/10/2022	23:25	BB	Buli Bilbao	https://youtu.be/csTJW6A1174	Pixies 	Vault of Heaven (Official Video)		
+467	2022	01/10/2022	23:26	BB	Buli Bilbao	https://youtu.be/5SzhN9JRmsg	Pixies 	The Lord Has Come Back Today (Official Lyric Video)		
+468	2022	03/10/2022	22:16	BB	Buli Bilbao	https://youtu.be/EvQCYghdcys	Okkervil River	Westfall		
+469	2022	03/10/2022	22:17	BB	Buli Bilbao	https://youtu.be/eBYCNN0ml8A	Okkervil River	Lost Coastlines		
+470	2022	04/10/2022	06:58	BB	Buli Bilbao	https://youtu.be/qextQHRmePM	Okkervil River	Black		
+471	2022	04/10/2022	06:58	BB	Buli Bilbao	https://youtu.be/PCMIVbNDFnY	Okkervil River	Unless It's Kicks		
+472	2022	04/10/2022	21:00	BB	Buli Bilbao	https://youtu.be/9s6Z3TVP4pk	Okkervil River	Down Down The Deep River		
+473	2022	06/10/2022	23:26	LG	Leire Gonzalez	https://youtu.be/JQ4mFaI17pk	Benjamin Clementine 	I Won’t Complain		
+474	2022	09/10/2022	22:54	BB	Buli Bilbao	https://youtu.be/lnSjtKFcW1Y	Cat Power 	The Greatest (Live ACL 2006		
+475	2022	09/10/2022	22:58	BB	Buli Bilbao	https://www.youtube.com/watch?v=l9QgHd1kV4Q	Cat Power 	Lived in Bars (Austin City Limits, 17.09.2006)		
+476	2022	10/10/2022	22:00	BB	Buli Bilbao	https://youtu.be/83v7gXQapp0	Van Morrison  	Keep It Simple		
+477	2022	10/10/2022	22:02	BB	Buli Bilbao	https://youtu.be/bCxrGbfzG38	Van Morrison  	Into The Mystic		
+478	2022	11/10/2022	23:17	BB	Buli Bilbao	https://youtu.be/OC5zHACynR4	Interpol 	Obstacle 1		
+479	2022	11/10/2022	23:19	BB	Buli Bilbao	https://youtu.be/1L69KHeS3Tg	Untitled 	Interpol		
+480	2022	13/10/2022	23:08	LG	Leire Gonzalez	https://youtu.be/3J70qFHgTLQ	Sorority Noise 	Smoke - Live at Little Elephant		
+481	2022	13/10/2022	23:15	LG	Leire Gonzalez	https://youtu.be/lN_d-czrz8I	Sorority Noise 	Smoke		
+482	2022	17/10/2022	22:26	BB	Buli Bilbao	https://youtu.be/hx-hZ6Qg8Hk	Nathaniel Rateliff	Famous Blue Raincoat 		
+483	2022	17/10/2022	22:29	BB	Buli Bilbao	https://youtu.be/YTwBZntbigg	James Taylor 	Coming Back To You by Leonard Cohen (Official Visualizer)		
+484	2022	18/10/2022	22:23	BB	Buli Bilbao	https://youtu.be/NaUCDqWzy1k	Jason Isbell 	Cover Me Up | Live on Austin City Limits TV		
+485	2022	20/10/2022	22:29	LG	Leire Gonzalez	https://youtu.be/d8MYmdm2qWE	The Appleseed Cast	Marigold & Patchwork		
+486	2022	21/10/2022	22:58	BB	Buli Bilbao	https://youtu.be/zB1cg9tAeYY	Ramones 	We Want The Airwaves (Official Music Video)		
+487	2022	21/10/2022	23:00	BB	Buli Bilbao	https://youtu.be/HJWFsZ_YUc4	Ramones 	Pet Sematary (Official Music Video) [HD]		
+488	2022	21/10/2022	23:04	BB	Buli Bilbao	https://youtu.be/OfIfzVf8t6E	Ramones 	Poison Heart		
+489	2022	24/10/2022	22:36	BB	Buli Bilbao	https://youtu.be/zcFXdTCtbwE	Lou Reed	Turning Time Around		
+490	2022	27/10/2022	22:55	LG	Leire Gonzalez	https://youtu.be/RokWvjgzbvM	Izaro	Eider		
+491	2022	27/10/2022	22:56	LG	Leire Gonzalez	https://youtu.be/iFwSOnZgGvA	Eskaleok 	IZARO		
+492	2022	28/10/2022	06:51	BB	Buli Bilbao	https://youtu.be/BBMMT8IYAbI	Coldplay	Everything's Not Lost+Life Is For Living 		
+493	2022	31/10/2022	22:29	BB	Buli Bilbao	https://youtu.be/0P5jV4lHHR0	Tom Waits 	Hold On		
+494	2022	31/10/2022	22:33	BB	Buli Bilbao	https://youtu.be/qWDJIwqCXi4	Tom Waits 	Downtown Train		
+495	2022	03/11/2022	22:21	LG	Leire Gonzalez	https://youtu.be/ufbDvPaVrzs	Dermot Kennedy 	Innocence and Sadness (Live From Mission Sound Studios, Brooklyn)		
+496	2022	07/11/2022	22:11	BB	Buli Bilbao	https://youtu.be/pp8RjKOID1I	Elvis Costello & The Attractions	I Want You		
+497	2022	08/11/2022	23:43	BB	Buli Bilbao	https://youtu.be/KisHhIRihMY	The Velvet Underground 	Pale Blue Eyes		
+498	2022	10/11/2022	22:25	LG	Leire Gonzalez	https://youtu.be/gixKCoZFUK0	Mogwai 	Travel Is Dangerous		
+499	2022	13/11/2022	23:12	BB	Buli Bilbao	https://youtu.be/UiKCOdgea_0	Sharon Van Etten 	Serpents		
+500	2022	13/11/2022	23:14	BB	Buli Bilbao	https://youtu.be/asucnxxX83w	Sharon Van Etten 	One Day (Live on KEXP)		
+501	2022	14/11/2022	22:12	BB	Buli Bilbao	https://youtu.be/DlaH6qfwIH8	Etta James 	I'd Rather Go Blind		
+502	2022	17/11/2022	22:29	LG	Leire Gonzalez	https://youtu.be/osdoLjUNFnA	Taylor Swif	exile (feat. Bon Iver)		
+503	2022	21/11/2022	22:13	BB	Buli Bilbao	https://youtu.be/4M4RWUQbYks	The Berries 	Down That Road Again		
+504	2022	21/11/2022	22:15	BB	Buli Bilbao	https://youtu.be/pQkKUh55U7c	The Berries 	Passing Scene		
+505	2022	24/11/2022	21:19	LG	Leire Gonzalez	https://youtu.be/c3NXiNtCD5I	Willis Drummond, Jurgi Ekiza, Xan Bidegain, Felix Buff, Vincent Bestaven	Ez Dugu Behar		
+506	2022	24/11/2022	21:20	LG	Leire Gonzalez	https://youtu.be/SSBK3uq8B3U	Willis Drummond, Jurgi Ekiza, Xan Bidegain, Felix Buff, Vincent Bestaven	Har Eta Bota		
+507	2022	25/11/2022	23:11	BB	Buli Bilbao	https://youtu.be/YFvW9hGUe9s	David Gilmour 	Wish You Were Here (In Concert)		
+508	2022	27/11/2022	00:36	LG	Leire Gonzalez	https://youtu.be/KxX4RYmBWxo	Willis Drummond	A Ala B		
+509	2022	28/11/2022	22:28	BB	Buli Bilbao	https://youtu.be/cORKs4adASI	Neil Young & Crazy Horse 	Over and Over (Official Live Audio)		
+510	2022	29/11/2022	22:05	BB	Buli Bilbao	https://youtu.be/jB9BbZHJ7-g	Guy Clark	Hell Bent of a Heartache		
+511	2022	01/12/2022	22:50	LG	Leire Gonzalez	https://youtu.be/GC5E8ie2pdM	Tina Turner 	The Best (Official Music Video) [HD Upgrade]		
+512	2022	03/12/2022	01:54	BB	Buli Bilbao	https://youtu.be/HKOFSJS8ygo	Eddie Vedder	More Than You Know		
+513	2022	05/12/2022	22:39	BB	Buli Bilbao	https://youtu.be/unxdyCx9nFA?list=RDunxdyCx9nFA	Lambchop	The Gettysburg Address		
+514	2022	05/12/2022	22:42	BB	Buli Bilbao	https://youtu.be/tFM4HzHF19Q?list=RDtFM4HzHF19Q	Backstreet Girl	Lambchop		
+515	2022	08/12/2022	21:58	LG	Leire Gonzalez	https://youtu.be/6aoXIAQBeS4	Wunderhorse 	Butterflies		
+516	2022	08/12/2022	21:58	LG	Leire Gonzalez	https://youtu.be/hlS2tPjSwB8	Wunderhorse 	Morphine (Live from HOXA HQ)		
+517	2022	11/12/2022	22:30	BB	Buli Bilbao	https://youtu.be/XROPILLdgcc	Andres Calamaro	Son las nueve		
+518	2022	12/12/2022	22:34	BB	Buli Bilbao	https://youtu.be/aP-oFkZknS4	Red Hot Chili Peppers 	The Drummer (Official Music Video)		
+519	2022	12/12/2022	22:35	BB	Buli Bilbao	https://youtu.be/5-T6CbGOOjE	Red Hot Chili Peppers 	Carry Me Home		
+520	2022	15/12/2022	22:38	LG	Leire Gonzalez	https://youtu.be/F2q3C1Vj3pY	The Mysterines 	Dangerous | Later... with Jools Holland		
+521	2022	19/12/2022	22:17	BB	Buli Bilbao	https://m.youtube.com/watch?v=0S47DKUNe4g	Pretenders 	You Can't Hurt a Fool (Official Video)		
+522	2022	22/12/2022	22:11	LG	Leire Gonzalez	https://youtu.be/RB-RcX5DS5A	Coldplay 	The Scientist (Official 4K Video)		
+523	2022	24/12/2022	22:30	BB	Buli Bilbao	https://youtu.be/5L7GMKClsTg	Alanis Morissette	Thank U		
+524	2022	26/12/2022	22:07	BB	Buli Bilbao	https://youtu.be/bcnIhzaDTd0	Courtney Barnett 	Avant Gardener		
+525	2022	26/12/2022	22:07	BB	Buli Bilbao	https://youtu.be/TISIPNpRuoY	Courtney Barnett 	Need A Little Time		
+526	2022	26/12/2022	22:08	BB	Buli Bilbao	https://youtu.be/u-NmWxIeCSA	Courtney Barnett 	If I Don't Hear From You Tonight [Official Video]		
+527	2022	29/12/2022	21:26	LG	Leire Gonzalez	https://youtu.be/2MMpYIuDMlg	Sunny Day Real Estate	Pillars		
+528	2022	29/12/2022	21:27	LG	Leire Gonzalez	https://youtu.be/m1yubHkyJUQ	Sunny Day Real Estate	Sometimes		
+529	2022	31/12/2022	00:16	BB	Buli Bilbao	https://youtu.be/vblNj75hUpM	Coldplay 	Amsterdam		
+530	2023	02/01/2023	22:42	BB	Buli Bilbao	https://youtu.be/9jBhSWINsqo	Chris Cornell 	Scream (Acoustic)		
+531	2023	03/01/2023	23:03	BB	Buli Bilbao	https://youtu.be/vo-lelcDrDg	Waxahatchee 	Grass Stain		
+532	2023	04/01/2023	22:28	BB	Buli Bilbao	https://youtu.be/t09uWaHK56w	Counting Crows	Mean Jumper Blues (Acoustic Demo)		
+533	2023	05/01/2023	22:28	LG	Leire Gonzalez	https://youtu.be/vCqgK5cT_7I	Phil Lynott 	Dear miss lonely hearts		
+534	2023	06/01/2023	23:14	BB	Buli Bilbao	https://youtu.be/dBWFUVq85gs	Jack Johnson 	I Got You (Official Video)		
+535	2023	06/01/2023	23:45	BB	Buli Bilbao	https://youtu.be/8CVuZOH7b0Y	jack johnson	brushfire fairytales		
+536	2023	07/01/2023	22:11	BB	Buli Bilbao	https://youtu.be/9EKi2E9dVY8	Alice In Chains 	Nutshell (MTV Unplugged 		
+537	2023	08/01/2023	23:45	BB	Buli Bilbao	https://youtu.be/vZCMgm6Z-8M	Pearl Jam	Indifference (Remastered)		
+538	2023	09/01/2023	22:07	BB	Buli Bilbao	https://youtu.be/jonnFVv5z5U	eGGs 	A Certain Smile		
+539	2023	09/01/2023	22:13	BB	Buli Bilbao	https://music.apple.com/es/album/guess-what/1510948529?i=1510948532	0			
+540	2023	11/01/2023	19:58	BB	Buli Bilbao	https://youtu.be/U7k2qv8KTDI	Red Hot Chili Peppers			
+541	2023	12/01/2023	22:11	LG	Leire Gonzalez	https://youtu.be/6XiiX5aFTFM?list=RD6XiiX5aFTFM	Anari	Orfidentalak		
+542	2023	16/01/2023	22:16	BB	Buli Bilbao	https://youtu.be/n5h0qHwNrHk	Radiohead 	Fake Plastic Trees		
+543	2023	19/01/2023	23:27	LG	Leire Gonzalez	https://youtu.be/Qj8OqUNeY88	Gary Clark Jr.	Bright Lights (Bing Lounge)		
+544	2023	19/01/2023	23:28	LG	Leire Gonzalez	https://youtu.be/v_fYOOEhj-s	Gary Clark Jr.	Live at The Surf Lodge		
+545	2023	20/01/2023	23:41	BB	Buli Bilbao	https://youtu.be/MX0eqkLjR4Y	Nikki Hill	Don't Cry Anymore		
+546	2023	20/01/2023	23:48	BB	Buli Bilbao	https://youtu.be/m2W9JMf9VS0	Nikki Hill	Hymn for Hard Luck		
+547	2023	23/01/2023	22:52	BB	Buli Bilbao	https://youtu.be/xmUZ6nCFNoU	The Smashing Pumpkins 	Today		
+548	2023	23/01/2023	22:54	BB	Buli Bilbao	https://youtu.be/60J6HlvfePM?list=RD60J6HlvfePM	The Smashing Pumpkins 	Soma		
+549	2023	26/01/2023	22:28	LG	Leire Gonzalez	https://youtu.be/9K1OOkjTkek	The Snuts 	Always (Official Live Music Video)		
+550	2023	30/01/2023	23:00	BB	Buli Bilbao	https://youtu.be/ACOORdjvdVg	Wilder Maker 	Letter of Apology		
+551	2023	30/01/2023	23:02	BB	Buli Bilbao	https://youtu.be/qzyF0d21qsM	Wilder Maker 	Train		
+552	2023	31/01/2023	23:14	BB	Buli Bilbao	https://youtu.be/YErXozSHW9w	Tom Waits 	Blue Skies		
+553	2023	01/02/2023	23:33	BB	Buli Bilbao	https://youtu.be/v-dm9w_laAM	The Smashing Pumpkins	1979 (Acoustic)		
+554	2023	02/02/2023	21:33	LG	Leire Gonzalez	https://youtu.be/KBX5jZCi6XM?list=RDKBX5jZCi6XM	Ainara Legardon	We Once Wished		
+555	2023	06/02/2023	22:32	BB	Buli Bilbao	https://youtu.be/R-BT2yzXP8w	U2 	Stuck In A Moment You Can't Get Out Of (Official Music Video)		
+556	2023	09/02/2023	23:33	LG	Leire Gonzalez	https://youtu.be/6nFTcBHBwxw	Katie Malco	September		
+557	2023	13/02/2023	22:17	BB	Buli Bilbao	https://youtu.be/bpZvg_FjL3Q	Bob Dylan 	Hurricane (Official Audio)		
+558	2023	13/02/2023	22:18	BB	Buli Bilbao	https://youtu.be/bT7Hj-ea0VE	Bob Dylan 	All Along the Watchtower (Official Audio)		
+559	2023	16/02/2023	22:40	LG	Leire Gonzalez	https://youtu.be/WasnyBJJdoU	Bedhead 	Forgetting		
+560	2023	16/02/2023	22:41	LG	Leire Gonzalez	https://youtu.be/46_1rdbPBZ4	Bedhead 	Bedhead		
+561	2023	17/02/2023	23:27	BB	Buli Bilbao	https://youtu.be/3DbTIKHYwog?list=RD3DbTIKHYwog	Van Morrison	Tupelo Honey		
+562	2023	20/02/2023	22:57	BB	Buli Bilbao	https://youtu.be/-X6wBDnyh1E?list=RD-X6wBDnyh1E	Led Zeppelin	Over the Hills and Far Away (Live at Madison Square Garden 1973)		
+563	2023	20/02/2023	23:00	BB	Buli Bilbao	https://youtu.be/DBzuYNK95sM	Led Zeppelin	Physical Graffiti		
+564	2023	23/02/2023	22:18	LG	Leire Gonzalez	https://youtu.be/eHOb6Ekcnps	Joe Purdy	Cursin' Air		
+565	2023	26/02/2023	00:05	BB	Buli Bilbao	https://youtu.be/oIIxlgcuQRU	Yeah Yeah Yeahs 	Maps (Official Music Video)		
+566	2023	26/02/2023	00:06	BB	Buli Bilbao	https://youtu.be/AQUYSVIGvck	Yeah Yeah Yeahs	Poor Song		
+567	2023	27/02/2023	22:28	BB	Buli Bilbao	https://youtu.be/QQoamTeF3-U	L7 	Can I Run		
+568	2023	27/02/2023	22:31	BB	Buli Bilbao	https://youtu.be/qcmr04lyTE8	L7 	Livin' Large		
+569	2023	02/03/2023	23:00	LG	Leire Gonzalez	https://youtu.be/b_f2qiL_nP4	Guitarricadelafuente 	Guantanamera (Vídeo Oficial)		
+570	2023	06/03/2023	22:13	BB	Buli Bilbao	https://youtu.be/r_AHWi7HR5g	Eddie Vedder 	Without You		
+571	2023	09/03/2023	00:26	BB	Buli Bilbao	https://youtu.be/MhmIV9jlYyY	Jack's Mannequin	Holiday from Real (2015 Remastered)		
+572	2023	09/03/2023	00:28	BB	Buli Bilbao	https://youtu.be/WdW48xSbb9s	Jack's Mannequin 	The Mixed Tape [Official Music Video]		
+573	2023	09/03/2023	22:38	LG	Leire Gonzalez	https://youtu.be/p23do6HVVKA	Bide Ertzean	Zatoz		
+574	2023	11/03/2023	23:57	BB	Buli Bilbao	https://youtu.be/XIkzPVEOgM0	Throw Me A Rope 	Kt Tunstall (Lyrics)		
+575	2023	13/03/2023	22:06	BB	Buli Bilbao	https://youtu.be/JmAidYHTSoU?list=RDJmAidYHTSoU	Van Morrison	Careless Love		
+576	2023	14/03/2023	22:08	LG	Leire Gonzalez	https://youtu.be/rSBgAYvn_9c?list=RDrSBgAYvn_9c	Rita Payés 	Algo Contigo		
+577	2023	14/03/2023	22:25	BB	Leire Gonzalez	https://youtu.be/AySBPCkGyyY	Rita Payés 	Nunca vas a comprender		
+578	2023	15/03/2023	20:42	BB	Buli Bilbao	https://youtu.be/tHAhnJbGy9M	Regina Spektor 	On The Radio		
+579	2023	16/03/2023	22:38	LG	Leire Gonzalez	https://youtu.be/bIX_ouNJsTs	boygenius	Not Strong Enough (official music video)		
+580	2023	16/03/2023	22:39	LG	Leire Gonzalez	https://youtu.be/vsUH50GOih0	boygenius	Emily I’m Sorry (official audio)		
+581	2023	19/03/2023	00:53	BB	Buli Bilbao	https://youtu.be/XBT_8lWXbLs	Wilder Maker 	Hope Springs | Audiotree Live		
+582	2023	20/03/2023	20:23	BB	Buli Bilbao	https://youtu.be/TDmMIWbopfY	Nathaniel Rateliff & The Night Sweats	Say It Louder		
+583	2023	20/03/2023	20:23	BB	Buli Bilbao	https://youtu.be/Enm0XL7xx_E	Nathaniel Rateliff & The Night Sweats	You Worry Me		
+584	2023	20/03/2023	21:59	BB	Buli Bilbao	https://youtu.be/fEJboiFn_c0	Nathaniel Rateliff & The Night Sweats	Tearing at the Seams		
+585	2023	22/03/2023	00:07	BB	Buli Bilbao	https://youtu.be/GTVedGvi450	Fontaines D.C. 	Roy's Tune (Live on KEXP)		
+586	2023	23/03/2023	20:35	BB	Buli Bilbao	https://youtu.be/OnuuYcqhzCE	Linkin Park	Bleed It Out (Official Music Video)		
+587	2023	27/03/2023	22:10	BB	Buli Bilbao	https://youtu.be/ib96-ytmLDg	Bruce Springsteen 	Song For Orphans (Official Audio)		
+588	2023	30/03/2023	22:43	LG	Leire Gonzalez	https://youtu.be/ILNAM5KDuhk	Mari Froes 	Eu (Clipe Oficial)		
+589	2023	01/04/2023	00:23	BB	Buli Bilbao	https://youtu.be/DtYEmnAzmDU?list=RDDtYEmnAzmDU	Gerry Cinnamon	Fickle McSelfish		
+590	2023	01/04/2023	00:26	BB	Buli Bilbao	https://youtu.be/cw3LqHhiWzQ	Gerry Cinnamon	Head in the Clouds		
+591	2023	03/04/2023	22:27	BB	Buli Bilbao	https://youtu.be/9a17sJFSSds	Matt Berninger 	Walking on a String (feat. Phoebe Bridgers)		
+592	2023	03/04/2023	22:28	BB	Buli Bilbao	https://youtu.be/bP1kfe07CiI	Matt Berninger, Phoebe Bridgers	Walking on a String (Alternate Version)		
+593	2023	05/04/2023	19:30	BB	Buli Bilbao	https://youtu.be/9h_kLH_tPRo	Matt Maltese 	Driving Just To Drive [Official Video]		
+594	2023	05/04/2023	19:30	BB	Buli Bilbao	https://youtu.be/SGQs3wk4SBg	Matt Maltese 	Less and Less [Official Video]		
+595	2023	07/04/2023	01:06	LG	Leire Gonzalez	https://youtu.be/viZkdeLEH_Y	Kaleo 	My Fair Lady [OFFICIAL AUDIO]		
+596	2023	07/04/2023	01:08	LG	Leire Gonzalez	https://youtu.be/NcXsK_u4ixI	Kaleo 	I Can't Go on Without You (live on 89.3 The Current)		
+597	2023	08/04/2023	00:10	BB	Buli Bilbao	https://youtu.be/SwCXMNYmvzI	Jolie Holland	A Crush In The Ghetto		
+598	2023	08/04/2023	00:12	BB	Buli Bilbao	https://m.youtube.com/watch?v=EMTW2JS7T-s	Jolie Holland	Mehitabel's Blues		
+599	2023	10/04/2023	22:51	BB	Buli Bilbao	https://youtu.be/zc8hbSM1zVo	The Killers 	Read My Mind (Official Music Video)		
+600	2023	10/04/2023	22:52	BB	Buli Bilbao	https://youtu.be/gaFl5BjzOLY	The Killers	Glamorous Indie Rock & Roll		
+601	2023	13/04/2023	22:13	LG	Leire Gonzalez	https://youtu.be/STxXS5lLunE	PJ Harvey 	This Is Love		
+602	2023	13/04/2023	22:15	LG	Leire Gonzalez	https://m.youtube.com/watch?v=DhNgkEnmtgw	PJ Harvey	Beautiful feeling 		
+603	2023	17/04/2023	22:03	BB	Buli Bilbao	https://youtu.be/USvSorU0whQ?list=RDUSvSorU0whQ	The Lumineers	brightside (acoustic)		
+604	2023	19/04/2023	00:23	BB	Buli Bilbao	https://youtu.be/lNYzB0Y-8EI	Gomez 	Girlshapedlovedrug		
+605	2023	21/04/2023	00:21	BB	Buli Bilbao	https://youtu.be/zpMfZPAc1kg	Chris Cornell 	Nearly Forgot My Broken Heart (Lyric Video)		
+606	2023	21/04/2023	22:46	LG	Leire Gonzalez	https://youtu.be/j3S8wdJhgac	Foo Fighters 	Rescued (Lyric Video)		
+607	2023	24/04/2023	00:00	BB	Buli Bilbao	https://youtu.be/VamTQr4kcKA	Wilco	Love Is Everywhere (Beware)		
+608	2023	24/04/2023	22:11	BB	Buli Bilbao	https://youtu.be/Hin_NuLuDs8	Alice In Chains 	Don't Follow HQ		
+609	2023	27/04/2023	21:57	LG	Leire Gonzalez	https://youtu.be/uGRlKEmVkdY	Soko	I'll Kill Her		
+610	2023	27/04/2023	21:58	LG	Leire Gonzalez	https://youtube.com/playlist?list=RDpVm08vzULzM&playnext=1	Soko	My Precious (Official Audio)		
+611	2023	30/04/2023	00:30	BB	Buli Bilbao	https://youtu.be/psFCyjI8O7g?list=RDpsFCyjI8O7g	Shovels & Rope 	Mississippi Nuthin' (Acoustic Version)		
+612	2023	30/04/2023	00:31	BB	Buli Bilbao	https://youtu.be/PfsVaRsIy5A?list=RDPfsVaRsIy5A	Shovels & Rope 	Carry Me Home		
+613	2023	01/05/2023	22:23	BB	Buli Bilbao	https://youtu.be/7J9fV29AuOQ	Yo La Tengo	Aselestine (Official Audio)		
+614	2023	01/05/2023	22:25	BB	Buli Bilbao	https://youtu.be/9aFkgmnDpo4	Yo La Tengo	I Heard You Looking		
+615	2023	04/05/2023	22:49	LG	Leire Gonzalez	https://youtu.be/zjTJsa3ZDlc	Gorka Urbizu	Who Am I?		
+616	2023	04/05/2023	23:45	BB	Buli Bilbao	https://youtu.be/WDJ_X0Rqhsk	Lou Reed	Who Am I (Tripitena's  Song)		
+617	2023	06/05/2023	00:05	BB	Buli Bilbao	https://youtu.be/bPD0JLwpc3k	Silver Jews	Random Rules (Official Music Video)		
+618	2023	06/05/2023	00:07	BB	Buli Bilbao	https://youtu.be/XvUBbROsXBw	Purple Mountains	All My Happiness is Gone (Official Music Video)		
+619	2023	08/05/2023	22:41	BB	Buli Bilbao	https://youtu.be/6lF_pc2HHtQ	Grant-Lee Phillips	Red River		
+620	2023	12/05/2023	23:22	LG	Leire Gonzalez	https://youtu.be/T0-2LJ4dvO8	José González 	Line of Fire (Lyric Video)		
+621	2023	15/05/2023	22:49	BB	Buli Bilbao	https://youtu.be/5qNYRLNGFXs?list=RD5qNYRLNGFXs	Nick Waterhouse	Late In The Garden		
+622	2023	15/05/2023	22:51	BB	Buli Bilbao	https://youtu.be/dkGaMtoXbsA	Nick Waterhouse 	The Fooler (Official Stream)		
+623	2023	19/05/2023	23:00	LG	Leire Gonzalez	https://youtu.be/IbfKJoh1lNA	Mazzy Star	Five String Serenade		
+624	2023	22/05/2023	22:11	BB	Buli Bilbao	https://youtu.be/_W978zoLu1w	Rodriguez 	I Wonder (Lyric Video)		
+625	2023	22/05/2023	22:14	BB	Buli Bilbao	https://youtu.be/esG4gK-pieA	Rodriguez	Sugar Man		
+626	2023	25/05/2023	22:04	LG	Leire Gonzalez	https://youtu.be/AMDkemefjxk	Graham Coxon 	Walking All Day (From 'The End of The F***ing World')		
+627	2023	25/05/2023	22:04	LG	Leire Gonzalez	https://youtu.be/8NkKTLJ9bis?list=RD8NkKTLJ9bis	Graham Coxon 	It's All Blue (From 'The End of The F***ing World')		
+628	2023	29/05/2023	22:58	BB	Buli Bilbao	https://youtu.be/EfK8SVWjE3w	Devon Church 	Slouching Toward Bethlehem (Official Video)		
+629	2023	31/05/2023	00:27	BB	Buli Bilbao	https://youtu.be/rBwpLD5mY8Q?list=RDrBwpLD5mY8Q	Ben Harper	Love After Love		
+630	2023	31/05/2023	01:25	BB	Buli Bilbao	https://youtu.be/xASK14VH_e0	Ben Harper	Concert privé @ Maison de la Radio		
+631	2023	01/06/2023	22:19	LG	Leire Gonzalez	https://youtu.be/G89Qxv2LO0s	Fred Neil 	A Little Bit Of Rain		
+632	2023	02/06/2023	00:29	BB	Buli Bilbao	https://youtu.be/rE8JQPMOEyE	The Rolling Stones	Let It Loose		
+633	2023	05/06/2023	22:10	BB	Buli Bilbao	https://youtu.be/u7gmTTSqoaM	PJ Harvey	This mess we're in (feat.Thom Yorke Radiohead)		
+634	2023	08/06/2023	00:12	BB	Buli Bilbao	https://youtu.be/S6k2y4IfwV0	Nathaniel Rateliff & The Night Sweats 	Buy My Round (Official Audio)		
+635	2023	08/06/2023	22:36	LG	Leire Gonzalez	https://youtu.be/6iWYdkcJBo4	Mumford & Sons 	Woman		
+636	2023	08/06/2023	22:37	LG	Leire Gonzalez	https://youtu.be/dW6SkvErFEE	Mumford & Sons 	Believe (Official Music Video)		
+637	2023	09/06/2023	07:29	LG	Leire Gonzalez	https://youtu.be/rGKfrgqWcv0	Mumford & Sons 	I Will Wait (Official Music Video)		
+638	2023	10/06/2023	22:55	BB	Buli Bilbao	https://youtu.be/DnrxAhFkwUU	Daniel Norgren	The Power		
+639	2023	10/06/2023	22:56	BB	Buli Bilbao	https://youtu.be/e2nsLPipH58	Daniel Norgren	Your Love		
+640	2023	12/06/2023	22:00	BB	Buli Bilbao	https://youtu.be/2QQI_mzl_ww	Charlie Cunningham 	Minimum		
+641	2023	12/06/2023	22:00	BB	Buli Bilbao	https://youtu.be/5zrG94CPWt4	Charlie Cunningham 	Permanent Way (Live Session)		
+642	2023	14/06/2023	23:36	BB	Buli Bilbao	https://youtu.be/Fs9YdWRxQvE?list=RDFs9YdWRxQvE	Bush	Creatures Of The Fire		
+643	2023	15/06/2023	23:23	LG	Leire Gonzalez	https://youtu.be/xzH6toY_EPw	Wolf Alice 	The Last Man On Earth (Official)		
+644	2023	19/06/2023	20:36	BB	Buli Bilbao	https://youtu.be/vtP-SGN6VcE	Kevin Morby 	Slow Train		
+645	2023	19/06/2023	20:36	BB	Buli Bilbao	https://youtu.be/22Q_Ec0V2OQ	Kevin Morby 	Campfire (Official Video)		
+646	2023	19/06/2023	20:37	BB	Buli Bilbao	https://youtu.be/HN82J9RvCMY	Kevin Morby 	A Random Act Of Kindness (Official Video)		
+647	2023	19/06/2023	20:37	BB	Buli Bilbao	https://youtu.be/n-WMwLHtLho	Kevin Morby	Kingdom Of Broken Hearts		
+648	2023	22/06/2023	22:42	LG	Leire Gonzalez	https://youtu.be/JzolBLVxR98	Codeine	Tom		
+649	2023	26/06/2023	00:20	BB	Buli Bilbao	https://youtu.be/fzK5kbNL2Ak	Radiohead	Glass Eyes		
+650	2023	26/06/2023	00:21	BB	Buli Bilbao	https://youtu.be/RfmE73FCOFg	Radiohead	Desert Island Disk		
+651	2023	26/06/2023	22:55	BB	Buli Bilbao	https://youtu.be/CmwRQqJsegw	Muse 	Feeling Good (Video)		
+652	2023	29/06/2023	22:34	LG	Leire Gonzalez	https://youtu.be/GhCXAiNz9Jo	Franz Ferdinand 	Take Me Out (Official Video)		
+653	2023	01/07/2023	23:38	BB	Buli Bilbao	https://youtu.be/RVpFu31xxWo	Foo Fighters 	The Glass		
+654	2023	01/07/2023	23:40	BB	Buli Bilbao	https://youtu.be/OogJT8956L0	Foo Fighters 	Rest		
+655	2023	03/07/2023	23:34	BB	Buli Bilbao	https://youtu.be/_lJiwKskTlE	Cat Power 	Good Woman		
+656	2023	09/07/2023	23:35	BB	Buli Bilbao	https://youtu.be/IHauhYNSBog	Paolo Nutini 	Candy 		
+657	2023	10/07/2023	22:45	BB	Buli Bilbao	https://youtu.be/c_HCftMVJes	The Tallest Man On Earth	Slowly Rivers Turn		
+658	2023	10/07/2023	22:46	BB	Buli Bilbao	https://youtu.be/nOlxfV6VGwg	The Tallest Man On Earth 	Henry St. (Live Duyster / Radio 1 Session)		
+659	2023	13/07/2023	22:45	LG	Leire Gonzalez	https://youtu.be/3UQoYeqVfq0	Boneflower	Phosphorous		
+660	2023	13/07/2023	22:46	LG	Leire Gonzalez	https://youtu.be/aQHWrDSHBO0	Boneflower	Tangled		
+661	2023	13/07/2023	23:17	BB	Buli Bilbao	https://youtu.be/6Id8DIrhWVs	Cat Power 	Sea of Love (Juno Soundtrack)		
+662	2023	17/07/2023	21:58	BB	Buli Bilbao	https://youtu.be/MTIzsTv1ENY	Big Thief 	Change (Official Audio)		
+663	2023	17/07/2023	21:58	BB	Buli Bilbao	https://youtu.be/v1eypolupH0	Big Thief 	Certainty (Official Audio)		
+664	2023	20/07/2023	22:41	LG	Leire Gonzalez	https://youtu.be/hYcbe-ulUT0	Slowdive 	Waves		
+665	2023	20/07/2023	22:42	LG	Leire Gonzalez	https://youtu.be/BxwAPBxc0lU	Slowdive 	Sugar for the Pill (Official Video)		
+666	2023	20/07/2023	22:43	LG	Leire Gonzalez	https://youtu.be/G9RpHfPyEx8	Slowdive 	kisses (Official Video)		
+667	2023	20/07/2023	23:55	BB	Buli Bilbao	https://youtu.be/h-xtJZfthls	Pretenders 	The Last Ride		
+668	2023	24/07/2023	22:00	BB	Buli Bilbao	https://youtu.be/c0_cqoKNOng	Courtney Barnett and Kurt Vile performing 	Over Everything (Live on KCRW)		
+669	2023	27/07/2023	22:34	LG	Leire Gonzalez	https://youtu.be/NEZ9fHxjZBc?list=RDNEZ9fHxjZBc	Pip Marinho	Inquietação		
+670	2023	29/07/2023	01:01	BB	Buli Bilbao	https://youtu.be/KWRjozAXqaw	Flock of Dimes 	Price of Blue [OFFICIAL VIDEO]		
+671	2023	31/07/2023	23:04	BB	Buli Bilbao	https://youtu.be/I_zpqpxXoqA	Sinead O'Connor 	Reason with Me		
+672	2023	31/07/2023	23:07	BB	Buli Bilbao	https://youtu.be/WePFE1tM4NA	Sinead O'Connor	All apologies		
+673	2023	01/08/2023	23:51	BB	Buli Bilbao	https://youtu.be/5RtJYZ8SErU	Chris Cornell	Sunshower		
+674	2023	01/08/2023	23:52	BB	Buli Bilbao	https://youtu.be/t_R226jYVug	Chris Cornell 	Murderer of Blue Skies		
+675	2023	03/08/2023	22:28	LG	Leire Gonzalez	https://youtu.be/Qow-4suLBPo	Damien Rice 	Colour Me In (HD 2014)		
+676	2023	07/08/2023	00:08	BB	Buli Bilbao	https://youtu.be/y82uMwGFfVI	The Libertines 	You're My Waterloo		
+677	2023	07/08/2023	21:59	BB	Buli Bilbao	https://youtu.be/hvo3vl5sYNU	Miya Folick 	Nothing To See (Live at Public Records)		
+678	2023	07/08/2023	22:01	BB	Buli Bilbao	https://youtu.be/ov4Pb5VRUUA	Miya Folick	Drugs or People		
+679	2023	10/08/2023	23:11	LG	Leire Gonzalez	https://youtu.be/DqoLMGSBGYc	Tracy Chapman 	Baby Can I Hold You (Official Music Video)		
+680	2023	14/08/2023	23:59	BB	Buli Bilbao	https://youtu.be/Icsuuua0wAI	Belle & Sebastian 	The State I Am In (subtitulos español)		
+681	2023	14/08/2023	23:59	BB	Buli Bilbao	https://youtu.be/CjKWfCir1EU	We Rule The School 	Belle & Sebastian (Subtítulos en Español)		
+682	2023	17/08/2023	22:31	LG	Leire Gonzalez	https://youtu.be/YQejOXt3E5Q	Codeine 	Cave		
+683	2023	20/08/2023	22:01	LG	Leire Gonzalez	https://youtu.be/oIIxlgcuQRU	Yeah Yeah Yeahs 	Maps (Official Music Video)		
+684	2023	21/08/2023	22:15	BB	Buli Bilbao	https://youtu.be/VSWueGGJEFY	Saleka	Somewhere in the Wild		
+685	2023	25/08/2023	23:19	LG	Leire Gonzalez	https://youtu.be/2hVuFa2IqwI?si=ZdINq4NkpBctGj6s	Norah Jones 	Don't Know Why (Live At The Empire State Building)		
+686	2023	25/08/2023	23:50	LG	Leire Gonzalez	https://youtu.be/g2LWhV-S2rQ?si=buA72YpLeq4EmMMl	Norah Jones 	Sunrise (Live)		
+687	2023	28/08/2023	22:01	BB	Buli Bilbao	https://youtu.be/SjKU1qVhJl4	Wednesday 	Quarry (Official Video)		
+688	2023	28/08/2023	22:02	BB	Buli Bilbao	https://youtu.be/CTi7e9gEpN4	Wednesday 	Chosen to Deserve (Official Video)		
+689	2023	28/08/2023	23:58	BB	Buli Bilbao	https://youtu.be/Nb-tzJo5q84	Wednesday 	How Can You Live If You Can't Love How Can You If You Do | Audiotree Live		
+690	2023	31/08/2023	23:11	LG	Leire Gonzalez	https://youtu.be/hGUN7a17gNo?si=F-5UXjZ5KHUJA2ne	Colter Wall 	Corralling the Blues (Audio)		
+691	2023	03/09/2023	23:24	BB	Buli Bilbao	https://youtu.be/yhwSPRY51gs	The Velvet Underground	Oh! Sweet Nuthin' (Mono) (2015 Remaster Single)		
+692	2023	04/09/2023	22:19	BB	Buli Bilbao	https://youtu.be/OMaycNcPsHI	Placebo 	Every You Every Me (Official Music Video)		
+693	2023	04/09/2023	22:20	BB	Buli Bilbao	https://youtu.be/ixYYhZ5MRfI	Placebo 	Loud Like Love [RAK Studio]		
+694	2023	07/09/2023	22:10	LG	Leire Gonzalez	https://youtu.be/hw-A2rNmfQY?si=hIrOOeb9hFvNVe3Q	Lee Fields 	Waiting on the Sidelines		
+695	2023	11/09/2023	22:04	BB	Buli Bilbao	https://youtu.be/MR52MIJuZJY	The Kinks 	Strangers (Official Audio)		
+696	2023	14/09/2023	23:08	LG	Leire Gonzalez	https://youtu.be/j3_Zz0O4pDo?si=50VlzOSfY-kMH9fZ	José González 	El Invento (Official Music Video)		
+697	2023	17/09/2023	22:13	BB	Buli Bilbao	https://youtu.be/KO9RQxQaIog	Fontaines D.C. 	One (Skinty Fia Sessions)		
+698	2023	18/09/2023	20:50	BB	Buli Bilbao	https://youtu.be/G16z77UxFyE	Ratboys	Black Earth, WI		
+699	2023	18/09/2023	20:50	BB	Buli Bilbao	https://youtu.be/vV7J0JFH5oQ	Ratboys	The Window		
+700	2023	21/09/2023	21:36	LG	Leire Gonzalez	https://youtu.be/JXkN3nJyWEA?si=UMec8rhZBz7w2fYg	Dinosaur Jr.	Feel The Pain		
+701	2023	23/09/2023	00:15	BB	Buli Bilbao	https://youtu.be/rXq1PBNuUt0	Tom Waits 	Green Grass		
+702	2023	25/09/2023	22:04	BB	Buli Bilbao	https://youtu.be/KS-318Pp3hA?list=RDKS-318Pp3hA	The Reds, Pinks and Purples	Here Comes the Lunar Hand		
+703	2023	26/09/2023	23:46	BB	Buli Bilbao	https://youtu.be/H4iksb1HG9E	Patti Smith	Redondo Beach		
+704	2023	28/09/2023	23:15	LG	Leire Gonzalez	https://youtu.be/rEXhAMtbaec?si=bs3OAoYKp-13KBsi	Sara Bareilles 	Gravity (Official HD Video)		
+705	2023	28/09/2023	23:17	LG	Leire Gonzalez	https://youtu.be/Ht2NCrlghS4?si=_iBjx6dF9Lf3__-L	Sara Bareilles 	A Safe Place to Land (Live at the Village) ft. John Legend		
+706	2023	02/10/2023	23:02	BB	Buli Bilbao	https://youtu.be/lFni9GII-PE	The Strokes 	Under Control		
+707	2023	05/10/2023	22:42	LG	Leire Gonzalez	https://youtu.be/uvWQMZXpJu8?si=uo5DvBI4dxRO4QI0	Zea mays	Zu		
+708	2023	09/10/2023	22:27	BB	Buli Bilbao	https://youtu.be/6Ekq19HIb_E	Counting Crows	Sullivan Street		
+709	2023	12/10/2023	00:15	BB	Buli Bilbao	https://youtu.be/jL7kHC432XE	Eddie Vedder 	Guaranteed (OFFICIAL VIDEO)		
+710	2023	12/10/2023	00:17	BB	Buli Bilbao	https://youtu.be/YVFBE28ixSI	Eddie Vedder	Future Days (acoustic at home)		
+711	2023	12/10/2023	00:20	BB	Buli Bilbao	https://youtu.be/Jm6PhylW1O0	Eddie Vedder 	Dream a Little Dream (Free Album Download Link) Ukulele Songs		
+712	2023	12/10/2023	22:17	LG	Leire Gonzalez	https://youtu.be/fEVlw7mBwVo?si=6xH5pmt69k9w5353	Charlie Cunningham 	End of the Night (Official Video)		
+713	2023	12/10/2023	22:25	LG	Leire Gonzalez	https://youtu.be/tLvWjImVjfk?si=LnqjwWvRz6Kx3gKP	Charlie Cunningham 	Shame I Know		
+714	2023	15/10/2023	00:47	BB	Buli Bilbao	https://youtu.be/RTrOEKbgHIg	boygenius 	Voyager (official lyric video)		
+715	2023	16/10/2023	20:54	BB	Buli Bilbao	https://www.youtube.com/watch?v=U46QlnrNp18	Lady Gaga & Rolling Stones 	Sweet Sounds of Heaven (Extended)		
+716	2023	19/10/2023	22:50	LG	Leire Gonzalez	https://youtu.be/nWlpoA5YVpU?si=86hodTsLQsNkOFbj	Whipping Boy 	We Don't Need Nobody Else (Official Video)		
+717	2023	19/10/2023	22:51	LG	Leire Gonzalez	https://youtu.be/6IutkqyUU5o?si=WyugoBlwBu0Fj8RK	Whipping Boy 	Twinkle (Official Video)		
+718	2023	23/10/2023	22:19	BB	Buli Bilbao	https://youtu.be/sgfZHn-GWL0	Lou Reed	Wild Child (Remastered)		
+719	2023	26/10/2023	22:39	LG	Leire Gonzalez	https://youtu.be/b_a9qN1WT-s?si=fdeYI8S_ubklwZtV	Eels 	Ordinary Man		
+720	2023	26/10/2023	22:41	LG	Leire Gonzalez	https://youtu.be/NQwsiIlIfH8?si=mFoeFOwfO2LKlsvS	Eels 	That Look You Give That Guy 1		
+721	2023	28/10/2023	00:32	BB	Buli Bilbao	https://youtu.be/_ekn9dAYfz0	Ray Charles 	Drown In My Own Tears		
+722	2023	29/10/2023	10:03	LG	Leire Gonzalez	https://youtu.be/-mDoCKPvMC8?si=ooXDnaxPsBo61Xok	Biffy Clyro 	Haru Urara (Visualiser)		
+723	2023	30/10/2023	23:29	BB	Buli Bilbao	https://youtu.be/EEVzPOK-94w	Dave Simonett	It Comes and Goes		
+724	2023	31/10/2023	09:03	BB	Buli Bilbao	https://youtu.be/61DNYkJrz2U	Dave Simonett	You Belong Right Here		
+725	2023	02/11/2023	22:11	LG	Leire Gonzalez	https://youtu.be/6TAPFUrk-nw?si=-kDjlEtAl5NUU1dM	Blondshell 	Veronica Mars (Official Music Video)		
+726	2023	02/11/2023	22:13	LG	Leire Gonzalez	https://youtu.be/KeL-islGZuQ?si=LdZ25tAwqiqG42jE	Blondshell 	Kiss City		
+727	2023	06/11/2023	22:09	BB	Buli Bilbao	https://youtu.be/R1f6vk4PZ7o	Beck 	Cold Brains		
+728	2023	06/11/2023	22:09	BB	Buli Bilbao	https://youtu.be/2e8fxfvqu6M	Beck	Guess I'm Doing Fine		
+729	2023	09/11/2023	00:06	BB	Buli Bilbao	https://youtu.be/oNHV4XM8xAc	Shovels & Rope 	What's So Funny 'Bout Peace, Love and Understanding (Live on KEXP)		
+730	2023	09/11/2023	22:24	LG	Leire Gonzalez	https://youtu.be/fao20vtn8cA?si=D5rcm0rJ39-fjauE	Anari 	Efemerideak		
+731	2023	09/11/2023	22:26	LG	Leire Gonzalez	https://youtu.be/9HcUsRw2_FM?list=RD9HcUsRw2_FM	Wild Pink	Hold My Hand		
+732	2023	13/11/2023	22:04	BB	Buli Bilbao	https://youtu.be/RPdst3icDbU	Nina Simone	Just Like a Woman		
+733	2023	14/11/2023	23:33	BB	Buli Bilbao	https://youtu.be/r_9gZEMQ2No	Buffy Sainte Marie 	Helpless		
+734	2023	16/11/2023	22:17	LG	Leire Gonzalez	https://youtu.be/m3qB6rGbzNk?si=SsLkpKIW9L0-9ADa	Doctor Deseo 	El placer de conspirar		
+735	2023	16/11/2023	22:20	LG	Leire Gonzalez	https://youtu.be/9On6qBB80Sc?si=DwrpxGMDtmGWNIn7	Doctor Deseo 	¡Cuánto Frío Hace en Saturno!		
+736	2023	20/11/2023	22:25	BB	Buli Bilbao	https://youtu.be/2nMPl9_72u0	Empty Country 	Dustine (Official Audio)		
+737	2023	20/11/2023	22:26	BB	Buli Bilbao	https://youtu.be/DIpaWOEUrsc	Empty Country 	Lamb		
+738	2023	23/11/2023	23:00	LG	Leire Gonzalez	https://youtu.be/BqH6SycMMdI?si=Cyvvb7xakxV1ie_0	Monophonics	It's Only Us		
+739	2023	27/11/2023	22:31	BB	Buli Bilbao	https://youtu.be/SlaaWK_oVwY	Royel Otis 	Egg Beater		
+740	2023	27/11/2023	22:31	BB	Buli Bilbao	https://youtu.be/XsgwxlgeshI	Royel Otis 	Motel		
+741	2023	29/11/2023	00:02	BB	Buli Bilbao	https://m.youtube.com/watch?v=NN5Nh2Hergw	Limp Bizkit 	Home Sweet Home / Bittersweet Symphony		
+742	2023	30/11/2023	22:35	LG	Leire Gonzalez	https://youtu.be/PZ72bb51ebE?si=2ffv8g9-WdHxrg9Q	Grian Chatten 	All Of The People (Official Music Video)		
+743	2023	02/12/2023	00:32	BB	Buli Bilbao	https://youtu.be/5-KOZl5CLbU	Andrew Bird 	Sisyphus (Official Audio)		
+744	2023	04/12/2023	22:15	BB	Buli Bilbao	https://youtu.be/_lEO-PxjV8g	Guardian Singles 	Pit Viper		
+745	2023	04/12/2023	22:16	BB	Buli Bilbao	https://youtu.be/DZsCt2DO0XA	Guardian Singles 	Shimmer		
+746	2023	07/12/2023	23:27	LG	Leire Gonzalez	https://youtu.be/ON23niZrSFA	Tanya Maria	It's Only Love		
+747	2023	09/12/2023	00:01	BB	Buli Bilbao	https://youtu.be/7WTrBkOV3iU	Good Looks 	Balmorhea | Audiotree Live		
+748	2023	10/12/2023	23:56	BB	Buli Bilbao	https://youtu.be/-66h7hHWx8Q	Red Hot Chili Peppers 	Wet Sand		
+749	2023	11/12/2023	22:35	BB	Buli Bilbao	https://youtu.be/ke3Vpv7fFKs	Pearl Jam 	Comes Then Goes (Official Visualizer)		
+750	2023	14/12/2023	22:39	LG	Leire Gonzalez	https://youtu.be/kTNwRYENLKo?si=yEyUyDUpiaBCn89e	Foxing 	Rory (2023)		
+751	2023	14/12/2023	22:40	LG	Leire Gonzalez	https://youtu.be/rYc_wtSV-Wc?si=0f2RYZN0Lw6WL1Tp	Foxing 	The Medic (Official Video)		
+752	2023	18/12/2023	23:40	BB	Buli Bilbao	https://m.youtube.com/watch?v=jlbunmCbTBA	Marquee Moon	Television		
+753	2023	20/12/2023	00:32	BB	Buli Bilbao	https://youtu.be/tXzKDdZG-f0	Nathaniel Rateliff	Happy Just To Be		
+754	2023	21/12/2023	23:29	LG	Leire Gonzalez	https://youtu.be/ElygSMtokAw?si=JIuDBhsODuf2MOjd	Bonnie 'Prince' Billy	I See A Darkness		
+755	2023	23/12/2023	00:03	BB	Buli Bilbao	https://youtu.be/A2SerA4bKaY	The National	I Need My Girl (Live & acoustic)		
+756	2023	25/12/2023	22:12	BB	Buli Bilbao	https://youtu.be/J67gcLbiacg?list=RDJ67gcLbiacg	Jolie Holland	Haunted Mountain		
+757	2023	25/12/2023	22:14	BB	Buli Bilbao	https://youtu.be/bviUrsW5b4M?list=RDbviUrsW5b4M	Jolie Holland	What It's Worth		
+758	2023	28/12/2023	23:01	LG	Leire Gonzalez	https://youtu.be/8T1BqUrizg8?si=BLaKRQr2DST8c5F_	Kitty, Daisy & Lewis 	You're So Fine [B		
+759	2023	28/12/2023	23:02	LG	Leire Gonzalez	https://youtu.be/GxW3Ed7GrhQ?si=MdgWpUeZq18lNu4u	Kitty, Daisy & Lewis 	Going Up The Country		
+760	2024	01/01/2024	22:02	BB	Buli Bilbao	https://youtu.be/rj0l5-I6gAQ	U2	In A Little While		
+761	2024	03/01/2024	23:57	BB	Buli Bilbao	https://youtu.be/wF1tH5FM4zU	Patti Smith	Until The End Of The World		
+762	2024	04/01/2024	22:12	LG	Leire Gonzalez	https://youtu.be/8e0RW4bWdDk?si=6v5eJ_dXp8yDqXK-	Lehiotikan	Betidanik eta Betiko		
+763	2024	07/01/2024	19:38	BB	Buli Bilbao	https://m.youtube.com/watch?v=-OU__UCsGgI	Damien Jurado 	Kola		
+764	2024	08/01/2024	21:00	BB	Buli Bilbao	https://youtu.be/a_vRU7wiL8k	Pearl Jam	Drifting (Album Version)		
+765	2024	11/01/2024	23:46	LG	Leire Gonzalez	https://youtu.be/6psa1ptpGTc?si=-Mbs0uQYsJv-CZ-f	The Smiths 	Well I Wonder (Official Audio)		
+766	2024	12/01/2024	00:30	BB	Buli Bilbao	https://youtu.be/wOKpmKulPfc	KT Tunstall 	Change		
+767	2024	15/01/2024	22:53	BB	Buli Bilbao	https://youtu.be/NMBqRGMaOeE	Kendra Morris 	Fine Right Here [OFFICIAL AUDIO]		
+768	2024	18/01/2024	21:16	LG	Leire Gonzalez	https://youtu.be/s60duIETMCE?si=_jAmEtNorsW7_ipz	Angie McMahon 	Soon 		
+769	2024	18/01/2024	21:17	LG	Leire Gonzalez	https://youtu.be/zXRvoT88uCE?si=9L06Fqpz6xJdkZEb	Angie McMahon 	Fireball Whiskey (Official Video)		
+770	2024	20/01/2024	00:54	BB	Buli Bilbao	https://youtu.be/aepOND-8rb0	David Bowie 	Eight Line Poem		
+771	2024	22/01/2024	22:25	BB	Buli Bilbao	https://youtu.be/7GH7RfjLb1c	Parquet Courts 	Pretty Machines		
+772	2024	22/01/2024	22:26	BB	Buli Bilbao	https://youtu.be/13ojwH-1N9c	Parquet Courts 	Uncast Shadow of a Southern Myth		
+773	2024	24/01/2024	00:01	BB	Buli Bilbao	https://youtu.be/_0Auvlsv860	Led Zeppelin	Tangerine (Remaster)		
+774	2024	25/01/2024	22:00	LG	Leire Gonzalez	https://youtu.be/89c2g8v1qVc?si=rEt6xNaE758R39eX	Xicu	pedres / cap amunt (Videoclip Oficial)		
+775	2024	30/01/2024	22:08	BB	Buli Bilbao	https://youtu.be/Hmjf_fedbUQ	The Belair Lip Bombs 	Look The Part (Official Video)		
+776	2024	30/01/2024	22:09	BB	Buli Bilbao	https://youtu.be/hmhq_PJeP20	The Belair Lip Bombs 	Say My Name (Official Video)		
+777	2024	01/02/2024	22:30	LG	Leire Gonzalez	https://youtu.be/DGDvBmttm4Q?si=Rc0MR6WBSG66Yx0p	Viva Belgrado 	Un Tragaluz		
+778	2024	01/02/2024	22:30	LG	Leire Gonzalez	https://youtu.be/Q3Nb1wY9k6w?si=asNihJ1n_TBAAce5	Viva Belgrado 	Elena Observando la Osa Mayor		
+779	2024	02/02/2024	23:48	BB	Buli Bilbao	https://youtu.be/XjYIzp35QY8?list=RDXjYIzp35QY8	John Craigie	Highway Blood		
+780	2024	05/02/2024	22:13	BB	Buli Bilbao	https://youtu.be/1cbEq4NCIGs?list=PLnOwxHKu51HcW47wuOWhWy-XHyfaXD07r	Marianne Faithfull · PJ Harvey 	Before the Poison		
+781	2024	06/02/2024	23:54	BB	Buli Bilbao	https://youtu.be/i8cogQpcTYA	Nathaniel Rateliff 	Mavis (Live at Red Rocks / September 20, 2020)		
+782	2024	08/02/2024	22:18	LG	Leire Gonzalez	https://youtu.be/EDggGVRxzyA?si=UdTCZmOYL02F3OSX	Black Sea Dahu	In Case I Fall for You (Official Videoclip)		
+783	2024	12/02/2024	20:23	BB	Buli Bilbao	https://youtu.be/asI2DsUPWJ4?list=RDasI2DsUPWJ4	The Walkmen	The Rat		
+784	2024	12/02/2024	20:23	BB	Buli Bilbao	https://youtu.be/6QaFK_GvO_s?list=RD6QaFK_GvO_s	The Walkmen	Heaven		
+785	2024	12/02/2024	20:23	BB	Buli Bilbao	https://youtu.be/gj6jN6h1JbY?list=RDgj6jN6h1JbY	The Walkmen	Red Moon		
+786	2024	12/02/2024	20:23	BB	Buli Bilbao	https://youtu.be/A59oNmjWDO4?list=RDA59oNmjWDO4	The Walkmen	In the New Year		
+787	2024	15/02/2024	21:38	LG	Leire Gonzalez	https://youtu.be/nRW-GpXD5rA?si=iI459MdvvVDBFpSx	Lysistrata 	Mourn [Official Video]		
+788	2024	15/02/2024	21:39	LG	Leire Gonzalez	https://youtu.be/ib2K2Qc86QU?si=Q2GdpV-KuwhKb47m	Lysistrata 	Horns (Official Video)		
+789	2024	18/02/2024	01:32	BB	Buli Bilbao	https://youtu.be/UprwkbzUX6g	Eric Clapton 	Wonderful Tonight [Official Live]		
+790	2024	19/02/2024	21:59	BB	Buli Bilbao	https://youtu.be/qWZu86_tZtE	The Cure	Untitled (Remastered)		
+791	2024	22/02/2024	00:08	BB	Buli Bilbao	https://youtu.be/l9Ctowvz2ek	Robert Finley	Lucky Day		
+792	2024	22/02/2024	22:43	LG	Leire Gonzalez	https://youtu.be/16yyEsRhZTg?si=oQgnLujbxuhIf9BH	Last Train 	The Big Picture		
+793	2024	22/02/2024	22:44	LG	Leire Gonzalez	https://youtu.be/cDrOMbnmQE0?si=mKMVbYKZ0bECJGDy	Last Train 	The Idea of Someone		
+794	2024	26/02/2024	22:33	BB	Buli Bilbao	https://youtu.be/PJaQ5UZ6Lzo?list=RDPJaQ5UZ6Lzo	Sue Foley	Pinky's Blues		
+795	2024	29/02/2024	21:50	LG	Leire Gonzalez	https://youtu.be/YMwV9cPRfYY?si=ZKEFult_qe0Nbnxc	The Frames, Glen Hansard, Glen Hansard/The Frames	The Cost		
+796	2024	29/02/2024	21:51	LG	Leire Gonzalez	https://youtu.be/eMccPJqyg0o?si=0-wt6TWOyEYsZQCP	The Frames 	Star Star		
+797	2024	04/03/2024	22:23	BB	Buli Bilbao	https://youtu.be/3ZOSacq34gQ	Pouty	Denial Is A Heavy Drug		
+798	2024	04/03/2024	22:25	BB	Buli Bilbao	https://youtu.be/lItXj3nUxdQ	Pouty	I Can't See It		
+799	2024	07/03/2024	22:21	LG	Leire Gonzalez	https://youtu.be/apnF_f4xrPk?si=-HxjJK57T8HaI-YI	J Mascis	Wanted You Around		
+800	2024	07/03/2024	22:21	LG	Leire Gonzalez	https://youtu.be/mgkz0I7YpOM?si=LO-ePm-CXO_CwoKT	J Mascis	I Went Dust		
+801	2024	11/03/2024	00:13	BB	Buli Bilbao	https://youtu.be/vvPCm8cD6kw	Middle Kids 	Bend (Official Video)		
+802	2024	11/03/2024	22:24	BB	Buli Bilbao	https://youtu.be/Zi3JMnPJCS0	Mary Timony 	Summer (Official Lyric Video)		
+803	2024	11/03/2024	22:26	BB	Buli Bilbao	https://youtu.be/RTHPRXUhSnc	Helium	Honeycomb		
+804	2024	14/03/2024	22:34	LG	Leire Gonzalez	https://youtu.be/GlaBHapJLHw?si=uynevR7P-s7quvp6	Anari 	Inmolazioa		
+805	2024	16/03/2024	00:33	BB	Buli Bilbao	https://youtu.be/1jxyAPHAm1o	Red Red Meat 	Gauze		
+806	2024	18/03/2024	22:08	BB	Buli Bilbao	https://youtu.be/WNboTgNF4vw?list=RDWNboTgNF4vw	Superchunk	Swallow That		
+807	2024	18/03/2024	22:10	BB	Buli Bilbao	https://youtu.be/nNNaIGq4IMI	Superchunk	Driveway to Driveway		
+808	2024	22/03/2024	23:58	BB	Buli Bilbao	https://youtu.be/mbuvj1k_LIc	PJ Harvey	Long Snake Moan		
+809	2024	25/03/2024	22:27	BB	Buli Bilbao	https://www.youtube.com/watch?v=55L0fasXrw0	Bill Ryder-Jones	If Tomorrow Starts Without Me (Official Video)		
+810	2024	25/03/2024	22:30	BB	Buli Bilbao	https://www.youtube.com/watch?v=24sETcbpaMA	Bill Ryder-Jones	Don't Be Scared, I Love You (Official Video)		
+811	2024	27/03/2024	00:01	BB	Buli Bilbao	https://youtu.be/TqFLnCoOQaI	Wilderado	OurVinyl Sessions		
+812	2024	27/03/2024	00:03	BB	Buli Bilbao	https://youtu.be/0-SEcgkGJcE	Wilderado 	For Peyton | OurVinyl Sessions		
+813	2024	28/03/2024	22:20	LG	Leire Gonzalez	https://youtu.be/hbwyCQo2xDc?si=8J4gH3tHaXNYLUbU	Wisp 	Your face (Official Music Video)		
+814	2024	30/03/2024	00:14	BB	Buli Bilbao	https://youtu.be/lWCgeXVZ_eU	boygenius 	Powers (official lyric video)		
+815	2024	01/04/2024	22:02	BB	Buli Bilbao	https://youtu.be/_miTYAmHUNM	Sea Wolf	The Garden That You Planted		
+816	2024	05/04/2024	00:10	LG	Leire Gonzalez	https://youtu.be/OIJJBEBxUH0?si=d3-Gp0U07zSFQKZ-	Pedro The Lion	Modesto [OFFICIAL MUSIC VIDEO]		
+817	2024	08/04/2024	22:06	BB	Buli Bilbao	https://youtu.be/1_CCREMTdEg	Mama Zu, Jessi Zazu Wariner, Linwood Kirk Regensburg Jr.	Made of Dreams		
+818	2024	11/04/2024	00:30	BB	Buli Bilbao	https://youtu.be/3Z5_Hq8uvio	The Libertines 	Night Of The Hunter		
+819	2024	12/04/2024	23:55	BB	Buli Bilbao	https://youtu.be/aICCJCzxaAM	The Reds, Pinks and Purples 	We Only the Bad Things People Say		
+820	2024	12/04/2024	23:56	BB	Buli Bilbao	https://youtu.be/dxxF68jDWe4	The Reds, Pinks and Purples 	Let's Pretend We're Not In Love (Official Video)		
+821	2024	15/04/2024	22:06	BB	Buli Bilbao	https://youtu.be/uRFpcpzY9UU	Pregoblin	These Hands aka Danny Knife (feat. Peter Doherty)		
+822	2024	17/04/2024	08:16	BB	Buli Bilbao	https://youtu.be/XqcTUnv7l_s?list=RDXqcTUnv7l_s	Izaro	Limoiondo		
+823	2024	18/04/2024	22:51	LG	Leire Gonzalez	https://youtu.be/xlmKPlq5rAw?si=52IayZL8_D3hGqM-	Gari, Maldanbera, Iñigo Astiz, Iñaki Garitaonaindia	Jurisprudentzia		
+824	2024	20/04/2024	00:09	BB	Buli Bilbao	https://youtu.be/wgtoNn6Q7Z4	Pearl Jam 	Something Special (Official Visualizer)		
+825	2024	22/04/2024	23:02	BB	Buli Bilbao	https://youtu.be/MINY-GD-o14	Parlor Snakes	Marc Bolan's Fifth Dream - Official Video		
+826	2024	25/04/2024	22:44	LG	Leire Gonzalez	https://youtu.be/Ami5y2F6uJQ?si=pBEauNWxEG-Yyyz3	Daughter 	Party (Live at Middle Farm Studios)		
+827	2024	28/04/2024	23:59	BB	Buli Bilbao	https://youtu.be/9nnTO0BJmFk	Adrianne Lenker 	Sadness As A Gift (Live from Greenwich Village with Nick Hakim)		
+828	2024	29/04/2024	22:36	BB	Buli Bilbao	https://youtu.be/5NcJvi5TYEk	Keith Richards 	I'm Waiting For The Man (Lou Reed Cover) (Official Video)		
+829	2024	02/05/2024	22:17	LG	Leire Gonzalez	https://youtu.be/TWcyIpul8OE?si=x1gqN2dd2UNMraFI	Bon Iver 	Holocene 		
+830	2024	02/05/2024	22:17	LG	Leire Gonzalez	https://youtu.be/LuQrLsTUcN0?si=nwlbkguJ9eJ6dx_7	Bon Iver 	Flume		
+831	2024	03/05/2024	00:26	BB	Buli Bilbao	https://youtu.be/8R3O4mYn2Sw	Chris Cornell	Preaching The End Of The World		
+832	2024	06/05/2024	22:35	BB	Buli Bilbao	https://youtu.be/J-3OCbo5sK4	Live	Selling The Drama		
+833	2024	06/05/2024	22:37	BB	Buli Bilbao	https://youtu.be/MR9MgkO8dcA	Live	Lightning Crashes		
+834	2024	08/05/2024	22:06	BB	Buli Bilbao	https://youtu.be/drotTiQPtQY	Nathaniel Rateliff 	Redemption (Official Music Video)		
+835	2024	09/05/2024	22:47	LG	Leire Gonzalez	https://youtu.be/E1ppsJnIKU8?si=8M5kv6ggOtCM1dKD	Sunny Day Real Estate	Song About An Angel 		
+836	2024	13/05/2024	00:29	BB	Buli Bilbao	https://youtu.be/66ZskFy6Z7k	Indigo De Souza 	How I Get Myself Killed | Audiotree Live		
+837	2024	13/05/2024	22:24	BB	Buli Bilbao	https://youtu.be/0-2k3hlmlDE	Guided By Voices 	I Am A Scientist (Official Music Video)		
+838	2024	13/05/2024	22:27	BB	Buli Bilbao	https://youtu.be/AlLVJbq2re8	Guided By Voices, Tobin Sprout	You're Not An Airplane		
+839	2024	14/05/2024	23:57	BB	Buli Bilbao	https://youtu.be/HxKW_WRpa3M	Yo La Tengo	My Heart's Reflection		
+840	2024	16/05/2024	22:33	LG	Leire Gonzalez	https://youtu.be/I26qEC3a4Zo?si=tQszGWGiHUsptoA_	La Joya, Ricky Lavado, Manel M. Hontoria	Sinsonte		
+841	2024	16/05/2024	22:33	LG	Leire Gonzalez	https://youtu.be/e6-spUYqncE?si=kcA3DybZA4mC2fSD	La Joya, Ricky Lavado, Manel M. Hontoria	Alabama (para K.)		
+842	2024	20/05/2024	22:10	BB	Buli Bilbao	https://youtu.be/ldrx0eSqV-E	Beth Gibbons 	Floating On A Moment (Official Video)		
+843	2024	23/05/2024	23:09	LG	Leire Gonzalez	https://youtu.be/KHocVRUlvkk?si=TVQIB0InKa0GdW72	Fontaines D.C. 	Starburster (Official Video)		
+844	2024	24/05/2024	01:39	BB	Buli Bilbao	https://m.youtube.com/watch?v=y0JTco0j5J4	Slow Fiction 	End Of The Night (Official Video)		
+845	2024	27/05/2024	23:43	BB	Buli Bilbao	https://youtu.be/GXZj1KaKLr8?list=RDGXZj1KaKLr8	The National	Heaven		
+846	2024	30/05/2024	23:03	LG	Leire Gonzalez	https://youtu.be/cEqgeN27Hhk?si=AR3kkc-OqXI_xwpG	Julian Lage 	Tributary (Official Video)		
+847	2024	03/06/2024	23:00	BB	Buli Bilbao	https://youtu.be/4qh8gbltwaA	Lou Reed	Berlin		
+848	2024	04/06/2024	03:56	BB	Buli Bilbao	https://youtu.be/wTFetTJ-FGE	Fermin Muguruza 	Ezin ihesi Berlin		
+849	2024	06/06/2024	22:50	LG	Leire Gonzalez	https://youtu.be/k503KMS7bak?si=tBeFos6EIw3NgrK7	Damien Rice	Delicate		
+850	2024	10/06/2024	22:25	BB	Buli Bilbao	https://youtu.be/iHWOrquJ3Ak	Nina Simone	I Shall Be Released (Remastered)		
+851	2024	12/06/2024	00:23	BB	Buli Bilbao	https://youtu.be/AVgPaQX3HV0	Gumshoes	You Give Too Much Credit To The Angels		
+852	2024	12/06/2024	00:24	BB	Buli Bilbao	https://youtu.be/E8rq3V5pwlQ	Gumshoes	It'll Do		
+853	2024	12/06/2024	23:10	BB	Buli Bilbao	https://youtu.be/M-UaEQHA704	Pearl Jam 	Wreckage (Official Visualizer)		
+854	2024	13/06/2024	22:35	LG	Leire Gonzalez	https://youtu.be/N0J8yt24ggI?si=-2sfybyvm-v5Dw7x	Rivers Cuomo	I Was Made For You		
+855	2024	13/06/2024	22:36	LG	Leire Gonzalez	https://youtu.be/kifG4IcB_hU?si=rw99sprYB2sxzI36	Rivers Cuomo	Longtime Sunshine		
+856	2024	16/06/2024	23:43	BB	Buli Bilbao	https://youtu.be/w1Nn15FJDNI	Nathaniel Rateliff & The Night Sweats 	Get Used to the Night (Official Lyric Video)		
+857	2024	17/06/2024	21:57	BB	Buli Bilbao	https://youtu.be/FZAG1Qk9MhE	Shovels & Rope 	Love Song From A Dog (feat. Gregory Alan Isakov)		
+858	2024	21/06/2024	22:08	LG	Leire Gonzalez	https://youtu.be/l8KJPU1L-TA?si=HbdTK5HH1NFQfQUV	Colour Revolt	Mattresses Underwater		
+859	2024	24/06/2024	22:09	BB	Buli Bilbao	https://youtu.be/n7TLTjqUyog	Collective Soul 	The World I Know (Official HD Music Video)		
+860	2024	24/06/2024	22:10	BB	Buli Bilbao	https://youtu.be/_m0bI82Rz_k	Collective Soul 	Shine (Official HD Music Video)		
+861	2024	27/06/2024	22:11	LG	Leire Gonzalez	https://youtu.be/ToouV06lIJw?si=3_YlOYEtmbbyhU64	Phosphorescent 	Impossible House (Album Art / Lyric Video)		
+862	2024	27/06/2024	22:11	LG	Leire Gonzalez	https://youtu.be/5az8Pm2vWXI?si=nzCt9mNxoP02sk-N	Phosphorescent 	Revelator (Album Art / Lyric Video)		
+863	2024	28/06/2024	16:43	BB	Buli Bilbao	https://youtu.be/wlNH7FQrGo8	Matthew Houck of Phosphorescent	solo Microshow 		
+864	2024	01/07/2024	22:02	BB	Buli Bilbao	https://youtu.be/acYkDTiQMRQ	Kevin Morby & Waxahatchee 	Farewell Transmission (Official Audio)		
+865	2024	04/07/2024	22:49	LG	Leire Gonzalez	https://youtu.be/hgnR-amzgTI?si=jL1qWZwD6hPPS1G2	William Prince 	Young (Official Audio)		
+866	2024	04/07/2024	22:50	LG	Leire Gonzalez	https://youtu.be/TxVzg0F4fcU?si=xe6JB556QF9Ce7Pl	William Prince 	When You Miss Someone (Official Audio)		
+867	2024	06/07/2024	00:16	LG	Leire Gonzalez	https://youtu.be/dFevjCaD7PU?feature=shared	Kevin Morby 	Baltimore (County Line) (Official Audio)		
+868	2024	08/07/2024	23:07	BB	Buli Bilbao	https://youtu.be/Hi_P2eji1Uc?list=RDHi_P2eji1Uc	Sheryl Crow	If It Makes You Happy 		
+869	2024	10/07/2024	23:35	BB	Buli Bilbao	https://m.youtube.com/watch?v=Z-5yUOn3OT4	Bonny Doon 	San Francisco		
+870	2024	15/07/2024	23:26	BB	Buli Bilbao	https://youtu.be/nGDFrE-mW3s	Glitterfox 	Portland		
+871	2024	18/07/2024	22:31	LG	Leire Gonzalez	https://youtu.be/MBu_Ec33byA?si=kj1pBlV5j6QAg7bJ	Kim Deal 	Coast (Official Audio)		
+872	2024	18/07/2024	22:34	LG	Leire Gonzalez	https://youtu.be/fxvkI9MTQw4?si=UYKBb4ZIicUVdEMB	The Breeders 	Cannonball		
+873	2024	18/07/2024	22:36	LG	Leire Gonzalez	https://youtu.be/F9il_iQ8bDM?si=YhICgIGrkufNJbOz	The Breeders 	Divine Hammer		
+874	2024	23/07/2024	03:28	BB	Buli Bilbao	https://youtu.be/lpXyMNMMzRY	Lucy Dacus 	I Don't Wanna Be Funny Anymore (Official Lyric Video)		
+875	2024	25/07/2024	23:24	LG	Leire Gonzalez	https://youtu.be/4C9i8E05bgI?si=x7ci6oa-IxAwH9Yj	Kings of Leon	Nowhere to Run (Official Video)		
+876	2024	30/07/2024	00:56	BB	Buli Bilbao	https://youtu.be/tl6xfkikd8M	Dinosaur Jr.	Knocked Around (Official Video)		
+877	2024	01/08/2024	22:36	LG	Leire Gonzalez	https://youtu.be/U7xqQ59b4n8?si=PM4dOFMWEtr6KEgi	Diana Krall 	How Deep Is The Ocean (Audio)		
+878	2024	05/08/2024	22:13	BB	Buli Bilbao	https://youtu.be/5EHqpiw50j8	Teddy Swims 	Tennessee Whiskey (Live From Our Basement)		
+879	2024	08/08/2024	22:41	LG	Leire Gonzalez	https://youtu.be/eg2ijwwVWAA?si=lF6zB_2etkz3W_ZT	John Frusciante	Look On		
+880	2024	12/08/2024	22:29	BB	Buli Bilbao	https://youtu.be/dw0MujMCYzU	No Te Va Gustar 	Como Si Estuviera (Video Oficial)		
+881	2024	15/08/2024	22:53	LG	Leire Gonzalez	https://youtu.be/gCB2eDF3jBM?si=Pr5vR2ZFeFhG2F2J	Janis Joplin 	Ball and Chain (Live at Monterey Pop, 1967)		
+882	2024	19/08/2024	22:31	BB	Buli Bilbao	https://youtu.be/56-4E7yUJoo?list=RD56-4E7yUJoo	Katy Kirby	Bad Man		
+883	2024	22/08/2024	22:25	LG	Leire Gonzalez	https://youtu.be/tmqrQXB_A5M	Mannequin Pussy	Who You Are		
+884	2024	22/08/2024	22:26	LG	Leire Gonzalez	https://youtu.be/FeXK5WzIgOY?si=O6wdlguXrg9APFkv	Mannequin Pussy 	Softly (Full Album Stream)		
+885	2024	26/08/2024	23:35	BB	Buli Bilbao	https://youtu.be/y3pSNW09fOk	Moses Ingram, John D. Loudermilk	Then You Can Tell Me Goodbye		
+886	2024	02/09/2024	22:10	BB	Buli Bilbao	https://youtu.be/lc3kxjy2GNk	Galaxie 500 	Blue Thunder (Official Music Video)		
+887	2024	02/09/2024	22:12	BB	Buli Bilbao	https://www.youtube.com/watch?v=hqlVpEREVjA&t=510s	Galaxie 500 	Live 1990 MTV 120minutes 		
+888	2024	05/09/2024	22:23	LG	Leire Gonzalez	https://youtu.be/w4MMnofb7gI?si=dT8fXPGZjJ8a7Ukg	Bear's Den feat. Dermot Kennedy 	Above the Clouds of Pompeii		
+889	2024	09/09/2024	22:23	BB	Buli Bilbao	https://youtu.be/zo0__u19msY	Bleachers	Rollercoaster		
+890	2024	09/09/2024	22:25	BB	Buli Bilbao	https://youtu.be/-R0Izqyi2zI	Bleachers	Shadow		
+891	2024	12/09/2024	22:02	LG	Leire Gonzalez	https://youtu.be/xxCUGmAe5MA?si=2hCXtqzdimJQAOEf	Wunderhorse	Aeroplane		
+892	2024	16/09/2024	21:56	BB	Buli Bilbao	https://youtu.be/noHH-N2HFDs	Eddie Vedder	Room at the Top		
+893	2024	19/09/2024	21:57	LG	Leire Gonzalez	https://youtu.be/iErFRaOFX-g?si=l83B-erSMcOyDjfN	Nisei	A Phone Call		
+894	2024	23/09/2024	22:09	BB	Buli Bilbao	https://www.youtube.com/watch?v=aDUtRkmaIfw	Bob Dylan 	Angelina (Studio Outtake 		
+895	2024	30/09/2024	22:37	BB	Buli Bilbao	https://youtu.be/sx9SVAtMkJM	The Cure	Alone (Official Lyric Video)		
+896	2024	07/10/2024	22:06	BB	Buli Bilbao	https://youtu.be/EyH2AzLESOw	Sharon Van Etten 	I Won't Back Down | Bad Monkey Soundtrack | WaterTower Music		
+897	2024	10/10/2024	22:30	LG	Leire Gonzalez	https://youtu.be/LnHoqHscTKE?si=0n0kQGAU_eU9ceYV	Nick Cave & The Bad Seeds 	Into My Arms (4K Official Video)		
+898	2024	14/10/2024	22:06	BB	Buli Bilbao	https://youtu.be/w_lTS-XwFN4	Touché Amoré 	Goodbye For Now (feat. Julien Baker) (Spiral In A Straight Line Visual Album)		
+899	2024	21/10/2024	22:06	BB	Buli Bilbao	https://youtu.be/CVbSAYVq-lI	Maggie Rogers	In The Living Room		
+900	2024	24/10/2024	22:46	LG	Leire Gonzalez	https://youtu.be/80VpTTFC5ws?si=SSEP3P5Vbk8NCUg_	The White Buffalo 	ACT IV: Life Goes On		
+901	2024	28/10/2024	22:06	BB	Buli Bilbao	https://youtu.be/MFG0kDTVPLc?list=RDMFG0kDTVPLc	Grian Chatten	I Am So Far		
+902	2024	04/11/2024	22:19	BB	Buli Bilbao	https://youtu.be/SRXH9AbT280	Linkin Park	The Emptiness Machine (Official Music Video)		
+903	2024	07/11/2024	22:38	LG	Leire Gonzalez	https://youtu.be/OPZNE0_gnH0?si=_epHqap8rp0JazFl	Emma Ruth Rundle 	The Company (Official Video)		
+904	2024	11/11/2024	22:31	BB	Buli Bilbao	https://youtu.be/M-UBeuWPQrg	Shame	Dust on Trial		
+905	2024	14/11/2024	22:17	LG	Leire Gonzalez	https://youtu.be/2J4Qs7nxgAA	Inner	Zoru Poetikoa		
+906	2024	18/11/2024	22:36	BB	Buli Bilbao	https://youtu.be/aM3oBxve4Wg	The Church	Under the Milky Way		
+907	2024	22/11/2024	22:57	BB	Buli Bilbao	https://youtu.be/8NMX3OQw0FA	Pixies 	Primrose		
+908	2024	25/11/2024	22:17	BB	Buli Bilbao	https://youtu.be/9t60aQndiFo	mary in the junkyard 	this is my california (official audio)		
+909	2024	28/11/2024	22:16	LG	Leire Gonzalez	https://youtu.be/nrgtUUG_rp8?si=uGwZ8_vDHF3Os2rw	Mazzy Star 	Flowers in December (Live on 2 Meter Sessions)		
+910	2024	02/12/2024	22:23	BB	Buli Bilbao	https://youtu.be/aWspAVuC_5M	Porridge Radio 	God Of Everything Else (Official Video)		
+911	2024	05/12/2024	22:29	LG	Leire Gonzalez	https://youtu.be/seM1jQQ2Abs?si=axV9g83zMzyQrXVZ	Michael Kiwanuka 	One And Only (Official Video)		
+912	2024	09/12/2024	22:06	BB	Buli Bilbao	https://m.youtube.com/watch?v=SFOw7nfqUVc	Sharon Van Etten & The Attachment Theory 	Southern Life (What It Must Be Like) [Official Video]		
+913	2024	16/12/2024	22:14	BB	Buli Bilbao	https://youtu.be/V75kkrxODE0	Kim Deal 	Wish I Was (Official Audio)		
+914	2024	19/12/2024	22:49	LG	Leire Gonzalez	https://youtu.be/qNw_zgQf1no?si=tFIDb4gohEAReIDV	Leon Bridges 	Simplify (Official Lyric Video)		
+915	2024	23/12/2024	22:03	BB	Buli Bilbao	https://youtu.be/5TfQDnIfqBo	Tom Petty & The Heartbreakers	The Waiting (feat. Eddie Vedder) 		
+916	2024	26/12/2024	22:40	LG	Leire Gonzalez	https://youtu.be/LGfhStYcCZk?si=CvveCvt7XhFJy9Cv	Liam Gallagher 	Once (Lyric Video)		
+917	2024	30/12/2024	22:18	BB	Buli Bilbao	https://youtu.be/y-4na5pnevE	Momma 	Ohio All The Time (Music Video)		
+918	2024	30/12/2024	22:18	BB	Buli Bilbao	https://youtu.be/lkkikJ4I3CQ	Momma 	Tall Home (Official Audio)		
+919	2025	02/01/2025	22:33	LG	Leire Gonzalez	https://youtu.be/P9U4ag--RTs?si=92iOKzEG2etR0ZHY	Anari	Bunkerra I		
+920	2025	02/01/2025	22:34	LG	Leire Gonzalez	https://youtu.be/drC90zzp-Ss?si=b0nXKKPUF1chuQoe	Anari	Vesna Vulovic		
+921	2025	06/01/2025	22:25	BB	Buli Bilbao	https://youtu.be/miJFbQUN-r4	Beck 	The Golden Age		
+922	2025	09/01/2025	22:37	LG	Leire Gonzalez	https://youtu.be/yBdNeL18pBo?si=2-S8OI5nUw4WAymY	Touché Amoré 	Subversion (feat. Lou Barlow) (Spiral In A Straight Line Visual Album)		
+923	2025	13/01/2025	22:15	BB	Buli Bilbao	https://youtu.be/cBKGQaSFEjE	Elvis Costello 	So Like Candy		
+924	2025	20/01/2025	22:03	BB	Buli Bilbao	https://youtu.be/elwTFy2H7z8?list=RDelwTFy2H7z8	Du Blonde	ICU		
+925	2025	20/01/2025	22:04	BB	Buli Bilbao	https://youtu.be/3WTH28bn9QU?list=RD3WTH28bn9QU	Du Blonde	Perfect 		
+926	2025	23/01/2025	22:15	LG	Leire Gonzalez	https://youtu.be/JfOeVTSZSJM?si=vw_12fopOKDU01RS	Mansions	Dig Up the Dead		
+927	2025	27/01/2025	22:46	BB	Buli Bilbao	https://youtu.be/Pxf72fHF5bI	Superheaven 	Numb To What Is Real (Official Visualizer)		
+928	2025	30/01/2025	22:31	LG	Leire Gonzalez	https://youtu.be/XrckJ_f_YSs?si=8YNFzfzO4cKGvXsh	Karate	Liminal		
+929	2025	03/02/2025	22:32	BB	Buli Bilbao	https://youtu.be/_zjNwkGo9oI	Wilderado, Maxim Helmerich, Tyler Wimpee, Justin Kila, Chad Copelin, William Barnaby Taylor, Nicolas Hill	Longstanding Misunderstanding		
+930	2025	03/02/2025	22:33	BB	Buli Bilbao	https://youtu.be/DWx1CbtPEiA	Wilderado 	Simple (Official Lyric Video)		
+931	2025	06/02/2025	22:29	LG	Leire Gonzalez	https://youtu.be/_esbL0or930?si=-2yVVUnKr-wdneLE	Brand New	Can't Get It Out		
+932	2025	10/02/2025	22:15	BB	Buli Bilbao	https://www.youtube.com/watch?v=cZCnG8lpV9A	Juan Carlos Perez	Etxeruntz		
+933	2025	10/02/2025	22:16	BB	Buli Bilbao	https://www.youtube.com/watch?v=pYxWtgTQmwg	Juan Carlos Perez	Uztaren Garaia		
+934	2025	13/02/2025	22:50	LG	Leire Gonzalez	https://youtu.be/-4lokXVNLhU?si=IqfyR1kv80J7CmSK	Michael Kiwanuka	Small Changes		
+935	2025	17/02/2025	21:52	BB	Buli Bilbao	https://youtu.be/yl-Jy383W9Q	The National 	Laugh Track (feat. Phoebe Bridgers)		
+936	2025	20/02/2025	22:42	LG	Leire Gonzalez	https://youtu.be/Ef15BgzR47w?list=RDEf15BgzR47w	Olaia Inziarte	tilin-talan		
+937	2025	20/02/2025	22:45	LG	Leire Gonzalez	https://youtu.be/vtA_tgwE1OA?si=s-qPZYlq4E1lBQDp	Olaia Inziarte	Eman Abisua		
+938	2025	24/02/2025	22:36	BB	Buli Bilbao	https://youtu.be/Tba-RUpDWio	Nathaniel Rateliff, Gregory Alan Isakov	Flowers		
+939	2025	27/02/2025	22:18	LG	Leire Gonzalez	https://youtu.be/9TEg2JGD-_I?si=DLwL9rQU92IF8clX	Into It. Over It. 	Intersections (LIVE) 		
+940	2025	03/03/2025	22:20	BB	Buli Bilbao	https://youtu.be/OVgrjsOKl_g	Fontaines D.C. 	It's Amazing To Be Young		
+941	2025	06/03/2025	22:52	LG	Leire Gonzalez	https://youtu.be/LV7Iy5ve6p4?si=zS3AjkXApj_wQ2iG	Snail Mail	Speaking Terms		
+942	2025	10/03/2025	22:04	BB	Buli Bilbao	https://youtu.be/hx2_NGaDPrk	Perfume Genius 	It's a Mirror (Official Music Video)		
+943	2025	13/03/2025	22:00	LG	Leire Gonzalez	https://youtu.be/O2cOt21Psqk?si=Nwj1jbVkMVg9Y-rM	Cesk Freixas	Cercavila		
+944	2025	17/03/2025	22:01	BB	Buli Bilbao	https://youtu.be/Z_mUSDhrYLs	Van Morrison 	Down To Joy (Official Video)		
+945	2025	31/03/2025	21:46	BB	Buli Bilbao	https://youtu.be/iYYrZAFGwos	Erasmo Carlos	É Preciso Dar Um Jeito, Meu Amigo		
+946	2025	07/04/2025	21:55	BB	Buli Bilbao	https://youtu.be/BzbO2rx1g9Q	Clara Mann 	Til I Come Around		
+947	2025	14/04/2025	22:49	BB	Buli Bilbao	https://youtu.be/LI5o26DCrDk	Catfish and the Bottlemen 	2all		
+948	2025	21/04/2025	22:08	BB	Buli Bilbao	https://youtu.be/G8SmkwS82u4	Nick Drake	Time Has Told Me		
+949	2025	21/04/2025	22:08	BB	Buli Bilbao	https://youtu.be/Vdl-C09MStg	Nick Drake 	Pink Moon (2023 Remaster)		
+950	2025	28/04/2025	22:29	BB	Buli Bilbao	https://youtu.be/CGXJpOvFCN0	Butler, Blake & Grant	Rosus Posus		
+951	2025	05/05/2025	22:22	BB	Buli Bilbao	https://youtu.be/WJWvfguJlw0?list=RDWJWvfguJlw0	Jeffrey Lewis	Do What Comes Natural		
+952	2025	05/05/2025	22:23	BB	Buli Bilbao	https://youtu.be/s18GLbZigQE?list=RDs18GLbZigQEuQ1nzM4gM	Jeffrey Lewis	Tylenol PM		
+953	2025	12/05/2025	22:08	BB	Buli Bilbao	https://youtu.be/wABpHGW5sRg	Fontaines D.C. 	Starburster / In Heaven (Lady in the Radiator Song) (Lyric Video)		
+954	2025	19/05/2025	22:05	BB	Buli Bilbao	https://youtu.be/OyPQ5VSX_rI	Blind Melon			
+955	2025	26/05/2025	21:58	BB	Buli Bilbao	https://youtu.be/vjK0x2yfSQI	Alexsucks 	Worm in the Sun (Official Music Video)		
+956	2025	02/06/2025	23:05	BB	Buli Bilbao	https://youtu.be/PYrwG3-wlfk	My Morning Jacket 	Time Waited (Official Video)		
+957	2025	02/06/2025	23:06	BB	Buli Bilbao	https://youtu.be/SEcj-zh92Wk	My Morning Jacket 	One Big Holiday (Remixed & Remastered Audio)		
+958	2025	09/06/2025	23:17	BB	Buli Bilbao	https://youtu.be/Z_mUSDhrYLs?list=RDZ_mUSDhrYLs	Van Morrison 	Down To Joy		
+959	2025	09/06/2025	23:18	BB	Buli Bilbao	https://youtu.be/guOYM38cHXE	Van Morrison 	Cutting Corners (Official Visualiser)		
+960	2025	16/06/2025	22:58	BB	Buli Bilbao	https://youtu.be/86ui5J1i8TE	Biffy Clyro 	A Little Love (Official Music Video)		
+961	2025	23/06/2025	22:01	BB	Buli Bilbao	https://youtu.be/AFzOpLdwV9I?list=RDMTsA7YfKxak	We Are Scientists	Contact High 		
+962	2025	30/06/2025	22:48	BB	Buli Bilbao	https://youtu.be/M4YUdKtZQyE	Pearl Jam	Present Tense (Redux)		
+963	2025	03/07/2025	23:02	LG	Leire Gonzalez	https://youtu.be/L4sbDxR22z4?si=u9kv6WYPP1suNXW8	Cigarettes After Sex	K.		
+964	2025	07/07/2025	22:50	BB	Buli Bilbao	https://youtu.be/3R-zrySoHNk	Foo Fighters 	Today's Song		
+965	2025	14/07/2025	23:03	BB	Buli Bilbao	https://youtu.be/3gwfPY68vUs	The Wombats	Sorry I’m Late, I Didn’t Want To Come (Official Video)		
+966	2025	21/07/2025	23:18	BB	Buli Bilbao	https://youtu.be/UVT0GrwPQSA	The Lemonheads 	In The Margin (Official Lyric Video)		
+967	2025	28/07/2025	22:42	BB	Buli Bilbao	https://www.youtube.com/watch?v=_jh99JUjjng	Rocket 	One Million (Official Video)		
+968	2025	04/08/2025	22:53	BB	Buli Bilbao	https://youtu.be/5jp_QzoO04o	Natalie Bergman 	Gunslinger (Official Video)		
+969	2025	11/08/2025	21:25	BB	Buli Bilbao	https://youtu.be/wFmC7GPLTEs	Tigers Jaw	Plane Vs. Tank Vs. Submarine		
+970	2025	18/08/2025	22:29	BB	Buli Bilbao	https://youtu.be/wOAaADmicrk	Witch Post 	Rust (Official Audio)		
+971	2025	18/08/2025	22:30	BB	Buli Bilbao	https://youtu.be/faphYrHvazU?list=RDfaphYrHvazU	Witch Post 	Chill Out		
+972	2025	25/08/2025	22:29	BB	Buli Bilbao	https://youtu.be/Y0DKTLvD3OU	Cliffords	Second Skin		
+973	2025	01/09/2025	22:12	BB	Buli Bilbao	https://youtu.be/ZJdHNwUgsPI	Kings of Leon	We're Onto Something (ft. Zach Bryan)		
+974	2025	08/09/2025	22:25	BB	Buli Bilbao	https://youtu.be/hdAeOSdzwmU?list=RDhdAeOSdzwmU	Caamp	Millions		
+975	2025	15/09/2025	22:15	BB	Buli Bilbao	https://youtu.be/qGBHg81ryTg?list=RDqGBHg81ryTg	Hallelujah	Case Oats		
+976	2025	15/09/2025	22:15	BB	Buli Bilbao	https://youtu.be/GT-rAs3ePXo?list=RDGT-rAs3ePXo	Wishing Stone	Case Oats		
+977	2025	22/09/2025	22:47	BB	Buli Bilbao	https://youtu.be/DvbFjKVRNac?feature=shared	Cass McCombs 	Miss Mabee (Official Audio)		
+978	2025	29/09/2025	22:13	BB	Buli Bilbao	https://youtu.be/Qrbrx0xPz_I	Shovels & Rope, Al Olender	Blue Bayou (feat. Al Olender)		
+979	2025	06/10/2025	22:24	BB	Buli Bilbao	https://youtu.be/AzrCaZCnaJM	Witch Post 	Changeling (Official Music Video)		
+980	2025	13/10/2025	22:37	BB	Buli Bilbao	https://youtu.be/y9ZLIskq8jQ	Flock of Dimes 	Afraid (Official Video)		
+981	2025	27/10/2025	23:53	BB	Buli Bilbao	https://music.youtube.com/watch?v=fpIHEHs-zck	Geese	Au Pays du Cocaine		
+982	2025	03/11/2025	22:19	BB	Buli Bilbao	https://youtu.be/5JIb6POIc-E	Gorka Urbizu 	Diamantea (bideoklip ofiziala 		
+983	2025	10/11/2025	22:34	BB	Buli Bilbao	https://youtu.be/RC9ZXpI-_JU	Kings of Leon	The Wolf (Visualizer)		
+984	2025	17/11/2025	21:57	BB	Buli Bilbao	https://youtu.be/7ejQ_CL_dWA	El Mató a un Policía Motorizado 	Más o Menos Bien (Official Music Video)		
+985	2025	24/11/2025	22:18	BB	Buli Bilbao	https://youtu.be/fhkp_TNJfhA	Sharp Pins 	(I Wanna) Be Your Girl		
+986	2025	27/11/2025	00:08	BB	Buli Bilbao	https://youtu.be/-CZq6PTaStA	Medium Build 	Balance (Lyric Video)		
+987	2025	01/12/2025	07:18	BB	Buli Bilbao	https://youtu.be/UelDrZ1aFeY?list=RDUelDrZ1aFeY	The Beatles	Something		
+988	2025	05/12/2025	23:51	BB	Buli Bilbao	https://youtu.be/BBiDKzfg2gw	Wunderhorse 	Purple (Lyric Video)		
+989	2025	08/12/2025	00:02	BB	Buli Bilbao	https://youtu.be/bxeja0ZmPPM	Damien Jurado	Minnesota		
+990	2025	08/12/2025	08:48	BB	Buli Bilbao	https://youtu.be/L4tL4MEFryc	Damien Jurado	Helena		
+991	2025	12/12/2025	00:33	BB	Buli Bilbao	https://youtu.be/xje-1sw3T0s	Led Zeppelin	D'yer Mak'er (Remaster)		
+992	2025	15/12/2025	06:15	BB	Buli Bilbao	https://youtu.be/nb9TwLU8Dfo	Guided By Voices 	Lucy's World		
+993	2025	20/12/2025	00:26	BB	Buli Bilbao	https://youtu.be/1fPAP7qATS0	Royel Otis 	moody		
+994	2025	22/12/2025	08:12	BB	Buli Bilbao	https://m.youtube.com/watch?v=y63TlJVDXrA&list=RDy63TlJVDXrA&start_radio=1&pp=ygUpZnVkZ2UgYmVydGVyIG9yIHdvcnNlIHNpbHZlciBidWxsZXQgYWx2dW2gBwE%3D	Fudge	Better or Worse		
+995	2025	24/12/2025	00:27	BB	Buli Bilbao	https://youtu.be/jkkxlFKnDAE	Julian Casablancas	Tourist		
+996	2025	29/12/2025	14:04	BB	Buli Bilbao	https://youtu.be/HKcD2AxnEYw	Counting Crows	Perfect Blue Buildings		
+997	2025	31/12/2025	01:13	BB	Buli Bilbao	https://youtu.be/jrXERVJuW0I?list=RDjrXERVJuW0I	Nothing	purple strings		
+998	2026	04/01/2026	00:38	BB	Buli Bilbao	https://youtu.be/mKFCp9P0cFc	Tom Waits 	Closing Time		
+999	2026	05/01/2026	08:51	BB	Buli Bilbao	https://youtu.be/3dIae-3Jgz8	Vivian Girls	Where Do You Run To		
+1000	2026	08/01/2026	00:43	BB	Buli Bilbao	https://youtu.be/JtW35uThB2Q	Elvis Costello	Suit Of Lights (2024 Remaster)		
+1001	2026	12/01/2026	10:16	BB	Buli Bilbao	https://youtu.be/lVIf3NXf-_g	Unknown Mortal Orchestra 	DEATH COMES FROM THE SKY		
+1002	2026	19/01/2026	06:53	BB	Buli Bilbao	https://youtu.be/yMmRMtfSItQ	Mumford & Sons 	The Banjo Song (Lyric Video)		
+1003	2026	26/01/2026	07:19	BB	Buli Bilbao	https://youtu.be/YOzl1c0pqNU	Shaking Hand 	Mantras (Official Video)		
+1004	2026	30/01/2026	00:30	BB	Buli Bilbao	https://youtu.be/Zr-RhDOBO1U	The Royston Club, Sam Jones	Curses & Spit		
+1005	2026	02/02/2026	07:01	BB	Buli Bilbao	https://youtu.be/xn6eCXgU8ks	Brown Horse 	Radio Free Bolinas (Official Video)		
+1006	2026	09/02/2026	03:33	BB	Buli Bilbao	https://youtu.be/4nqQdpf71bU	Mark Knopfler 	The Long Highway (The Studio Albums 1996		
+1007	2026	11/02/2026	07:23	BB	Buli Bilbao	https://youtu.be/JYjKrehB2Sk	The Royston Club 	The Patch Where Nothing Grows (Live from Coastal)		
+1008	2026	14/02/2026	00:46	BB	Buli Bilbao	https://youtu.be/7Ytj0Swimh0	Vetiver 	I Know No Pardon		
+1009	2026	16/02/2026	07:25	BB	Buli Bilbao	https://youtu.be/-cjd-Xcrwm4	The Saints 	Judas (Official Lyric Video)		
+1010	2026	23/02/2026	06:53	BB	Buli Bilbao	https://youtu.be/Lx9A8C5qlrQ	Jacob Slater	Untitled		
+1011	2026	24/02/2026	19:29	BB	Buli Bilbao	https://youtu.be/38by00DGid0	Pulp 	Babies		
+1012	2026	25/02/2026	23:15	BB	Buli Bilbao	https://youtu.be/49yiAc8ghLM	Kevin Morby	Javelin		
+1013	2026	02/03/2026	07:09	BB	Buli Bilbao	https://youtu.be/IV2Gevcylbc	Widowspeak 	The Jacket (Official Video)		
+1014	2026	03/03/2026	06:27	BB	Buli Bilbao	https://youtu.be/c_5Pz2vG0-0	Foo Fighters 	Asking For A Friend [Lyrics]		
+1015	2026	09/03/2026	07:42	BB	Buli Bilbao	https://youtu.be/uN-A46ns0uk	Tyler Ballgame 	For The First Time, Again (Official Video)		
+1016	2026	09/03/2026	07:42	BB	Buli Bilbao	https://youtu.be/EnrZNOz0LjE	Tyler Ballgame 	Matter of Taste (Official Video)		
+1017	2026	16/03/2026	07:14	BB	Buli Bilbao	https://youtu.be/EVI-qd1pr4c	Nathaniel Rateliff 	Tommy's Song (Official Music Video)		
+1018	2026	16/03/2026	07:14	BB	Buli Bilbao	https://youtu.be/hdXn-4Jv-oo	Nathaniel Rateliff 	My Hometown (Official Audio)		
+1019	2026	21/03/2026	00:00	BB	Buli Bilbao	https://youtu.be/6NgWsYAhOh4	Witch Post 	Worry Angel (Official Video)		
+1020	2026	23/03/2026	06:29	BB	Buli Bilbao	https://youtu.be/4A_MWHhPpUk	Buck Meek 	Can I Mend It? (Official Audio)		
+1021	2026	30/03/2026	03:06	BB	Buli Bilbao	https://www.youtube.com/watch?v=KfPHifzdJHI	Brown Horse 	Wreck (Official Audio)		
+1022	2026	06/04/2026	02:43	BB	Buli Bilbao	https://youtu.be/yu9k8J3Yunk	Mitski 	Cats (English Lyric Video)		
+1023	2026	13/04/2026	07:32	BB	Buli Bilbao	https://youtu.be/Aj5uV8aNm_A?list=RDAj5uV8aNm_A	Special Friend	Paints A Picture		
+1024	2026	20/04/2026	07:28	BB	Buli Bilbao	https://youtu.be/hMLI7LFf84w	Prince 	Baltimore (Official Music Video)		
+1025	2026	20/04/2026	07:29	BB	Buli Bilbao	https://youtu.be/NFXZNt4oLkE?list=RDvf68808dMtI	Prince 	Creep		
+1026	2026	23/04/2026	23:55	BB	Buli Bilbao	https://youtu.be/BPPSu0vaNWA	David Bowie	Changes (2015 Remaster)		
+1027	2026	27/04/2026	07:23	BB	Buli Bilbao	https://youtu.be/LVbz3FNSRuc	Fontaines D.C. 	Black Boys on Mopeds		
+1028	2026	04/05/2026	07:11	BB	Buli Bilbao	https://youtu.be/P1KTbDxOuuQ	Death Cab for Cutie 	Punching the Flowers (Official Music Video)		
+1029	2026	04/05/2026	07:11	BB	Buli Bilbao	https://youtu.be/YhruCF_beiA?t=14	Death Cab for Cutie 	Riptides (Official Music Video)		
+1030	2026	11/05/2026	06:46	BB	Buli Bilbao	https://youtu.be/WS1ubhuLEAg?list=RDWS1ubhuLEAg	Basement	WIRED (Full Album)		
+1031	2026	18/05/2026	07:05	BB	Buli Bilbao	https://youtu.be/F6rPrnasmyg	Fruit Bats	That Goddamn Sun		
+1032	2026	25/05/2026	00:39	BB	Buli Bilbao	https://youtu.be/-ZdSZN7LdqY	The Strokes 	Falling out of Love (Audio)		
+1033	2026	25/05/2026	00:40	BB	Buli Bilbao	https://youtu.be/5d0KUsqqVoQ	The Strokes	Going Shopping		
+1034	2026	01/06/2026	07:10	BB	Buli Bilbao	https://youtu.be/3s5p3L-KLd4	Inhaler 	Hole In The Ground (Visualiser)		
+1035	2026	08/06/2026	07:10	BB	Buli Bilbao	https://www.youtube.com/watch?v=GphWsRGFHyw	Porridge Radio	Back To The Radio		
+1036	2026	15/06/2026	07:25	BB	Buli Bilbao	https://youtu.be/MHHPGNCjFHM	Violet Grohl 	Bug In The Cake (Official Music Video)		
+1037	2026	22/06/2026	08:35	BB	Buli Bilbao	https://youtu.be/F_Y3Q98a7yU?list=OLAK5uy_l3p1nznwhnQK-dr8-I9cG0H2xfsGHRTVQ	Shinola	Madame George		
+1038	2026	29/06/2026	07:16	BB	Buli Bilbao	https://youtu.be/dmaxx-Zuawo?list=OLAK5uy_knZ5kt6r0H1GYVwS__3TvrI6RI212WneU	Fruit Bats	The Saddest Part of the Song		
+1039	2026	06/07/2026	07:51	BB	Buli Bilbao	https://youtu.be/JiaokhbyH1I	Modest Mouse	Third Side of the Moon		
+1040	2026	13/07/2026	07:37	BB	Buli Bilbao	https://youtu.be/mvCPgrFP0bk	The Smashing Pumpkins	The Bard		
+1041	2026	20/07/2026	07:39	BB	Buli Bilbao	https://youtu.be/hEv8ORJd9jc	Widowspeak 	Wondering		
+1042	2026	20/07/2026	07:39	BB	Buli Bilbao	https://youtu.be/uS1YGiW4EM8	Widowspeak 	If You Change (Official Video)		
+1043	2026	27/07/2026	06:35	BB	Buli Bilbao	https://youtu.be/4KXnboPN1p4	Phoebe Bridgers 	Lost Boys (Official Video)		
+1044	2026	03/08/2026	06:17	BB	Buli Bilbao	https://youtu.be/6gm9IWUuus0	Queens of the Stone Age 	Easy Street (Official Video)		
+1045	2026	08/08/2026	01:13	BB	Buli Bilbao	https://youtu.be/HKcLSlek99k	Galaxie 500	Flowers		
+1046	2026	17/08/2026	08:37	BB	Buli Bilbao	https://share.google/k4BILn6Ml9sNTtYAG	Fontaines D.C. 	Marianne		
+1047	2026	24/08/2026	07:51	BB	Buli Bilbao	https://youtu.be/PUrPV59-YWQ	Cage The Elephant	Beaches In Tennessee		
+1048	2026	31/08/2026	09:35	BB	Buli Bilbao	https://youtu.be/7PEJmPTIzqk	The Mountain Goats	Charlie Sheen Reaches Out to the Feds		
+1049	2026	07/09/2026	07:11	BB	Buli Bilbao	https://youtu.be/9bi4W8aGB-k	Cardinals	I Like You		
+1050	2026	14/09/2026	07:15	BB	Buli Bilbao	https://youtu.be/3MnT6Ec175Q	Basht	Keira Knightley		
+1051	2026	14/09/2026	07:15	BB	Buli Bilbao	https://youtu.be/m7fEhyZrkUs?list=RDm7fEhyZrkUs	Basht	Perfume		
+1052	2026	21/09/2026	07:26	BB	Buli Bilbao	https://youtu.be/8rfDvpfC2bw	Cold War Kids	We Used To Vacation		
+1053	2026	21/09/2026	07:27	BB	Buli Bilbao	https://youtu.be/folXjf6aDeE	Cold War Kids	Hang Me Up To Dry		
+1054	2026	28/09/2026	07:17	BB	Buli Bilbao	https://youtu.be/lDFzlqhgpMU	Tom Morello	Unconquered (feat. KNEECAP)		
+1055	2026	05/10/2026	07:10	BB	Buli Bilbao	https://youtu.be/Bb7YN5wQztk	Kings of Leon	My Whole World		
+1056	2026	12/10/2026	07:35	BB	Buli Bilbao	https://youtu.be/Hdx0uQR_Sro	Westside Cowboy	Kick Stones (The Boys)		
+1057	2026	12/10/2026	07:36	BB	Buli Bilbao	https://youtu.be/v3xmA92kAgE	Westside Cowboy	Worried Age		
+1058	2026	14/10/2026	00:53	BB	Buli Bilbao	https://youtu.be/_7IZxXMc_cc	A Perfect Circle	Imagine		
+										
+										
+					731					
+					327					
