@@ -42,7 +42,7 @@ input,select{font:inherit;min-height:43px;border:1px solid var(--line);border-ra
 .song{display:flex;justify-content:space-between;align-items:center;gap:13px;border:1px solid var(--line);border-radius:13px;padding:13px;background:#111a2bba}
 .song:hover{border-color:#536580;background:#172238}.song-main{min-width:0;flex:1}.artist{margin:0 0 2px;font-size:15px;font-weight:850;overflow-wrap:anywhere}.title{margin:0;font-size:14px;overflow-wrap:anywhere}
 .meta{margin:7px 0 0;color:var(--muted);font-size:12px}.song-actions{display:flex;align-items:center;gap:7px;flex-shrink:0}
-.song-actions button{font-size:12px;min-height:36px;padding:7px 10px}.add{color:var(--accent);border-color:#a8f06a55}
+.song-actions button{font-size:12px;min-height:36px;padding:7px 10px}.add{color:var(--accent);border-color:#a8f06a55}.telegram{border-color:#4b91c7;color:#b9e1ff}
 .empty{padding:24px 14px;border:1px dashed #46536a;border-radius:12px;text-align:center;color:var(--muted)}
 footer{border-top:1px solid var(--line);padding:18px 0 28px;color:var(--muted);font-size:12px}
 .intro-screen{position:fixed;inset:0;z-index:9999;width:100%;height:100vh;height:100dvh;display:grid;place-items:center;margin:0;padding:0;border:0;border-radius:0;background:radial-gradient(ellipse at center,#17233a 0%,#0b1020 68%);color:#fff;font-size:clamp(42px,12vw,82px);font-weight:900;letter-spacing:.12em;line-height:1;box-shadow:none;opacity:1;visibility:visible;transition:opacity .45s ease,visibility 0s linear 0s;-webkit-tap-highlight-color:transparent;touch-action:manipulation}
@@ -109,7 +109,18 @@ function resultCard(s){
  const m=document.createElement("p");m.className="meta";m.textContent="📅 "+(s.dateText||"Data ezezaguna")+(s.time?" · "+s.time:"")+(s.sender?" · "+s.sender:"");main.append(a,t,m);card.append(main);
  const actions=document.createElement("div");actions.className="song-actions";const add=document.createElement("button");add.className="add";add.type="button";add.textContent="＋ Ilarara gehitu";add.disabled=!s.videoId;add.addEventListener("click",()=>addToQueue(s));actions.append(add);
  if(s.videoId){const l=document.createElement("button");l.type="button";l.textContent="▶ Orain entzun";l.addEventListener("click",()=>{queue.push(s);renderQueue();playIndex(queue.length-1)});actions.append(l)}
+ const tg=document.createElement("button");tg.type="button";tg.className="telegram";tg.textContent="✈ Telegram";tg.title="Telegramen txata ireki kanta honen datarako";tg.addEventListener("click",()=>openTelegram(s));actions.append(tg);
  card.append(actions);return card
+}
+function openTelegram(song){
+ const key="tlmd_telegram_phone";let phone=localStorage.getItem(key)||"";
+ if(!phone){phone=prompt("Sartu beste pertsonaren Telegram telefono-zenbakia nazioarteko formatuan (adib. +34 600 000 000). Zenbakia nabigatzaile honetan gordeko da.","");if(phone===null)return;phone=phone.trim();}
+ const digits=phone.replace(/[^0-9]/g,"");
+ if(digits.length<7||digits.length>15){alert("Telefono-zenbakia ez dirudi zuzena. Erabili nazioarteko formatua, herrialde-kodearekin (adib. +34...).");return}
+ localStorage.setItem(key,digits);
+ const url="https://t.me/+"+digits;
+ const confirmed=confirm("Telegram irekiko da. Bilatu egun hau elkarrizketan: "+(song.dateText||"data ezezaguna")+".\n\nKanta: "+(song.artist||"")+" — "+(song.song||"")+"\n\nKontuan izan: Telegramen data eskuz bilatu beharko duzu.");
+ if(confirmed)window.open(url,"_blank","noopener,noreferrer");
 }
 function render(){
  const aq=norm(f.artist.value),sq=norm(f.song.value),sender=f.sender.value,year=f.year.value,from=f.from.value?new Date(f.from.value+"T00:00:00Z"):null,to=f.to.value?new Date(f.to.value+"T23:59:59Z"):null;
