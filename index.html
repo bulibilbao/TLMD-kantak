@@ -45,11 +45,16 @@ input,select{font:inherit;min-height:43px;border:1px solid var(--line);border-ra
 .song-actions button{font-size:12px;min-height:36px;padding:7px 10px}.add{color:var(--accent);border-color:#a8f06a55}
 .empty{padding:24px 14px;border:1px dashed #46536a;border-radius:12px;text-align:center;color:var(--muted)}
 footer{border-top:1px solid var(--line);padding:18px 0 28px;color:var(--muted);font-size:12px}
+.intro-screen{position:fixed;inset:0;z-index:9999;width:100%;height:100vh;height:100dvh;display:grid;place-items:center;margin:0;padding:0;border:0;border-radius:0;background:radial-gradient(ellipse at center,#17233a 0%,#0b1020 68%);color:#fff;font-size:clamp(42px,12vw,82px);font-weight:900;letter-spacing:.12em;line-height:1;box-shadow:none;opacity:1;visibility:visible;transition:opacity .45s ease,visibility 0s linear 0s;-webkit-tap-highlight-color:transparent;touch-action:manipulation}
+.intro-screen:hover{background:radial-gradient(ellipse at center,#17233a 0%,#0b1020 68%)}
+.intro-screen.is-hidden{opacity:0;visibility:hidden;pointer-events:none;transition:opacity .45s ease,visibility 0s linear .45s}
+.intro-screen:focus-visible{outline:3px solid var(--accent);outline-offset:-8px}
 @media(max-width:720px){.player-panel{grid-template-columns:1fr;padding:11px;gap:12px}.player-side{padding:4px 3px 3px}.subtle{margin-top:8px}.queue-box{margin-top:12px}}
 @media(max-width:540px){header{padding-top:24px}.filters{grid-template-columns:1fr;padding:13px;gap:11px}.summary{align-items:flex-start;flex-direction:column}.song{align-items:flex-start;flex-wrap:wrap;padding:12px}.song-actions{width:100%}.song-actions button{flex:1}.brand{gap:10px}.logo{width:42px;height:42px}.player-panel{border-radius:15px}}
 </style>
 </head>
 <body>
+<button id="intro-screen" class="intro-screen" type="button" aria-label="Sakatu TLMD kantak irekitzeko"><span>TLMD</span></button>
 <header><div class="wrap brand"><div class="logo" aria-hidden="true">♫</div><div><h1>TLMD kantak</h1><p class="subtitle">Harreman baten soinu banda</p></div></div></header>
 <main class="wrap">
 <section class="player-panel" aria-label="Musika erreproduzitzailea">
@@ -81,6 +86,8 @@ footer{border-top:1px solid var(--line);padding:18px 0 28px;color:var(--muted);f
 <footer><div class="wrap">TLMD kantak · soinu banda</div></footer>
 <script>
 const DATA_FILE="kantak.txt";
+const introScreen=document.getElementById("intro-screen");
+introScreen.addEventListener("click",()=>introScreen.classList.add("is-hidden"),{once:true});
 const f={artist:document.getElementById("artist"),song:document.getElementById("song"),sender:document.getElementById("sender"),year:document.getElementById("year"),from:document.getElementById("from"),to:document.getElementById("to"),sort:document.getElementById("sort")};
 const resultsEl=document.getElementById("results"),countEl=document.getElementById("count"),statusEl=document.getElementById("status");
 const playerStatus=document.getElementById("player-status"),placeholder=document.getElementById("player-placeholder");
