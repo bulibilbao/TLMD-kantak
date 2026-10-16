@@ -104,12 +104,12 @@ Zkia	Urtea	Data	Ordua	Igorlea	Izena	URL	Artista	Abestia
 103	2021	26/04/2021	22:03	BB	BuB	https://youtu.be/sMmTkKz60W8	Lynyrd Skynyrd	Simple Man 		
 104	2021	28/04/2021	20:32	BB	BuB	https://m.youtube.com/watch?v=acK0KH2uJGc	Better Than Ezra 	Good		
 105	2021	29/04/2021	22:35	LG	LGE	https://youtu.be/kOuGhuUmbNM?list=RDkOuGhuUmbNM	Bill Withers	Let Me In Your Life (BBC In Concert, May 11, 1974)		
-106	2021	01/05/2021	23:20	BB	BuB	https://m.youtube.com/watch?v=iY-W7EA8uB0	Sheryl Crow 	If It Makes You Happy acoustic 2008		
+106	2021	01/05/2021	23:20	BB	BuB	https://m.youtube.com/watch?v=iY-W7EA8uB0	Sheryl Crow	If It Makes You Happy acoustic 2008		
 107	2021	03/05/2021	22:14	BB	BuB	https://youtu.be/6k8es2BNloE	The Black Keys 	Little Black Submarines [Official Music Video]		
 108	2021	03/05/2021	22:15	BB	BuB	https://youtu.be/BiaZ-1g3XV4	The Black Keys 	You're The One		
 109	2021	04/05/2021	22:26	LG	LGE	https://youtu.be/Ix2zzyz4nqs	Mogwai 	Take Me Somewhere Nice (Live in London)		
-110	2021	05/05/2021	23:56	BB	BuB	https://m.youtube.com/watch?v=hsQWAyh9Z6o	Eddie Vedder 	Sleeping By Myself		
-111	2021	06/05/2021	00:04	BB	BuB	https://m.youtube.com/watch?v=cUhnQzjXHHY	Eddie Vedder 	Tonight You Belong To Me		
+110	2021	05/05/2021	23:56	BB	BuB	https://m.youtube.com/watch?v=hsQWAyh9Z6o	Eddie Vedder	Sleeping By Myself		
+111	2021	06/05/2021	00:04	BB	BuB	https://m.youtube.com/watch?v=cUhnQzjXHHY	Eddie Vedder	Tonight You Belong To Me		
 112	2021	06/05/2021	22:14	LG	LGE	https://youtu.be/0Hegd4xNfRo	Leon Bridges 	River (Official Video)		
 113	2021	10/05/2021	22:48	BB	BuB	https://youtu.be/kpVxwWQjIy0	Desmond Dekker & The Aces 	007 (Official Music Video)		
 114	2021	12/05/2021	07:35	BB	BuB	https://youtu.be/jLYsIESNtUc	The Libertines 	Don't Look Back Into The Sun (Official Video)		
@@ -778,7 +778,7 @@ Zkia	Urtea	Data	Ordua	Igorlea	Izena	URL	Artista	Abestia
 777	2024	01/02/2024	22:30	LG	LGE	https://youtu.be/DGDvBmttm4Q?si=Rc0MR6WBSG66Yx0p	Viva Belgrado 	Un Tragaluz		
 778	2024	01/02/2024	22:30	LG	LGE	https://youtu.be/Q3Nb1wY9k6w?si=asNihJ1n_TBAAce5	Viva Belgrado 	Elena Observando la Osa Mayor		
 779	2024	02/02/2024	23:48	BB	BuB	https://youtu.be/XjYIzp35QY8?list=RDXjYIzp35QY8	John Craigie	Highway Blood		
-780	2024	05/02/2024	22:13	BB	BuB	https://youtu.be/lWNxWy012Ro	Marianne Faithfull · PJ Harvey 	Before the Poison		
+780	2024	05/02/2024	22:13	BB	BuB	https://youtu.be/1cbEq4NCIGs?list=PLnOwxHKu51HcW47wuOWhWy-XHyfaXD07r	Marianne Faithfull · PJ Harvey 	Before the Poison		
 781	2024	06/02/2024	23:54	BB	BuB	https://youtu.be/i8cogQpcTYA	Nathaniel Rateliff 	Mavis (Live at Red Rocks / September 20, 2020)		
 782	2024	08/02/2024	22:18	LG	LGE	https://youtu.be/EDggGVRxzyA?si=UdTCZmOYL02F3OSX	Black Sea Dahu	In Case I Fall for You (Official Videoclip)		
 783	2024	12/02/2024	20:23	BB	BuB	https://youtu.be/asI2DsUPWJ4?list=RDasI2DsUPWJ4	The Walkmen	The Rat		
@@ -982,7 +982,7 @@ Zkia	Urtea	Data	Ordua	Igorlea	Izena	URL	Artista	Abestia
 981	2025	27/10/2025	23:53	BB	BuB	https://music.youtube.com/watch?v=fpIHEHs-zck	Geese	Au Pays du Cocaine		
 982	2025	03/11/2025	22:19	BB	BuB	https://youtu.be/5JIb6POIc-E	Gorka Urbizu 	Diamantea (bideoklip ofiziala 		
 983	2025	10/11/2025	22:34	BB	BuB	https://youtu.be/RC9ZXpI-_JU	Kings of Leon	The Wolf (Visualizer)		
-984	2025	17/11/2025	21:57	BB	BuB	https://youtu.be/7ejQ_CL_dWA	El Mató a un Policía Motorizado 	Más o Menos Bien (Official Music Video)		
+984	2025	17/11/2025	21:57	BB	BuB	https://youtu.be/7ejQ_CL_dWA	El Mató a un Policía Motorizado 	Más o Menos Bien (Official Music Video)		
 985	2025	24/11/2025	22:18	BB	BuB	https://youtu.be/fhkp_TNJfhA	Sharp Pins 	(I Wanna) Be Your Girl		
 986	2025	27/11/2025	00:08	BB	BuB	https://youtu.be/-CZq6PTaStA	Medium Build 	Balance (Lyric Video)		
 987	2025	01/12/2025	07:18	BB	BuB	https://youtu.be/UelDrZ1aFeY?list=RDUelDrZ1aFeY	The Beatles	Something		
@@ -1044,7 +1044,7 @@ Zkia	Urtea	Data	Ordua	Igorlea	Izena	URL	Artista	Abestia
 1043	2026	27/07/2026	06:35	BB	BuB	https://youtu.be/4KXnboPN1p4	Phoebe Bridgers 	Lost Boys (Official Video)		
 1044	2026	03/08/2026	06:17	BB	BuB	https://youtu.be/6gm9IWUuus0	Queens of the Stone Age 	Easy Street (Official Video)		
 1045	2026	08/08/2026	01:13	BB	BuB	https://youtu.be/HKcLSlek99k	Galaxie 500	Flowers		
-1046	2026	17/08/2026	08:37	BB	BuB	https://share.google/k4BILn6Ml9sNTtYAG	Fontaines D.C. 	Marianne		
+1046	2026	17/08/2026	08:37	BB	BuB	https://youtu.be/lWNxWy012Ro	Fontaines D.C. 	Marianne		
 1047	2026	24/08/2026	07:51	BB	BuB	https://youtu.be/PUrPV59-YWQ	Cage The Elephant	Beaches In Tennessee		
 1048	2026	31/08/2026	09:35	BB	BuB	https://youtu.be/7PEJmPTIzqk	The Mountain Goats	Charlie Sheen Reaches Out to the Feds		
 1049	2026	07/09/2026	07:11	BB	BuB	https://youtu.be/9bi4W8aGB-k	Cardinals	I Like You		
