@@ -778,7 +778,7 @@ Zkia	Urtea	Data	Ordua	Igorlea	Izena	URL	Artista	Abestia
 777	2024	01/02/2024	22:30	LG	LGE	https://youtu.be/DGDvBmttm4Q?si=Rc0MR6WBSG66Yx0p	Viva Belgrado 	Un Tragaluz		
 778	2024	01/02/2024	22:30	LG	LGE	https://youtu.be/Q3Nb1wY9k6w?si=asNihJ1n_TBAAce5	Viva Belgrado 	Elena Observando la Osa Mayor		
 779	2024	02/02/2024	23:48	BB	BuB	https://youtu.be/XjYIzp35QY8?list=RDXjYIzp35QY8	John Craigie	Highway Blood		
-780	2024	05/02/2024	22:13	BB	BuB	https://youtu.be/1cbEq4NCIGs?list=PLnOwxHKu51HcW47wuOWhWy-XHyfaXD07r	Marianne Faithfull · PJ Harvey 	Before the Poison		
+780	2024	05/02/2024	22:13	BB	BuB	https://youtu.be/lWNxWy012Ro	Marianne Faithfull · PJ Harvey 	Before the Poison		
 781	2024	06/02/2024	23:54	BB	BuB	https://youtu.be/i8cogQpcTYA	Nathaniel Rateliff 	Mavis (Live at Red Rocks / September 20, 2020)		
 782	2024	08/02/2024	22:18	LG	LGE	https://youtu.be/EDggGVRxzyA?si=UdTCZmOYL02F3OSX	Black Sea Dahu	In Case I Fall for You (Official Videoclip)		
 783	2024	12/02/2024	20:23	BB	BuB	https://youtu.be/asI2DsUPWJ4?list=RDasI2DsUPWJ4	The Walkmen	The Rat		
