@@ -1,35 +1,77 @@
-<!doctype html>
-<html lang="eu">
-<head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
-<meta name="theme-color" content="#0b1020">
-<title>TLMD</title>
-<link rel="icon" type="image/jpeg" href="portada.jpg">
-<link rel="apple-touch-icon" href="portada.jpg">
-<style>
+<!doctype html><html lang="eu"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"><meta name="theme-color" content="#111827"><title>TLMD kantak · Bilatu</title><link rel="icon" type="image/jpeg" href="portada.jpg"><link rel="apple-touch-icon" href="portada.jpg"><style>
+:root{color-scheme:dark;--bg:#0b1020;--panel:#121a2b;--panel2:#182338;--text:#f5f7fb;--muted:#a6b1c4;--line:#2a3650;--accent:#a8f06a;--accent2:#c7ff98;--danger:#ffb6b6}
 *{box-sizing:border-box}
-html,body{margin:0;width:100%;min-height:100%;background:#0b1020;color:#fff;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif}
-body{min-height:100vh;min-height:100dvh}
-#cover{position:relative;width:100%;min-height:100vh;min-height:100dvh;display:flex;align-items:center;justify-content:center;text-align:center;border:0;background:radial-gradient(ellipse at center,#17233a 0%,#0b1020 68%);color:#fff;cursor:pointer;-webkit-tap-highlight-color:transparent;padding:28px 18px}
-#cover:focus-visible{outline:3px solid #a8f06a;outline-offset:-8px}
-.center{display:flex;flex-direction:column;align-items:center;transform:translateY(-1vh)}
-.cover-art{display:block;width:clamp(112px,32vw,190px);height:clamp(112px,32vw,190px);object-fit:cover;border-radius:4px;margin:0 auto 24px;box-shadow:0 14px 42px #0006}
-.title{font-size:clamp(42px,12vw,82px);font-weight:900;letter-spacing:.12em;line-height:1}
-.cover-subtitle{margin-top:10px;font-size:12px;font-weight:400;letter-spacing:.04em;color:#aeb8ca;line-height:1.4}
-.tagline{margin-top:20px;font-size:clamp(13px,3.5vw,18px);font-weight:400;line-height:1.8;letter-spacing:.045em;text-transform:lowercase;color:#e5e9f0}
-.signature{position:absolute;left:16px;right:16px;bottom:max(22px,env(safe-area-inset-bottom));font-size:12px;letter-spacing:.08em;color:#aeb8ca}
-</style>
-</head>
-<body>
-<button id="cover" type="button" aria-label="TLMD kantak ireki" onclick="location.href='erreproduzitzailea.html'">
-  <span class="center">
-    <img class="cover-art" src="portada.jpg" alt="Portada de TLMD">
-    <span class="title">TLMD</span>
-    <span class="cover-subtitle">Harreman baten soinu banda</span>
-    <span class="tagline">good wine<br>good music<br>...and better company</span>
-  </span>
-  <span class="signature">Buli 2026/11/20</span>
-</button>
-</body>
-</html>
+body{margin:0;background:radial-gradient(ellipse at top,#17233a 0%,var(--bg) 58%);color:var(--text);font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;line-height:1.45;min-height:100vh}
+.wrap{width:min(100% - 28px,1050px);margin:0 auto}
+header{padding:32px 0 22px;border-bottom:1px solid var(--line)}
+.brand{display:flex;align-items:center;gap:13px}.logo{display:block;width:46px;height:46px;flex:0 0 46px;object-fit:cover;border-radius:12px;box-shadow:0 8px 30px #0003}
+h1{margin:0;font-size:clamp(27px,5vw,39px);letter-spacing:-1.2px;font-weight:850}.subtitle{margin:5px 0 0;color:var(--muted);font-size:14px}
+main{padding:22px 0 46px}.section-title{font-size:17px;margin:0 0 12px;letter-spacing:-.2px}
+.player-panel{display:grid;grid-template-columns:minmax(0,1.25fr) minmax(240px,.75fr);gap:16px;padding:16px;border:1px solid var(--line);border-radius:20px;background:linear-gradient(135deg,#18243a,#101726);box-shadow:0 18px 55px #0003;margin-bottom:22px}
+.video-wrap{aspect-ratio:16/9;background:#05070c;border-radius:13px;overflow:hidden;position:relative}
+#player,#player iframe{width:100%;height:100%;display:block}
+.player-placeholder{position:absolute;inset:0;display:grid;place-items:center;text-align:center;padding:24px;color:var(--muted);background:radial-gradient(circle at 50% 30%,#253652,#080c15)}
+.big-note{font-size:36px;display:block;margin-bottom:7px;color:var(--accent)}
+.player-side{display:flex;flex-direction:column;min-width:0}
+.now-label{font-size:11px;text-transform:uppercase;letter-spacing:1.5px;color:var(--accent);font-weight:800;margin:3px 0 8px}
+#now-title{font-size:21px;line-height:1.2;font-weight:850;margin:0 0 5px;overflow-wrap:anywhere}
+#now-artist{color:var(--muted);margin:0 0 13px;overflow-wrap:anywhere}
+.controls{display:flex;flex-direction:column;align-items:center;gap:10px;margin:0 0 12px}.transport-controls{display:flex;align-items:center;justify-content:center;gap:14px;width:100%}.transport-controls button{width:54px;min-width:54px;height:50px;padding:8px;font-size:22px;display:grid;place-items:center}.transport-controls button.primary{width:auto;min-width:48px;padding:8px 12px;font-size:22px}.random-button{width:auto;max-width:100%;font-size:12px;min-height:38px;padding:8px 12px}
+button{font:inherit;cursor:pointer;border:1px solid var(--line);border-radius:11px;padding:10px 12px;min-height:42px;background:var(--panel2);color:var(--text);font-weight:750}
+button:focus-visible,input:focus-visible,select:focus-visible{outline:3px solid #a8f06a88;outline-offset:2px}
+button.primary{background:var(--accent);color:#101827;border-color:var(--accent)}button.primary:hover{background:var(--accent2)}
+button:disabled{opacity:.4;cursor:not-allowed}.subtle{font-size:12px;color:var(--muted);margin:auto 0 0}
+.queue-box{border-top:1px solid var(--line);padding-top:11px;margin-top:10px;min-height:0}
+.queue-heading{display:flex;justify-content:space-between;gap:8px;align-items:center;margin-bottom:7px}.queue-heading strong{font-size:13px}.queue-heading button{font-size:11px;min-height:30px;padding:5px 8px}
+#queue{list-style:none;padding:0;margin:0;max-height:138px;overflow-y:auto;overflow-x:hidden;scroll-behavior:smooth}
+.queue-item{display:flex;gap:8px;align-items:center;padding:7px 8px;border-radius:8px;font-size:12px;color:var(--muted);cursor:pointer}
+.queue-item.active{background:#a8f06a18;color:var(--text);border:1px solid #a8f06a55}
+.queue-num{color:var(--accent);font-weight:850;min-width:17px}.queue-label{overflow:hidden;text-overflow:ellipsis;white-space:nowrap;flex:1}
+.filters{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px;padding:16px;background:#121a2be8;border:1px solid var(--line);border-radius:16px}
+.field{display:flex;flex-direction:column;gap:6px;min-width:0}label{font-size:12px;font-weight:750;color:#dce4f1}
+input,select{font:inherit;min-height:43px;border:1px solid var(--line);border-radius:10px;padding:9px 11px;background:#0b1220;color:var(--text);width:100%}
+.summary{display:flex;justify-content:space-between;gap:12px;align-items:center;margin:20px 0 10px}
+#count,#status{font-size:13px;color:var(--muted);margin:0}.results{display:grid;gap:9px}
+.song{display:flex;justify-content:space-between;align-items:center;gap:13px;border:1px solid var(--line);border-radius:13px;padding:13px;background:#111a2bba}
+.song:hover{border-color:#536580;background:#172238}.song-main{min-width:0;flex:1}.artist{margin:0 0 2px;font-size:15px;font-weight:850;overflow-wrap:anywhere}.title{margin:0;font-size:14px;overflow-wrap:anywhere}
+.meta{margin:7px 0 0;color:var(--muted);font-size:12px}.song-actions{display:flex;align-items:center;gap:7px;flex-shrink:0}
+.song-actions button{-webkit-appearance:none;appearance:none;-webkit-tap-highlight-color:transparent;font-size:19px;min-height:38px;min-width:38px;padding:5px 8px;display:inline-grid;place-items:center}.add{background:#f1f0e7;color:#111827;border-color:#f1f0e7;font-weight:900}.add:hover{background:#fffdf4;border-color:#fffdf4}.play-now{background:var(--accent);color:#101827;border-color:var(--accent);font-size:21px!important}.play-now:hover{background:var(--accent2);border-color:var(--accent2)}.telegram{border:0;background:transparent;padding:3px!important;min-width:42px}.telegram svg{display:block;width:31px;height:31px}.telegram:hover{filter:brightness(1.12)}
+.empty{padding:24px 14px;border:1px dashed #46536a;border-radius:12px;text-align:center;color:var(--muted)}
+footer{border-top:1px solid var(--line);padding:18px 0 28px;color:var(--muted);font-size:12px}
+.intro-screen{position:fixed;inset:0;z-index:9999;width:100%;height:100vh;height:100dvh;display:grid;place-items:center;margin:0;padding:0;border:0;border-radius:0;background:radial-gradient(ellipse at center,#17233a 0%,#0b1020 68%);color:#fff;font-size:clamp(42px,12vw,82px);font-weight:900;letter-spacing:.12em;line-height:1;box-shadow:none;opacity:1;visibility:visible;transition:opacity .45s ease,visibility 0s linear 0s;-webkit-tap-highlight-color:transparent;touch-action:manipulation}
+.intro-screen:hover{background:radial-gradient(ellipse at center,#17233a 0%,#0b1020 68%)}
+.intro-screen.is-hidden{opacity:0;visibility:hidden;pointer-events:none;transition:opacity .45s ease,visibility 0s linear .45s}
+.intro-screen:focus-visible{outline:3px solid var(--accent);outline-offset:-8px}
+@media(max-width:720px){.player-panel{grid-template-columns:1fr;padding:11px;gap:12px}.player-side{padding:4px 3px 3px}.subtle{margin-top:8px}.queue-box{margin-top:12px}}
+@media(max-width:540px){.song-actions{width:auto;flex:0 0 auto;gap:5px;margin-left:auto}.song-actions button{flex:0 0 34px;width:34px;min-width:34px;height:34px;min-height:34px;padding:4px;font-size:17px}.song-actions .play-now{font-size:18px!important}.song-actions .telegram{padding:1px!important}.song-actions .telegram svg{width:29px;height:29px}header{padding-top:24px}.filters{grid-template-columns:1fr;padding:13px;gap:11px}.summary{align-items:flex-start;flex-direction:column}.song{align-items:flex-start;flex-wrap:wrap;padding:12px}.brand{gap:10px}.logo{width:42px;height:42px}.player-panel{border-radius:15px}}
+
+.page-actions{display:flex;gap:8px;flex-wrap:wrap;align-items:center;justify-content:center;margin:0 0 14px}
+.page-actions button{min-height:38px}
+.back-link{display:inline-flex;align-items:center;gap:6px;text-decoration:none;border:1px solid #dbe6d3;border-radius:11px;padding:9px 12px;color:#111827;background:#dbe6d3;font-weight:800;font-size:13px}.back-link:hover{background:#e8f0e2;border-color:#e8f0e2}#clear{background:#dbe6d3;color:#111827;border-color:#dbe6d3;font-weight:800}#clear:hover{background:#e8f0e2;border-color:#e8f0e2}
+.search-page-heading{display:flex;justify-content:space-between;align-items:center;gap:12px;flex-wrap:wrap;margin-bottom:12px}
+@media(max-width:540px){.page-actions{display:grid;grid-template-columns:1fr 1fr;width:100%}.page-actions button{width:100%}}
+</style><script>(()=>{try{if(localStorage.getItem('tlmd_access')!=='1'&&sessionStorage.getItem('tlmd_access')!=='1'){location.replace('index.html?auth=1')}}catch(e){location.replace('index.html?auth=1')}})();</script></head><body><header><div class="wrap brand"><img class="logo" src="portada.jpg" alt=""><div><h1>TLMD kantak</h1><p class="subtitle">Harreman baten soinu banda</p></div></div></header><main class="wrap"><div class="search-page-heading"><h2 class="section-title">Kantak bilatu</h2><a class="back-link" href="erreproduzitzailea.html" onclick="if(window.opener){window.close();return false;}">← Itzuli</a></div><section class="filters" aria-label="Bilaketa-iragazkiak">
+<div class="field"><label for="artist">Artista</label><input id="artist" type="search" placeholder="Adib. The National" autocomplete="off"></div>
+<div class="field"><label for="song">Abestia</label><input id="song" type="search" placeholder="Adib. Bloodbuzz" autocomplete="off"></div>
+<div class="field"><label for="sender">Igorlea · nork bidalita</label><select id="sender"><option value="">Guztiak</option></select></div>
+<div class="field"><label for="year">Urtea</label><select id="year"><option value="">Urte guztiak</option></select></div>
+<div class="field"><label for="from">noiztik</label><input id="from" type="date"></div>
+<div class="field"><label for="to">noiz arte</label><input id="to" type="date"></div>
+<div class="field"><label for="sort">Emaitzak ordenatu</label><select id="sort"><option value="newest">Berrienak lehenengo</option><option value="oldest">Zaharrenak lehenengo</option><option value="artist">Artista A–Z</option><option value="song">Abestia A–Z</option></select></div>
+<div class="field"><label>&nbsp;</label><button id="clear" type="button">Garbitu iragaziak</button></div>
+</section><div class="summary"><p id="count" aria-live="polite">Abestiak kargatzen…</p><p id="status" role="status"></p></div>
+<section id="results" class="results" aria-label="Bilaketaren emaitzak"></section></main><footer><div class="wrap">TLMD kantak · soinu banda</div></footer><script>const DATA_FILE="kantak.txt";
+function norm(v){return String(v??"").normalize("NFD").replace(/[\u0300-\u036f]/g,"").toLocaleLowerCase("eu").trim()}
+function parseDate(v){const m=String(v??"").trim().match(/^(\d{1,2})\/(\d{1,2})\/(\d{4})$/);if(!m)return null;const d=Number(m[1]),mo=Number(m[2]),y=Number(m[3]),dt=new Date(Date.UTC(y,mo-1,d));return dt.getUTCFullYear()===y&&dt.getUTCMonth()===mo-1&&dt.getUTCDate()===d?dt:null}
+function parseTsv(text){const lines=text.replace(/^\uFEFF/,"").split(/\r?\n/).filter(x=>x.trim()!=="");if(lines.length<2)throw Error("Fitxategia hutsik dago edo goiburuak bakarrik ditu.");const headers=lines[0].split("\t").map(norm),idx=n=>headers.indexOf(norm(n)),required=["Data","Ordua","Izena","URL","Artista","Abestia"],missing=required.filter(n=>idx(n)<0);if(missing.length)throw Error("Ez ditut zutabe hauek aurkitu: "+missing.join(", ")+". Egiaztatu goiburuak eta tabuladoreak.");return lines.slice(1).map((line,i)=>{const c=line.split("\t"),get=n=>(c[idx(n)]??"").trim(),date=parseDate(get("Data")),artist=get("Artista"),song=get("Abestia");if(!artist&&!song)return null;return{id:get("Zkia")||String(i+1),year:get("Urtea")||(date?String(date.getUTCFullYear()):""),dateText:get("Data"),date:date?date.toISOString():null,time:get("Ordua"),sender:get("Izena"),url:get("URL"),artist,song,videoId:extractVideoId(get("URL"))}}).filter(Boolean)}
+function extractVideoId(raw){try{const u=new URL(raw);if(u.hostname.includes("youtu.be"))return u.pathname.split("/").filter(Boolean)[0]||null;if(u.hostname.includes("youtube.com")||u.hostname.includes("youtube-nocookie.com")){if(u.searchParams.get("v"))return u.searchParams.get("v");const p=u.pathname.split("/").filter(Boolean),i=p.findIndex(x=>["embed","shorts","live","v"].includes(x));if(i>=0&&p[i+1])return p[i+1]}}catch{}return null}
+function fill(select,values,label){select.replaceChildren(new Option(label,""));[...new Set(values.filter(Boolean))].sort((a,b)=>a.localeCompare(b,"eu",{sensitivity:"base"})).forEach(v=>select.add(new Option(v,v)))}
+
+const f={artist:document.getElementById("artist"),song:document.getElementById("song"),sender:document.getElementById("sender"),year:document.getElementById("year"),from:document.getElementById("from"),to:document.getElementById("to"),sort:document.getElementById("sort")};const resultsEl=document.getElementById("results"),countEl=document.getElementById("count"),statusEl=document.getElementById("status");let songs=[];
+function resultCard(s){const card=document.createElement("article");card.className="song";const main=document.createElement("div");main.className="song-main";const a=document.createElement("h3");a.className="artist";a.textContent=s.artist||"Artista ezezaguna";const t=document.createElement("p");t.className="title";t.textContent=s.song||"Izenbururik gabe";const m=document.createElement("p");m.className="meta";m.textContent=(s.dateText||"Data ezezaguna")+(s.time?" · "+s.time:"")+(s.sender?" · "+s.sender:"");main.append(a,t,m);card.append(main);const actions=document.createElement("div");actions.className="song-actions";const add=document.createElement("button");add.className="add";add.type="button";add.textContent="+";add.title="Ilarara gehitu";add.setAttribute("aria-label","Ilarara gehitu");add.disabled=!s.videoId;add.addEventListener("click",()=>addToPersistentQueue(s,false));actions.append(add);if(s.videoId){const l=document.createElement("button");l.type="button";l.className="play-now";l.textContent="▶";l.title="Orain entzun";l.setAttribute("aria-label","Orain entzun");l.addEventListener("click",()=>addToPersistentQueue(s,true));actions.append(l)}const tg=document.createElement("button");tg.type="button";tg.className="telegram";tg.innerHTML='<svg viewBox="0 0 40 40" role="img" aria-label="Telegram"><circle cx="20" cy="20" r="19" fill="#229ED9"/><path d="M8.5 19.1 29.8 10.9c1-.36 1.86.25 1.54 1.68l-3.62 17.05c-.27 1.21-.98 1.51-1.97.94l-5.42-3.99-2.62 2.52c-.29.29-.53.53-1.09.53l.39-5.5 10.03-9.06c.44-.39-.09-.6-.68-.21L12.78 23.4l-5.32-1.67c-1.16-.36-1.18-1.16.24-1.74z" fill="#fff"/></svg>';tg.title="Telegramen txata ireki kanta honen datarako";tg.setAttribute("aria-label","Telegram ireki");tg.addEventListener("click",()=>openTelegram(s));actions.append(tg);card.append(actions);return card}
+function addToPersistentQueue(song,playNow){if(!song.videoId){statusEl.textContent="Abesti honek ez du YouTubeko bideo-esteka erabilgarririk.";return}let q=[];try{q=JSON.parse(localStorage.getItem("tlmd_queue")||"[]")}catch{}if(!Array.isArray(q))q=[];q.push(song);localStorage.setItem("tlmd_queue",JSON.stringify(q));if(playNow){localStorage.setItem("tlmd_queue_index",String(q.length-1));localStorage.setItem("tlmd_play_on_load","1");location.href="erreproduzitzailea.html"}else statusEl.textContent="Kanta ilarara gehitu da. Ilaran guztira: "+q.length}
+function openTelegram(song){const key="tlmd_telegram_phone";let phone=localStorage.getItem(key)||"";if(!phone){phone=prompt("Sartu beste pertsonaren Telegram telefono-zenbakia nazioarteko formatuan (adib. +34 600 000 000). Zenbakia nabigatzaile honetan gordeko da.","");if(phone===null)return;phone=phone.trim()}const digits=phone.replace(/[^0-9]/g,"");if(digits.length<7||digits.length>15){alert("Telefono-zenbakia ez dirudi zuzena. Erabili nazioarteko formatua, herrialde-kodearekin (adib. +34...).");return}localStorage.setItem(key,digits);const url="https://t.me/+"+digits;const confirmed=confirm("Telegram irekiko da. Bilatu egun hau elkarrizketan: "+(song.dateText||"data ezezaguna")+".\n\nKanta: "+(song.artist||"")+" — "+(song.song||"")+"\n\nKontuan izan: Telegramen data eskuz bilatu beharko duzu.");if(confirmed)window.open(url,"_blank","noopener,noreferrer")}
+function render(){const aq=norm(f.artist.value),sq=norm(f.song.value),sender=f.sender.value,year=f.year.value,from=f.from.value?new Date(f.from.value+"T00:00:00Z"):null,to=f.to.value?new Date(f.to.value+"T23:59:59Z"):null;let list=songs.filter(s=>(!aq||norm(s.artist).includes(aq))&&(!sq||norm(s.song).includes(sq))&&(!sender||s.sender===sender)&&(!year||s.year===year)&&(!from||(s.date&&new Date(s.date)>=from))&&(!to||(s.date&&new Date(s.date)<=to)));const ts=s=>s.date?new Date(s.date).getTime():0;switch(f.sort.value){case"oldest":list.sort((a,b)=>ts(a)-ts(b)||(a.time||"").localeCompare(b.time||""));break;case"artist":list.sort((a,b)=>a.artist.localeCompare(b.artist,"eu",{sensitivity:"base"})||a.song.localeCompare(b.song,"eu",{sensitivity:"base"}));break;case"song":list.sort((a,b)=>a.song.localeCompare(b.song,"eu",{sensitivity:"base"}));break;default:list.sort((a,b)=>ts(b)-ts(a)||(b.time||"").localeCompare(a.time||""))}countEl.textContent=list.length+(list.length===1?" abesti aurkitu da":" abesti aurkitu dira");resultsEl.replaceChildren();if(!list.length){const e=document.createElement("div");e.className="empty";e.textContent="Ez da bat datorren abestirik aurkitu. Aldatu bilaketa edo garbitu iragazkiak.";resultsEl.append(e);return}const frag=document.createDocumentFragment();list.forEach(s=>frag.append(resultCard(s)));resultsEl.append(frag)}
+function clearFilters(){f.artist.value="";f.song.value="";f.sender.value="";f.year.value="";f.from.value="";f.to.value="";f.sort.value="newest";render()}Object.values(f).forEach(el=>{el.addEventListener("input",render);el.addEventListener("change",render)});document.getElementById("clear").addEventListener("click",clearFilters);
+async function start(){try{const r=await fetch(DATA_FILE,{cache:"no-store"});if(!r.ok)throw Error("Ezin izan da kantak.txt kargatu (errorea "+r.status+"). Egiaztatu fitxategia orri honen ondoan dagoela.");songs=parseTsv(await r.text());fill(f.sender,songs.map(s=>s.sender),"Guztiak");fill(f.year,songs.map(s=>s.year),"Urte guztiak");statusEl.textContent="";render()}catch(e){countEl.textContent="Ezin izan dira abestiak kargatu.";statusEl.textContent=e.message;resultsEl.replaceChildren();const h=document.createElement("div");h.className="empty";h.textContent="Egiaztatu kantak.txt fitxategia: goiburuak eta tabuladore bidez bereizitako zutabeak.";resultsEl.append(h)}}start();
+</script></body></html>
