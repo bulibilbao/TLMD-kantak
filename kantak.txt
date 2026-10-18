@@ -705,7 +705,7 @@ Zkia	Urtea	Data	Ordua	Igorlea	Izena	URL	Artista	Abestia
 704	2023	28/09/2023	23:15	LG	LGE	https://youtu.be/rEXhAMtbaec?si=bs3OAoYKp-13KBsi	Sara Bareilles 	Gravity (Official HD Video)		
 705	2023	28/09/2023	23:17	LG	LGE	https://youtu.be/Ht2NCrlghS4?si=_iBjx6dF9Lf3__-L	Sara Bareilles 	A Safe Place to Land (Live at the Village) ft. John Legend		
 706	2023	02/10/2023	23:02	BB	BuB	https://youtu.be/lFni9GII-PE	The Strokes 	Under Control		
-707	2023	05/10/2023	22:42	LG	LGE	https://youtu.be/uvWQMZXpJu8?si=uo5DvBI4dxRO4QI0	Zea mays	Zu		
+707	2023	05/10/2023	22:42	LG	LGE	https://youtu.be/w-SW65xO3s0?list=RDw-SW65xO3s0	Zea mays	Zu		
 708	2023	09/10/2023	22:27	BB	BuB	https://youtu.be/6Ekq19HIb_E	Counting Crows	Sullivan Street		
 709	2023	12/10/2023	00:15	BB	BuB	https://youtu.be/jL7kHC432XE	Eddie Vedder 	Guaranteed (OFFICIAL VIDEO)		
 710	2023	12/10/2023	00:17	BB	BuB	https://youtu.be/YVFBE28ixSI	Eddie Vedder	Future Days (acoustic at home)		
