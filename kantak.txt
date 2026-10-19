@@ -1057,3 +1057,5 @@ BelZkia	Urtea	Data	Ordua	Igorlea	Izena	URL	Artista	Abestia
 1056	2026	12/10/2026	07:35	BB	BuB	https://youtu.be/Hdx0uQR_Sro	Westside Cowboy	Kick Stones (The Boys)		
 1057	2026	12/10/2026	07:36	BB	BuB	https://youtu.be/v3xmA92kAgE	Westside Cowboy	Worried Age		
 1058	2026	14/10/2026	00:53	BB	BuB	https://youtu.be/_7IZxXMc_cc	A Perfect Circle	Imagine		
+1059	2026	19/10/2026	07:00	BB	BuB	https://youtu.be/Ejobes7OoGU	MJ Lenderman	On My Knees
+1060	2026	19/10/2026	07:00	BB	BuB	https://youtu.be/zbfLNPgMupI	MJ Lenderman	Wristwatch
