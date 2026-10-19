@@ -1,4 +1,4 @@
-Zkia	Urtea	Data	Ordua	Igorlea	Izena	URL	Artista	Abestia		
+BelZkia	Urtea	Data	Ordua	Igorlea	Izena	URL	Artista	Abestia		
 1	2020	21/09/2020	23:43	BB	BuB	https://m.youtube.com/watch?v=Vz82ukiUmw0	Nathaniel Rateliff 	You Need Me (Official Audio)		
 2	2020	01/10/2020	23:20	LG	LGE	https://youtu.be/gGGEIbgKQNM	Jurgi Ekiza	Gau eta Egunen Erritmoan		
 3	2020	05/10/2020	10:27	BB	BuB	https://youtu.be/yfySK7CLEEg	The National 	Bloodbuzz Ohio (Official Video)		
@@ -679,7 +679,7 @@ Zkia	Urtea	Data	Ordua	Igorlea	Izena	URL	Artista	Abestia
 678	2023	07/08/2023	22:01	BB	BuB	https://youtu.be/ov4Pb5VRUUA	Miya Folick	Drugs or People		
 679	2023	10/08/2023	23:11	LG	LGE	https://youtu.be/DqoLMGSBGYc	Tracy Chapman 	Baby Can I Hold You (Official Music Video)		
 680	2023	14/08/2023	23:59	BB	BuB	https://youtu.be/Icsuuua0wAI	Belle & Sebastian 	The State I Am In (subtitulos español)		
-681	2023	14/08/2023	23:59	BB	BuB	https://youtu.be/cri3uRvrf3A	We Rule The School 	Belle & Sebastian (Subtítulos en Español)		
+681	2023	14/08/2023	23:59	BB	BuB	https://youtu.be/cri3uRvrf3A	We Rule The School 	Belle & Sebastian	
 682	2023	17/08/2023	22:31	LG	LGE	https://youtu.be/YQejOXt3E5Q	Codeine 	Cave		
 683	2023	20/08/2023	22:01	LG	LGE	https://youtu.be/oIIxlgcuQRU	Yeah Yeah Yeahs 	Maps (Official Music Video)		
 684	2023	21/08/2023	22:15	BB	BuB	https://youtu.be/VSWueGGJEFY	Saleka	Somewhere in the Wild		
