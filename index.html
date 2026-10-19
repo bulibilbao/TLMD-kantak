@@ -27,20 +27,22 @@ body{min-height:100vh;min-height:100dvh}
 #cover{position:relative;width:100%;min-height:100vh;min-height:100dvh;display:flex;align-items:center;justify-content:center;text-align:center;border:0;background:radial-gradient(ellipse at center,#17233a 0%,#0b1020 68%);color:#fff;cursor:pointer;-webkit-tap-highlight-color:transparent;padding:28px 18px}
 #cover:focus-visible{outline:3px solid #a8f06a;outline-offset:-8px}
 .center{display:flex;flex-direction:column;align-items:center;transform:translateY(-1vh)}
+.project-title{font-size:clamp(13px,3.5vw,18px);font-weight:400;line-height:1.2;letter-spacing:.045em;color:#b9c1d0;white-space:nowrap;margin:0 0 12px}
+.presents{font-size:clamp(11px,3vw,14px);font-style:italic;font-weight:400;line-height:1.2;letter-spacing:.04em;color:#aeb8ca;margin:0 0 24px}
 .cover-art{display:block;width:clamp(112px,32vw,190px);height:clamp(112px,32vw,190px);object-fit:cover;border-radius:4px;margin:0 auto 24px;box-shadow:0 14px 42px #0006}
 .title{font-size:clamp(42px,12vw,82px);font-weight:900;letter-spacing:.12em;line-height:1}
-.cover-subtitle{margin-top:10px;font-size:12px;font-weight:400;letter-spacing:.04em;color:#aeb8ca;line-height:1.4}
-.tagline{margin-top:20px;font-size:clamp(13px,3.5vw,18px);font-weight:400;line-height:1.8;letter-spacing:.045em;text-transform:lowercase;color:#e5e9f0}
+.cover-subtitle{margin-top:10px;font-size:14px;font-weight:400;letter-spacing:.04em;color:#aeb8ca;line-height:1.4}
 .signature{position:absolute;left:16px;right:16px;bottom:max(22px,env(safe-area-inset-bottom));font-size:12px;letter-spacing:.08em;color:#aeb8ca}
 </style>
 </head>
 <body>
 <button id="cover" type="button" aria-label="TLMD kantak ireki">
   <span class="center">
+    <span class="project-title">The Little Man Drifting</span>
+    <span class="presents">presents:</span>
     <img class="cover-art" src="portada.jpg" alt="Portada de TLMD">
     <span class="title">TLMD</span>
-    <span class="cover-subtitle">Harreman baten soinu banda</span>
-    <span class="tagline">good wine<br>good music<br>...and better company</span>
+    <span class="cover-subtitle">harreman baten soinu banda</span>
   </span>
   <span class="signature">Buli 2026/11/20</span>
 </button>
