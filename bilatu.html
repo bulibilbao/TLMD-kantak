@@ -5,8 +5,7 @@ body{margin:0;background:radial-gradient(ellipse at top,#17233a 0%,var(--bg) 58%
 .wrap{width:min(100% - 28px,1050px);margin:0 auto}
 header{padding:32px 0 22px;border-bottom:1px solid var(--line)}
 .brand{display:flex;align-items:center;gap:13px}.logo{display:block;width:46px;height:46px;flex:0 0 46px;object-fit:cover;border-radius:12px;box-shadow:0 8px 30px #0003}
-.brand>div{display:flex;flex-direction:column;gap:1px;min-width:0}
-h1{margin:0;font-size:clamp(27px,5vw,39px);letter-spacing:-1.2px;font-weight:850;line-height:1.05}.subtitle{margin:0;padding-left:1ch;color:var(--muted);font-size:14px;line-height:1.2}
+h1{margin:0;font-size:clamp(27px,5vw,39px);letter-spacing:-1.2px;font-weight:850}.subtitle{margin:5px 0 0;color:var(--muted);font-size:14px}
 main{padding:22px 0 46px}.section-title{font-size:17px;margin:0 0 12px;letter-spacing:-.2px}
 .player-panel{display:grid;grid-template-columns:minmax(0,1.25fr) minmax(240px,.75fr);gap:16px;padding:16px;border:1px solid var(--line);border-radius:20px;background:linear-gradient(135deg,#18243a,#101726);box-shadow:0 18px 55px #0003;margin-bottom:22px}
 .video-wrap{aspect-ratio:16/9;background:#05070c;border-radius:13px;overflow:hidden;position:relative}
@@ -78,7 +77,7 @@ footer{border-top:1px solid var(--line);padding:28px 0 34px;color:var(--muted);f
 </style></head><body><div id="access-gate" role="dialog" aria-modal="true" aria-labelledby="gate-title">
   <form class="gate-card" id="gate-form">
     <div class="gate-mark">TLMD · SARBIDEA</div><h2 id="gate-title">Pasahitza?</h2>
-    <p>harreman baten soinu bandak ate txiki bat dauka. Sartu pasahitza barrura sartzeko.</p>
+    <p>Harreman baten soinu bandak ate txiki bat dauka. Sartu pasahitza barrura sartzeko.</p>
     <input id="gate-password" type="password" autocomplete="current-password" placeholder="Pasahitza" aria-label="Pasahitza" required>
     <label class="gate-remember"><input id="gate-remember" type="checkbox" checked> Gogoratu nabigatzaile honetan</label>
     <button id="gate-submit" type="submit">Sartu</button><div id="gate-error" role="alert"></div>
