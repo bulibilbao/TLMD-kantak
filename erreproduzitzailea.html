@@ -5,8 +5,7 @@ body{margin:0;background:radial-gradient(ellipse at top,#17233a 0%,var(--bg) 58%
 .wrap{width:min(100% - 28px,1050px);margin:0 auto}
 header{padding:32px 0 22px;border-bottom:1px solid var(--line)}
 .brand{display:flex;align-items:center;gap:13px}.logo{display:block;width:46px;height:46px;flex:0 0 46px;object-fit:cover;border-radius:12px;box-shadow:0 8px 30px #0003}
-.brand>div{display:flex;flex-direction:column;gap:1px;min-width:0}
-h1{margin:0;font-size:clamp(27px,5vw,39px);letter-spacing:-1.2px;font-weight:850;line-height:1.05}.subtitle{margin:0;padding-left:1ch;color:var(--muted);font-size:14px;line-height:1.2}
+h1{margin:0;font-size:clamp(27px,5vw,39px);letter-spacing:-1.2px;font-weight:850}.subtitle{margin:5px 0 0;color:var(--muted);font-size:14px}
 main{padding:22px 0 46px}.section-title{font-size:17px;margin:0 0 12px;letter-spacing:-.2px}
 .player-panel{display:grid;grid-template-columns:minmax(0,1.25fr) minmax(240px,.75fr);gap:16px;padding:16px;border:1px solid var(--line);border-radius:20px;background:linear-gradient(135deg,#18243a,#101726);box-shadow:0 18px 55px #0003;margin-bottom:22px}
 .video-wrap{aspect-ratio:16/9;background:#05070c;border-radius:13px;overflow:hidden;position:relative}
@@ -52,41 +51,43 @@ footer{border-top:1px solid var(--line);padding:18px 0 28px;color:var(--muted);f
 .back-link{display:inline-flex;align-items:center;gap:6px;text-decoration:none;border:1px solid var(--line);border-radius:11px;padding:9px 12px;color:var(--text);background:var(--panel2);font-weight:750;font-size:13px}
 .search-page-heading{display:flex;justify-content:space-between;align-items:center;gap:12px;flex-wrap:wrap;margin-bottom:12px}
 @media(max-width:540px){.page-actions{display:grid;grid-template-columns:1fr 1fr;width:100%}.page-actions button{width:100%}}
-
-#access-gate{position:fixed;inset:0;z-index:100000;display:none;align-items:center;justify-content:center;padding:24px;background:#070b14ed;backdrop-filter:blur(10px)}
-#access-gate.open{display:flex}
-.gate-card{width:min(100%,360px);padding:28px 24px;border:1px solid #2a3650;border-radius:20px;background:#111a2b;box-shadow:0 24px 80px #0008;text-align:left;color:#fff;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif}
-.gate-mark{font-size:11px;letter-spacing:.18em;color:#a8f06a;font-weight:800;margin:0 0 10px}
-.gate-card h2{font-size:25px;margin:0 0 7px;letter-spacing:-.5px;color:#fff}
-.gate-card p{font-size:13px;line-height:1.5;color:#aeb8ca;margin:0 0 19px}
-#gate-password{width:100%;padding:13px 14px;border:1px solid #394762;border-radius:10px;background:#0b1020;color:#fff;font:inherit;font-size:16px;outline:none}
-#gate-password:focus{border-color:#a8f06a;box-shadow:0 0 0 3px #a8f06a22}
-.gate-remember{display:flex;align-items:center;gap:9px;margin:14px 0 18px;color:#cbd3e1;font-size:13px}
-.gate-remember input{accent-color:#a8f06a;width:16px;height:16px}
-#gate-submit{width:100%;border:0;border-radius:10px;padding:12px;background:#a8f06a;color:#101827;font:inherit;font-weight:850;cursor:pointer}
-#gate-error{min-height:18px;color:#ffb6b6;font-size:12px;margin:10px 0 0}
-</style></head><body><div id="access-gate" role="dialog" aria-modal="true" aria-labelledby="gate-title">
-  <form class="gate-card" id="gate-form">
-    <div class="gate-mark">TLMD · SARBIDEA</div><h2 id="gate-title">Pasahitza?</h2>
-    <p>Harreman baten soinu bandak ate txiki bat dauka. Sartu pasahitza barrura sartzeko.</p>
-    <input id="gate-password" type="password" autocomplete="current-password" placeholder="Pasahitza" aria-label="Pasahitza" required>
-    <label class="gate-remember"><input id="gate-remember" type="checkbox" checked> Gogoratu nabigatzaile honetan</label>
-    <button id="gate-submit" type="submit">Sartu</button><div id="gate-error" role="alert"></div>
-  </form>
-</div>
-<script>
-(()=>{
- const PASSWORD='telemando', gate=document.getElementById('access-gate'), form=document.getElementById('gate-form'), input=document.getElementById('gate-password'), error=document.getElementById('gate-error');
- let ok=false; try{ok=localStorage.getItem('tlmd_access')==='1'||sessionStorage.getItem('tlmd_access')==='1'}catch(e){}
- if(!ok){gate.classList.add('open');document.documentElement.style.overflow='hidden';setTimeout(()=>input.focus(),100)}
- form.addEventListener('submit',e=>{e.preventDefault();if(input.value!==PASSWORD){error.textContent='Ez da pasahitz zuzena. Saiatu berriro.';input.select();return}
-  try{if(document.getElementById('gate-remember').checked){localStorage.setItem('tlmd_access','1');sessionStorage.removeItem('tlmd_access')}else{sessionStorage.setItem('tlmd_access','1');localStorage.removeItem('tlmd_access')}}catch(e){}
-  gate.classList.remove('open');document.documentElement.style.overflow='';
- });
-})();
-</script><header><div class="wrap brand"><img class="logo" src="portada.jpg" alt=""><div><h1>TLMD kantak</h1><p class="subtitle">harreman baten soinu banda</p></div></div></header><main class="wrap"><section class="player-panel" aria-label="Musika erreproduzitzailea">
+</style><script>(()=>{try{if(localStorage.getItem('tlmd_access')!=='1'&&sessionStorage.getItem('tlmd_access')!=='1'){location.replace('index.html?auth=1')}}catch(e){location.replace('index.html?auth=1')}})();</script></head><body><header><div class="wrap brand"><img class="logo" src="portada.jpg" alt=""><div><h1>TLMD kantak</h1><p class="subtitle">Harreman baten soinu banda</p></div></div></header><main class="wrap"><section class="player-panel" aria-label="Musika erreproduzitzailea">
   <div class="video-wrap"><div id="player"></div><div id="player-placeholder" class="player-placeholder"><div><span class="big-note">♫</span><strong>Aukeratu kanta bat</strong><br><span>eta hasi gure soinu banda entzuten</span></div></div></div>
   <div class="player-side">
     <p class="now-label">Orain entzuten</p><h2 id="now-title">Oraindik ez dago kantarik</h2><div id="now-meta-line"><p id="now-artist">Gehitu abestiak ilarara</p><p id="now-date-sender"></p></div>
     <div class="controls">
       <div class="transport-controls">
+        <button id="prev" aria-label="Aurreko kanta" title="Aurreko kanta" disabled>|◀</button><button id="playpause" class="primary" aria-label="Erreproduzitu" title="Erreproduzitu" disabled></button><button id="next" aria-label="Hurrengo kanta" title="Hurrengo kanta" disabled>▶|</button>
+      </div>
+      <div class="page-actions"><button id="shuffle" class="random-button" type="button">+ 10</button><button id="search-page" class="random-button" type="button">Bilatu</button></div>
+    </div>
+    <p class="subtle" id="player-status" role="status">YouTubeko erreprodukzioa hemen agertuko da.</p>
+    <div class="queue-box"><div class="queue-heading"><strong>🎶 Erreprodukzio-ilara (<span id="queue-count">0</span>)</strong><button id="clear-queue" type="button">Ilara hustu</button></div><ol id="queue"></ol></div>
+  </div>
+</section></main><footer><div class="wrap">TLMD kantak · soinu banda</div></footer><script>const DATA_FILE="kantak.txt";
+function norm(v){return String(v??"").normalize("NFD").replace(/[\u0300-\u036f]/g,"").toLocaleLowerCase("eu").trim()}
+function parseDate(v){const m=String(v??"").trim().match(/^(\d{1,2})\/(\d{1,2})\/(\d{4})$/);if(!m)return null;const d=Number(m[1]),mo=Number(m[2]),y=Number(m[3]),dt=new Date(Date.UTC(y,mo-1,d));return dt.getUTCFullYear()===y&&dt.getUTCMonth()===mo-1&&dt.getUTCDate()===d?dt:null}
+function parseTsv(text){const lines=text.replace(/^\uFEFF/,"").split(/\r?\n/).filter(x=>x.trim()!=="");if(lines.length<2)throw Error("Fitxategia hutsik dago edo goiburuak bakarrik ditu.");const headers=lines[0].split("\t").map(norm),idx=n=>headers.indexOf(norm(n)),required=["Data","Ordua","Izena","URL","Artista","Abestia"],missing=required.filter(n=>idx(n)<0);if(missing.length)throw Error("Ez ditut zutabe hauek aurkitu: "+missing.join(", ")+". Egiaztatu goiburuak eta tabuladoreak.");return lines.slice(1).map((line,i)=>{const c=line.split("\t"),get=n=>(c[idx(n)]??"").trim(),date=parseDate(get("Data")),artist=get("Artista"),song=get("Abestia");if(!artist&&!song)return null;return{id:get("Zkia")||String(i+1),year:get("Urtea")||(date?String(date.getUTCFullYear()):""),dateText:get("Data"),date:date?date.toISOString():null,time:get("Ordua"),sender:get("Izena"),url:get("URL"),artist,song,videoId:extractVideoId(get("URL"))}}).filter(Boolean)}
+function extractVideoId(raw){try{const u=new URL(raw);if(u.hostname.includes("youtu.be"))return u.pathname.split("/").filter(Boolean)[0]||null;if(u.hostname.includes("youtube.com")||u.hostname.includes("youtube-nocookie.com")){if(u.searchParams.get("v"))return u.searchParams.get("v");const p=u.pathname.split("/").filter(Boolean),i=p.findIndex(x=>["embed","shorts","live","v"].includes(x));if(i>=0&&p[i+1])return p[i+1]}}catch{}return null}
+function fill(select,values,label){select.replaceChildren(new Option(label,""));[...new Set(values.filter(Boolean))].sort((a,b)=>a.localeCompare(b,"eu",{sensitivity:"base"})).forEach(v=>select.add(new Option(v,v)))}
+
+const playerStatus=document.getElementById("player-status"),placeholder=document.getElementById("player-placeholder");
+let songs=[],queue=loadQueueState(),queueIndex=Number(localStorage.getItem("tlmd_queue_index")||0),player=null,playerReady=false,pendingVideo=null;
+function loadQueueState(){try{const q=JSON.parse(localStorage.getItem("tlmd_queue")||"[]");return Array.isArray(q)?q:[]}catch{return []}}
+function saveQueueState(){try{localStorage.setItem("tlmd_queue",JSON.stringify(queue));localStorage.setItem("tlmd_queue_index",String(queueIndex))}catch{}}
+function addToQueue(song){if(!song.videoId){playerStatus.textContent="Abesti honek ez du YouTubeko bideo-esteka erabilgarririk.";return}queue.push(song);saveQueueState();renderQueue();if(queue.length===1)playIndex(0)}
+function renderQueue(){const ol=document.getElementById("queue");ol.replaceChildren();document.getElementById("queue-count").textContent=queue.length;queue.forEach((s,i)=>{const li=document.createElement("li");li.className="queue-item"+(i===queueIndex?" active":"");li.title="Kanta hau erreproduzitu";const num=document.createElement("span");num.className="queue-num";num.textContent=(i+1)+".";const label=document.createElement("span");label.className="queue-label";label.textContent=(s.artist||"Artista ezezaguna")+" — "+(s.song||"Izenbururik gabe");li.append(num,label);li.addEventListener("click",()=>playIndex(i));ol.append(li);if(i===queueIndex)requestAnimationFrame(()=>ol.scrollTo({top:Math.max(0,li.offsetTop-ol.offsetTop),behavior:"smooth"}))});document.getElementById("prev").disabled=queue.length<2;document.getElementById("next").disabled=queue.length<2;document.getElementById("playpause").disabled=!queue.length}
+function updateNowMeta(s){document.getElementById("now-artist").textContent=s.artist||"Artista ezezaguna";document.getElementById("now-date-sender").textContent=[s.dateText,s.sender].filter(Boolean).join(" · ");}
+function playIndex(index){if(!queue.length)return;queueIndex=(index+queue.length)%queue.length;saveQueueState();const s=queue[queueIndex];document.getElementById("now-title").textContent=s.song||"Izenbururik gabe";updateNowMeta(s);placeholder.style.display="none";renderQueue();if(!s.videoId){playerStatus.textContent="Ez dago bideo ID erabilgarririk kanta honetarako.";return}if(playerReady&&player){player.loadVideoById(s.videoId);playerStatus.textContent="YouTube erreproduzitzailea prest."}else{playerStatus.textContent="YouTube erreproduzitzailea kargatzen…";pendingVideo=s.videoId;loadApi()}}
+function loadApi(){if(document.getElementById("youtube-iframe-api"))return;const tag=document.createElement("script");tag.id="youtube-iframe-api";tag.src="https://www.youtube.com/iframe_api";document.head.append(tag)}
+window.onYouTubeIframeAPIReady=function(){player=new YT.Player("player",{width:"100%",height:"100%",videoId:pendingVideo||undefined,playerVars:{playsinline:1,rel:0,origin:location.origin},events:{onReady:()=>{playerReady=true;playerStatus.textContent="Prest. Sakatu erreproduzitzeko botoia beharrezkoa bada.";if(pendingVideo)player.loadVideoById(pendingVideo)},onStateChange:e=>{if(e.data===YT.PlayerState.PLAYING)setPlayButton(true);else if(e.data===YT.PlayerState.PAUSED||e.data===YT.PlayerState.ENDED)setPlayButton(false);if(e.data===YT.PlayerState.ENDED)nextSong()},onError:()=>{playerStatus.textContent="YouTubek ezin izan du bideo hau erreproduzitu. Hurrengo kantara pasatzen…";setTimeout(nextSong,1800)}}})};
+function nextSong(){if(!queue.length)return;if(queue.length===1){playerStatus.textContent="Amaitu da kanta.";return}playIndex(queueIndex+1)}
+document.getElementById("prev").addEventListener("click",()=>playIndex(queueIndex-1));document.getElementById("next").addEventListener("click",nextSong);
+function setPlayButton(playing){const b=document.getElementById("playpause");b.classList.toggle("is-playing",playing);b.setAttribute("aria-label",playing?"Pausatu":"Erreproduzitu");b.title=playing?"Pausatu":"Erreproduzitu"}
+document.getElementById("playpause").addEventListener("click",()=>{if(!queue.length)return;if(!playerReady){playIndex(queueIndex);return}const state=player.getPlayerState();if(state===YT.PlayerState.PLAYING){player.pauseVideo();setPlayButton(false)}else{player.playVideo();setPlayButton(true)}});
+document.getElementById("shuffle").addEventListener("click",()=>{const eligible=songs.filter(s=>s.videoId);if(!eligible.length){playerStatus.textContent="Ez dago YouTube bideorik duen kantarik.";return}const pickRandom=(arr,n)=>{const pool=[...arr],out=[];while(pool.length&&out.length<n){const i=Math.floor(Math.random()*pool.length);out.push(pool.splice(i,1)[0])}return out};const already=new Set(queue.map(s=>s.id));let batch=pickRandom(eligible.filter(s=>!already.has(s.id)),10);if(batch.length<10){const picked=new Set(batch.map(s=>s.id));batch=batch.concat(pickRandom(eligible.filter(s=>!picked.has(s.id)),10-batch.length))}if(!batch.length){playerStatus.textContent="Ez dago kanta erabilgarririk.";return}const wasEmpty=queue.length===0;queue.push(...batch);saveQueueState();renderQueue();if(wasEmpty)playIndex(0);playerStatus.textContent=batch.length+" kanta ausaz gehitu dira ilararen amaieran."});
+document.getElementById("search-page").addEventListener("click",()=>{window.open("bilatu.html","_blank");});
+document.getElementById("clear-queue").addEventListener("click",()=>{if(queue.length){const currentSong=queue[queueIndex];queue=currentSong?[currentSong]:[];queueIndex=0;saveQueueState();renderQueue();playerStatus.textContent="Ilarako gainerako kantak kendu dira; unekoa mantendu dugu.";}else{queueIndex=0;saveQueueState();renderQueue();playerStatus.textContent="Ilaran ez dago kantarik.";}});
+async function start(){try{const r=await fetch(DATA_FILE,{cache:"no-store"});if(!r.ok)throw Error("Ezin izan da kantak.txt kargatu (errorea "+r.status+"). Egiaztatu fitxategia orri honen ondoan dagoela.");songs=parseTsv(await r.text());if(queue.length){queueIndex=Math.max(0,Math.min(Number(localStorage.getItem("tlmd_queue_index")||queueIndex),queue.length-1));const shouldPlay=localStorage.getItem("tlmd_play_on_load")==="1";localStorage.removeItem("tlmd_play_on_load");const s=queue[queueIndex];if(shouldPlay){playIndex(queueIndex)}else{document.getElementById("now-title").textContent=s.song||"Izenbururik gabe";updateNowMeta(s);playerStatus.textContent="Ilaratik jarraitzen dugu. Sakatu ▶ erreproduzitzen hasteko.";}}renderQueue()}catch(e){playerStatus.textContent=e.message}}
+window.addEventListener("storage",e=>{if(e.key==="tlmd_queue"){queue=loadQueueState();queueIndex=Math.max(0,Math.min(queueIndex,Math.max(0,queue.length-1)));renderQueue()}});start();
+</script></body></html>
