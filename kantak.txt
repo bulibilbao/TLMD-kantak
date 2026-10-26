@@ -1059,3 +1059,4 @@ BelZkia	Urtea	Data	Ordua	Igorlea	Izena	URL	Artista	Abestia
 1058	2026	14/10/2026	00:53	BB	BuB	https://youtu.be/_7IZxXMc_cc	A Perfect Circle	Imagine		
 1059	2026	19/10/2026	07:00	BB	BuB	https://youtu.be/Ejobes7OoGU	MJ Lenderman	On My Knees
 1060	2026	19/10/2026	07:00	BB	BuB	https://youtu.be/zbfLNPgMupI	MJ Lenderman	Wristwatch
+1061	2026	26/10/2026	06:48	BB	BuB	https://youtu.be/V9VfV9pk9No	Manic Street Preachers	People Ruin Paintings
