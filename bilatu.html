@@ -131,7 +131,32 @@ function fill(select,values,label){select.replaceChildren(new Option(label,""));
 
 const f={artist:document.getElementById("artist"),song:document.getElementById("song"),sender:document.getElementById("sender"),year:document.getElementById("year"),from:document.getElementById("from"),to:document.getElementById("to"),sort:document.getElementById("sort")};const resultsEl=document.getElementById("results"),countEl=document.getElementById("count"),statusEl=document.getElementById("status");let songs=[];
 function resultCard(s){const card=document.createElement("article");card.className="song";const main=document.createElement("div");main.className="song-main";const a=document.createElement("h3");a.className="artist";a.textContent=s.artist||"Artista ezezaguna";const t=document.createElement("p");t.className="title";t.textContent=s.song||"Izenbururik gabe";const m=document.createElement("p");m.className="meta";m.textContent=(s.dateText||"Data ezezaguna")+(s.time?" · "+s.time:"")+(s.sender?" · "+s.sender:"");main.append(a,t,m);card.append(main);const actions=document.createElement("div");actions.className="song-actions";const add=document.createElement("button");add.className="add";add.type="button";add.textContent="+";add.title="Ilarara gehitu";add.setAttribute("aria-label","Ilarara gehitu");add.disabled=!s.videoId;add.addEventListener("click",()=>addToPersistentQueue(s,false));actions.append(add);if(s.videoId){const l=document.createElement("button");l.type="button";l.className="play-now";l.textContent="▶";l.title="Orain entzun";l.setAttribute("aria-label","Orain entzun");l.addEventListener("click",()=>addToPersistentQueue(s,true));actions.append(l)}const tg=document.createElement("button");tg.type="button";tg.className="telegram";tg.innerHTML='<svg viewBox="0 0 40 40" role="img" aria-label="Telegram"><circle cx="20" cy="20" r="19" fill="#229ED9"/><path d="M8.5 19.1 29.8 10.9c1-.36 1.86.25 1.54 1.68l-3.62 17.05c-.27 1.21-.98 1.51-1.97.94l-5.42-3.99-2.62 2.52c-.29.29-.53.53-1.09.53l.39-5.5 10.03-9.06c.44-.39-.09-.6-.68-.21L12.78 23.4l-5.32-1.67c-1.16-.36-1.18-1.16.24-1.74z" fill="#fff"/></svg>';tg.title="Telegramen txata ireki kanta honen datarako";tg.setAttribute("aria-label","Telegram ireki");tg.addEventListener("click",()=>openTelegram(s));actions.append(tg);card.append(actions);return card}
-function addToPersistentQueue(song,playNow){if(!song.videoId){statusEl.textContent="Abesti honek ez du YouTubeko bideo-esteka erabilgarririk.";return}let q=[];try{q=JSON.parse(localStorage.getItem("tlmd_queue")||"[]")}catch{}if(!Array.isArray(q))q=[];q.push(song);localStorage.setItem("tlmd_queue",JSON.stringify(q));if(playNow){localStorage.setItem("tlmd_queue_index",String(q.length-1));localStorage.setItem("tlmd_play_on_load","1");location.href="erreproduzitzailea.html"}else statusEl.textContent="Kanta ilarara gehitu da. Ilaran guztira: "+q.length}
+function addToPersistentQueue(song,playNow){
+ if(!song.videoId){statusEl.textContent="Abesti honek ez du YouTubeko bideo-esteka erabilgarririk.";return}
+ let q=[];try{q=JSON.parse(localStorage.getItem("tlmd_queue")||"[]")}catch{}
+ if(!Array.isArray(q))q=[];
+ q.push(song);localStorage.setItem("tlmd_queue",JSON.stringify(q));
+ if(playNow){
+  localStorage.setItem("tlmd_queue_index",String(q.length-1));
+  localStorage.setItem("tlmd_play_on_load","1");
+  const playerUrl=new URL("erreproduzitzailea.html",location.href).href;
+  // Bilatzailea erreproduzitzailetik window.open bidez ireki denez,
+  // lehendik dagoen leiho hori berrerabili: nabigatzeak aurreko audioa
+  // gelditzen du eta ez du bigarren erreproduzitzailerik sortzen.
+  if(window.opener&&!window.opener.closed){
+   try{
+    window.opener.location.replace(playerUrl);
+    window.close();
+    return;
+   }catch(e){
+    statusEl.textContent="Ezin izan dut aurreko erreproduzitzailea berrabiarazi. Itxi bilaketa-leihoa eta saiatu berriro.";
+    return;
+   }
+  }
+  // Opener-ik ez badago, bilaketa-leihoa bera bihurtu erreproduzitzaile.
+  location.replace(playerUrl);
+ }else statusEl.textContent="Kanta ilarara gehitu da. Ilaran guztira: "+q.length
+}
 function openTelegram(song){const key="tlmd_telegram_phone";let phone=localStorage.getItem(key)||"";if(!phone){phone=prompt("Sartu beste pertsonaren Telegram telefono-zenbakia nazioarteko formatuan (adib. +34 600 000 000). Zenbakia nabigatzaile honetan gordeko da.","");if(phone===null)return;phone=phone.trim()}const digits=phone.replace(/[^0-9]/g,"");if(digits.length<7||digits.length>15){alert("Telefono-zenbakia ez dirudi zuzena. Erabili nazioarteko formatua, herrialde-kodearekin (adib. +34...).");return}localStorage.setItem(key,digits);const url="https://t.me/+"+digits;const confirmed=confirm("Telegram irekiko da. Bilatu egun hau elkarrizketan: "+(song.dateText||"data ezezaguna")+".\n\nKanta: "+(song.artist||"")+" — "+(song.song||"")+"\n\nKontuan izan: Telegramen data eskuz bilatu beharko duzu.");if(confirmed)window.open(url,"_blank","noopener,noreferrer")}
 function render(){const aq=norm(f.artist.value),sq=norm(f.song.value),sender=f.sender.value,year=f.year.value,from=f.from.value?new Date(f.from.value+"T00:00:00Z"):null,to=f.to.value?new Date(f.to.value+"T23:59:59Z"):null;let list=songs.filter(s=>(!aq||norm(s.artist).includes(aq))&&(!sq||norm(s.song).includes(sq))&&(!sender||s.sender===sender)&&(!year||s.year===year)&&(!from||(s.date&&new Date(s.date)>=from))&&(!to||(s.date&&new Date(s.date)<=to)));const ts=s=>s.date?new Date(s.date).getTime():0;switch(f.sort.value){case"oldest":list.sort((a,b)=>ts(a)-ts(b)||(a.time||"").localeCompare(b.time||""));break;case"artist":list.sort((a,b)=>a.artist.localeCompare(b.artist,"eu",{sensitivity:"base"})||a.song.localeCompare(b.song,"eu",{sensitivity:"base"}));break;case"song":list.sort((a,b)=>a.song.localeCompare(b.song,"eu",{sensitivity:"base"}));break;default:list.sort((a,b)=>ts(b)-ts(a)||(b.time||"").localeCompare(a.time||""))}countEl.textContent=list.length+(list.length===1?" abesti aurkitu da":" abesti aurkitu dira");resultsEl.replaceChildren();if(!list.length){const e=document.createElement("div");e.className="empty";e.textContent="Ez da bat datorren abestirik aurkitu. Aldatu bilaketa edo garbitu iragazkiak.";resultsEl.append(e);return}const frag=document.createDocumentFragment();list.forEach(s=>frag.append(resultCard(s)));resultsEl.append(frag)}
 function clearFilters(){f.artist.value="";f.song.value="";f.sender.value="";f.year.value="";f.from.value="";f.to.value="";f.sort.value="newest";render()}Object.values(f).forEach(el=>{el.addEventListener("input",render);el.addEventListener("change",render)});document.getElementById("clear").addEventListener("click",clearFilters);
