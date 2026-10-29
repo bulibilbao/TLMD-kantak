@@ -38,7 +38,7 @@ body{min-height:100vh;min-height:100dvh}
 <body>
 <button id="cover" type="button" aria-label="TLMD kantak ireki">
   <span class="center">
-    <span class="project-title">The Little Man Dissapearing</span>
+    <span class="project-title" id="random-title">The Little Man Drifting</span>
     <span class="presents">presents:</span>
     <img class="cover-art" src="portada.jpg" alt="Portada de TLMD">
     <span class="title">TLMD</span>
@@ -59,6 +59,15 @@ body{min-height:100vh;min-height:100dvh}
 </div>
 <script>
 (()=>{
+  const words = [
+    'Dallying', 'Dawdling', 'Decomposing', 'Defecting', 'Deleting',
+    'Departing', 'Descending', 'Deserting', 'Detaching', 'Detouring',
+    'Disappearing', 'Disbanding', 'Disintegrating', 'Dispersing',
+    'Displacing', 'Dissipating', 'Dissolving', 'Distancing', 'Drifting', 'Dwindling'
+  ];
+  const randomWord = words[Math.floor(Math.random() * words.length)];
+  document.getElementById('random-title').textContent = 'The Little Man ' + randomWord;
+
   const PASSWORD='telemando';
   const gate=document.getElementById('access-gate');
   const form=document.getElementById('gate-form');
