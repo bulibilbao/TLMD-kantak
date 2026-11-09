@@ -1,4 +1,4 @@
-BelZkia	Urtea	Data	Ordua	Igorlea	Izena	URL	Artista	Abestia		
+Zkia	Urtea	Data	Ordua	Igorlea	Izena	URL	Artista	Abestia		
 1	2020	21/09/2020	23:43	BB	BuB	https://m.youtube.com/watch?v=Vz82ukiUmw0	Nathaniel Rateliff 	You Need Me (Official Audio)		
 2	2020	01/10/2020	23:20	LG	LGE	https://youtu.be/gGGEIbgKQNM	Jurgi Ekiza	Gau eta Egunen Erritmoan		
 3	2020	05/10/2020	10:27	BB	BuB	https://youtu.be/yfySK7CLEEg	The National 	Bloodbuzz Ohio (Official Video)		
@@ -678,8 +678,8 @@ BelZkia	Urtea	Data	Ordua	Igorlea	Izena	URL	Artista	Abestia
 677	2023	07/08/2023	21:59	BB	BuB	https://youtu.be/hvo3vl5sYNU	Miya Folick 	Nothing To See (Live at Public Records)		
 678	2023	07/08/2023	22:01	BB	BuB	https://youtu.be/ov4Pb5VRUUA	Miya Folick	Drugs or People		
 679	2023	10/08/2023	23:11	LG	LGE	https://youtu.be/DqoLMGSBGYc	Tracy Chapman 	Baby Can I Hold You (Official Music Video)		
-680	2023	14/08/2023	23:59	BB	BuB	https://youtu.be/Icsuuua0wAI	Belle & Sebastian 	The State I Am In (subtitulos español)		
-681	2023	14/08/2023	23:59	BB	BuB	https://youtu.be/Jmk3ej_c3J4	We Rule The School 	Belle & Sebastian	
+680	2023	14/08/2023	23:59	BB	BuB	https://youtu.be/Icsuuua0wAI	Belle & Sebastian	The State I Am In	
+681	2023	14/08/2023	23:59	BB	BuB	https://youtu.be/Jmk3ej_c3J4	Belle & Sebastian	We Rule The School 	
 682	2023	17/08/2023	22:31	LG	LGE	https://youtu.be/YQejOXt3E5Q	Codeine 	Cave		
 683	2023	20/08/2023	22:01	LG	LGE	https://youtu.be/oIIxlgcuQRU	Yeah Yeah Yeahs 	Maps (Official Music Video)		
 684	2023	21/08/2023	22:15	BB	BuB	https://youtu.be/VSWueGGJEFY	Saleka	Somewhere in the Wild		
@@ -704,7 +704,7 @@ BelZkia	Urtea	Data	Ordua	Igorlea	Izena	URL	Artista	Abestia
 703	2023	26/09/2023	23:46	BB	BuB	https://youtu.be/H4iksb1HG9E	Patti Smith	Redondo Beach		
 704	2023	28/09/2023	23:15	LG	LGE	https://youtu.be/rEXhAMtbaec?si=bs3OAoYKp-13KBsi	Sara Bareilles 	Gravity (Official HD Video)		
 705	2023	28/09/2023	23:17	LG	LGE	https://youtu.be/Ht2NCrlghS4?si=_iBjx6dF9Lf3__-L	Sara Bareilles 	A Safe Place to Land (Live at the Village) ft. John Legend		
-706	2023	02/10/2023	23:02	BB	BuB	https://youtu.be/lFni9GII-PE	The Strokes 	Under Control		
+706	2023	02/10/2023	23:02	BB	BuB	https://youtu.be/lFni9GII-PE	The Strokes	Under Control		
 707	2023	05/10/2023	22:42	LG	LGE	https://youtu.be/w-SW65xO3s0?list=RDw-SW65xO3s0	Zea mays	Zu		
 708	2023	09/10/2023	22:27	BB	BuB	https://youtu.be/6Ekq19HIb_E	Counting Crows	Sullivan Street		
 709	2023	12/10/2023	00:15	BB	BuB	https://youtu.be/jL7kHC432XE	Eddie Vedder 	Guaranteed (OFFICIAL VIDEO)		
@@ -982,7 +982,7 @@ BelZkia	Urtea	Data	Ordua	Igorlea	Izena	URL	Artista	Abestia
 981	2025	27/10/2025	23:53	BB	BuB	https://music.youtube.com/watch?v=fpIHEHs-zck	Geese	Au Pays du Cocaine		
 982	2025	03/11/2025	22:19	BB	BuB	https://youtu.be/5JIb6POIc-E	Gorka Urbizu 	Diamantea (bideoklip ofiziala 		
 983	2025	10/11/2025	22:34	BB	BuB	https://youtu.be/RC9ZXpI-_JU	Kings of Leon	The Wolf (Visualizer)		
-984	2025	17/11/2025	21:57	BB	BuB	https://youtu.be/7ejQ_CL_dWA	El Mató a un Policía Motorizado 	Más o Menos Bien (Official Music Video)		
+984	2025	17/11/2025	21:57	BB	BuB	https://youtu.be/7ejQ_CL_dWA	El Mató a un Policía Motorizado 	Más o Menos Bien (Official Music Video)		
 985	2025	24/11/2025	22:18	BB	BuB	https://youtu.be/fhkp_TNJfhA	Sharp Pins 	(I Wanna) Be Your Girl		
 986	2025	27/11/2025	00:08	BB	BuB	https://youtu.be/-CZq6PTaStA	Medium Build 	Balance (Lyric Video)		
 987	2025	01/12/2025	07:18	BB	BuB	https://youtu.be/UelDrZ1aFeY?list=RDUelDrZ1aFeY	The Beatles	Something		
@@ -1056,9 +1056,9 @@ BelZkia	Urtea	Data	Ordua	Igorlea	Izena	URL	Artista	Abestia
 1055	2026	05/10/2026	07:10	BB	BuB	https://youtu.be/Bb7YN5wQztk	Kings of Leon	My Whole World		
 1056	2026	12/10/2026	07:35	BB	BuB	https://youtu.be/Hdx0uQR_Sro	Westside Cowboy	Kick Stones (The Boys)		
 1057	2026	12/10/2026	07:36	BB	BuB	https://youtu.be/v3xmA92kAgE	Westside Cowboy	Worried Age		
-1058	2026	14/10/2026	00:53	BB	BuB	https://youtu.be/_7IZxXMc_cc	A Perfect Circle	Imagine		
+1058	2026	14/10/2026	00:53	BB	BuB	https://youtu.be/_7IZxXMc_cc	A Perfect Circle	Imagine
 1059	2026	19/10/2026	07:00	BB	BuB	https://youtu.be/Ejobes7OoGU	MJ Lenderman	On My Knees
-1060	2026	19/10/2026	07:00	BB	BuB	https://youtu.be/zbfLNPgMupI	MJ Lenderman  Wristwatch
+1060	2026	19/10/2026	07:00	BB	BuB	https://youtu.be/zbfLNPgMupI	MJ Lenderman	Wristwatch
 1061	2026	26/10/2026	06:48	BB	BuB	https://youtu.be/V9VfV9pk9No	Manic Street Preachers	People Ruin Paintings
-1062	2026	02/11/2026	07:17	BB	BuB	https://youtu.be/xxw3vCHbVhU  Tom Waits	Goin' Down Slow
-1063	2026	09/11/2026	07:44	BB	BuB	https://youtu.be/ESkW4x7H8mc  The Real People  Open Up Your Mind (Let Me In)
+1062	2026	02/11/2026	07:17	BB	BuB	https://youtu.be/V9VfV9pk9No	Tom Waits	Goin' Down Slow
+1063	2026	09/11/2026	07:44	BB	BuB	https://youtu.be/ESkW4x7H8mc	The Real People	Open Up Your Mind (Let Me In)
