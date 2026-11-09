@@ -1058,6 +1058,7 @@ BelZkia	Urtea	Data	Ordua	Igorlea	Izena	URL	Artista	Abestia
 1057	2026	12/10/2026	07:36	BB	BuB	https://youtu.be/v3xmA92kAgE	Westside Cowboy	Worried Age		
 1058	2026	14/10/2026	00:53	BB	BuB	https://youtu.be/_7IZxXMc_cc	A Perfect Circle	Imagine		
 1059	2026	19/10/2026	07:00	BB	BuB	https://youtu.be/Ejobes7OoGU	MJ Lenderman	On My Knees
-1060	2026	19/10/2026	07:00	BB	BuB	https://youtu.be/zbfLNPgMupI	MJ Lenderman	Wristwatch
+1060	2026	19/10/2026	07:00	BB	BuB	https://youtu.be/zbfLNPgMupI	MJ Lenderman  Wristwatch
 1061	2026	26/10/2026	06:48	BB	BuB	https://youtu.be/V9VfV9pk9No	Manic Street Preachers	People Ruin Paintings
 1062	2026	02/11/2026	07:17	BB	BuB	https://youtu.be/xxw3vCHbVhU	Tom Waits	Goin' Down Slow
+1063	2026	09/11/2026	07:44	BB	BuB	https://youtu.be/ESkW4x7H8mc	The Real People  Open Up Your Mind (Let Me In)
