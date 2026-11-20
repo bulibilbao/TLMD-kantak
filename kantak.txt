@@ -149,7 +149,7 @@ Zkia	Urtea	Data	Ordua	Igorlea	Izena	URL	Artista	Abestia
 148	2021	05/07/2021	21:43	BB	BuB	https://youtu.be/V_UR61itZxo	Heatmiser	Plainclothes Man		
 149	2021	05/07/2021	21:45	BB	BuB	https://youtu.be/tCJsO-vBa_0	Heatmiser	Half Right		
 150	2021	08/07/2021	22:24	LG	LGE	https://youtu.be/wxAaf16xXRk	Songs: Ohia	Lioness		
-151	2021	09/07/2021	23:41	BB	BuB	https://m.youtube.com/watch?v=WPpDyIJdasgp	Deftones 	Change (In The House Of Flies) [Official Music Video]		
+151	2021	09/07/2021	23:41	BB	BuB	https://youtu.be/WPpDyIJdasg	Deftones 	Change (In The House Of Flies) [Official Music Video]		
 152	2021	12/07/2021	22:44	BB	BuB	https://youtu.be/Soa3gO7tL-c	Green Day 	Boulevard Of Broken Dreams [Official Music Video] [4K Upgrade]		
 153	2021	12/07/2021	22:45	BB	BuB	https://youtu.be/CnQ8N1KacJc	Green Day 	Good Riddance (Time of Your Life) [Official Music Video] [4K UPGRADE]		
 154	2021	15/07/2021	22:10	LG	LGE	https://youtu.be/8Uzo70MllVM	Madeleine 	Inoiz lehortuko da | Dilindan Live Session		
