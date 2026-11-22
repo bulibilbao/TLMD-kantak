@@ -534,12 +534,12 @@ Zkia	Urtea	Data	Ordua	Igorlea	Izena	URL	Artista	Abestia
 533	2023	05/01/2023	22:28	LG	LGE	https://youtu.be/vCqgK5cT_7I	Phil Lynott 	Dear miss lonely hearts		
 534	2023	06/01/2023	23:14	BB	BuB	https://youtu.be/dBWFUVq85gs	Jack Johnson 	I Got You (Official Video)		
 535	2023	06/01/2023	23:45	BB	BuB	https://youtu.be/8CVuZOH7b0Y	jack johnson	brushfire fairytales		
-536	2023	07/01/2023	22:11	BB	BuB	https://youtu.be/9EKi2E9dVY8	Alice In Chains 	Nutshell (MTV Unplugged 		
+536	2023	07/01/2023	22:11	BB	BuB	https://youtu.be/9EKi2E9dVY8	Alice In Chains  Nutshell (MTV Unplugged 		
 537	2023	08/01/2023	23:45	BB	BuB	https://youtu.be/vZCMgm6Z-8M	Pearl Jam	Indifference (Remastered)		
 538	2023	09/01/2023	22:07	BB	BuB	https://youtu.be/jonnFVv5z5U	eGGs 	A Certain Smile		
 539	2023	09/01/2023	22:13	BB	BuB	https://music.apple.com/es/album/guess-what/1510948529?i=1510948532	0			
-540	2023	11/01/2023	19:58	BB	BuB	https://youtu.be/U7k2qv8KTDI	Red Hot Chili Peppers			
-541	2023	12/01/2023	22:11	LG	LGE	https://youtu.be/6XiiX5aFTFM?list=RD6XiiX5aFTFM	Anari	Orfidentalak		
+540	2023	11/01/2023	19:58	BB	BuB	https://youtu.be/U7k2qv8KTDI	Red Hot Chili Peppers  Scar Tissue			
+541	2023	12/01/2023	22:11	LG	LGE	https://youtu.be/6XiiX5aFTFM?list=RD6XiiX5aFTFM	Anari  Orfidentalak		
 542	2023	16/01/2023	22:16	BB	BuB	https://youtu.be/n5h0qHwNrHk	Radiohead 	Fake Plastic Trees		
 543	2023	19/01/2023	23:27	LG	LGE	https://youtu.be/Qj8OqUNeY88	Gary Clark Jr.	Bright Lights (Bing Lounge)		
 544	2023	19/01/2023	23:28	LG	LGE	https://youtu.be/v_fYOOEhj-s	Gary Clark Jr.	Live at The Surf Lodge		
